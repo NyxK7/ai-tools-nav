@@ -13,7 +13,7 @@ def card(t,sc=None):
     tags=[AV[av(t)],t["pricing"]]+([sc] if sc else [])+([f"★ {t['stars']:,}"] if t.get("stars") else [])+([sig] if sig else [])
     new='<span class="new">新收录</span>' if t.get("new") else ""
     return (f'<li class="card" data-k="{E((t["name"]+" "+t["desc"]).lower())}"><h3><a href="{E(t["url"])}" target="_blank" rel="noopener">{E(t["name"])}</a>{new}</h3>'
-            f'<p>{E(t["desc"])}</p><span class="tag{" intl" if av(t)=="intl" else ""}">{E(" · ".join(tags))}</span></li>')
+            f'<p>{E(t["desc"])}</p></li>')
 def ld_list(name,tools):
     return {"@context":"https://schema.org","@type":"ItemList","name":name,"numberOfItems":len(tools),"itemListElement":[
       {"@type":"ListItem","position":i+1,"item":{"@type":"SoftwareApplication","name":t["name"],"url":t["url"],"description":t["desc"],
