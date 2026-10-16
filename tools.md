@@ -1,6 +1,6 @@
 # AI 工具导航 · 全部工具清单
 
-> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-10-16 02:41 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
+> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-10-16 02:42 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
 
 
 ## 写作
