@@ -5,28 +5,87 @@
    "name": "写作",
    "tools": [
     {
+     "name": "豆包",
+     "url": "https://www.doubao.com",
+     "desc": "字节跳动推出的 AI 助手，支持对话、写作、翻译与文档总结",
+     "pricing": "免费",
+     "avail": "cn"
+    },
+    {
+     "name": "通义千问（千问）",
+     "url": "https://www.qianwen.com",
+     "desc": "阿里巴巴推出的 AI 助手，支持对话、写作与长文档阅读",
+     "pricing": "免费",
+     "avail": "cn"
+    },
+    {
+     "name": "DeepSeek",
+     "url": "https://www.deepseek.com",
+     "desc": "深度求索推出的大模型与对话助手，支持深度思考模式",
+     "pricing": "免费",
+     "avail": "cn"
+    },
+    {
+     "name": "文心一言",
+     "url": "https://yiyan.baidu.com",
+     "desc": "百度推出的 AI 助手（现名文心助手），支持写作与问答",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "智谱清言",
+     "url": "https://chatglm.cn",
+     "desc": "智谱 AI 基于 GLM 模型的对话助手",
+     "pricing": "免费",
+     "avail": "cn"
+    },
+    {
+     "name": "讯飞星火",
+     "url": "https://xinghuo.xfyun.cn",
+     "desc": "科大讯飞推出的 AI 助手，支持写作、语音交互等",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "腾讯元宝",
+     "url": "https://yuanbao.tencent.com",
+     "desc": "腾讯推出的 AI 助手，可接入微信公众号内容进行搜索与问答",
+     "pricing": "免费",
+     "avail": "cn"
+    },
+    {
+     "name": "天工 AI",
+     "url": "https://www.tiangong.cn",
+     "desc": "昆仑万维推出的 AI 助手，提供搜索、写作与办公智能体",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "Kimi",
+     "url": "https://www.kimi.com",
+     "desc": "月之暗面推出的 AI 助手，支持长文档阅读与写作",
+     "pricing": "免费",
+     "github": null,
+     "new": false,
+     "avail": "cn"
+    },
+    {
      "name": "ChatGPT",
      "url": "https://chatgpt.com",
-     "desc": "通用对话助手，写作、改写、总结全能",
+     "desc": "OpenAI 推出的通用对话助手",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     },
     {
      "name": "Claude",
      "url": "https://claude.ai",
-     "desc": "长文写作与分析能力强，适合深度内容",
+     "desc": "Anthropic 推出的对话助手，支持长文本写作与分析",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
-    },
-    {
-     "name": "Kimi",
-     "url": "https://kimi.moonshot.cn",
-     "desc": "超长上下文中文助手，读文档写报告",
-     "pricing": "免费",
-     "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     },
     {
      "name": "Notion AI",
@@ -34,7 +93,8 @@
      "desc": "在笔记与知识库里直接写作和整理",
      "pricing": "付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "writing"
@@ -43,44 +103,32 @@
    "name": "编程/Vibe coding",
    "tools": [
     {
-     "name": "Cursor",
-     "url": "https://cursor.com",
-     "desc": "AI 原生代码编辑器，对话式改代码",
+     "name": "通义灵码",
+     "url": "https://lingma.aliyun.com",
+     "desc": "阿里云推出的 IDE 编程插件，支持代码补全与对话式编程",
      "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "avail": "cn"
     },
     {
-     "name": "GitHub Copilot",
-     "url": "https://github.com/features/copilot",
-     "desc": "IDE 内代码补全与编程助手",
-     "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "name": "Trae",
+     "url": "https://www.trae.cn",
+     "desc": "字节跳动推出的 AI 编程 IDE（豆包 MarsCode 编程助手已并入 Trae 插件）",
+     "pricing": "免费",
+     "avail": "cn"
     },
     {
-     "name": "Bolt.new",
-     "url": "https://bolt.new",
-     "desc": "浏览器里一句话生成全栈应用",
+     "name": "文心快码 Comate",
+     "url": "https://comate.baidu.com",
+     "desc": "百度推出的智能编程助手，支持主流 IDE",
      "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "avail": "cn"
     },
     {
-     "name": "Lovable",
-     "url": "https://lovable.dev",
-     "desc": "描述需求即可生成可上线的 Web 应用",
-     "pricing": "免费+付费",
-     "github": null,
-     "new": false
-    },
-    {
-     "name": "v0",
-     "url": "https://v0.dev",
-     "desc": "生成 React/Next.js 前端界面",
-     "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "name": "CodeGeeX",
+     "url": "https://codegeex.cn",
+     "desc": "智谱 AI 推出的多语言代码生成与补全插件",
+     "pricing": "免费",
+     "avail": "cn"
     },
     {
      "name": "Cline",
@@ -89,7 +137,8 @@
      "pricing": "开源免费",
      "github": "cline/cline",
      "stars": 70379,
-     "new": false
+     "new": false,
+     "avail": "oss"
     },
     {
      "name": "Aider",
@@ -98,7 +147,53 @@
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
      "stars": 49569,
-     "new": false
+     "new": false,
+     "avail": "oss"
+    },
+    {
+     "name": "Cursor",
+     "url": "https://cursor.com",
+     "desc": "AI 原生代码编辑器，对话式改代码",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
+    },
+    {
+     "name": "GitHub Copilot",
+     "url": "https://github.com/features/copilot",
+     "desc": "IDE 内代码补全与编程助手",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
+    },
+    {
+     "name": "Bolt.new",
+     "url": "https://bolt.new",
+     "desc": "浏览器里一句话生成全栈应用",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
+    },
+    {
+     "name": "Lovable",
+     "url": "https://lovable.dev",
+     "desc": "描述需求即可生成可上线的 Web 应用",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
+    },
+    {
+     "name": "v0",
+     "url": "https://v0.dev",
+     "desc": "生成 React/Next.js 前端界面",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "coding"
@@ -107,12 +202,41 @@
    "name": "图像设计",
    "tools": [
     {
-     "name": "Midjourney",
-     "url": "https://www.midjourney.com",
-     "desc": "高质量艺术风格图像生成",
-     "pricing": "付费",
+     "name": "即梦 AI",
+     "url": "https://jimeng.jianying.com",
+     "desc": "字节跳动旗下的 AI 图片与视频创作平台",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "LiblibAI 哩布哩布",
+     "url": "https://www.liblib.art",
+     "desc": "AI 绘画模型分享与在线生图平台",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "美图设计室",
+     "url": "https://www.x-design.com",
+     "desc": "美图推出的 AI 商业设计工具，支持抠图、海报与商品图",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "稿定设计",
+     "url": "https://www.gaoding.com",
+     "desc": "在线平面设计平台，提供 AI 生成与编辑功能",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "Canva 可画",
+     "url": "https://www.canva.cn",
+     "desc": "在线设计平台（中国版），内置 AI 生成与编辑",
+     "pricing": "免费+付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "cn"
     },
     {
      "name": "Stable Diffusion WebUI",
@@ -121,7 +245,8 @@
      "pricing": "开源免费",
      "github": "AUTOMATIC1111/stable-diffusion-webui",
      "stars": 165059,
-     "new": false
+     "new": false,
+     "avail": "oss"
     },
     {
      "name": "ComfyUI",
@@ -130,15 +255,17 @@
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
      "stars": 137739,
-     "new": false
+     "new": false,
+     "avail": "oss"
     },
     {
-     "name": "Canva",
-     "url": "https://www.canva.com",
-     "desc": "在线设计平台，内置 AI 生成与编辑",
-     "pricing": "免费+付费",
+     "name": "Midjourney",
+     "url": "https://www.midjourney.com",
+     "desc": "AI 图像生成服务",
+     "pricing": "付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     },
     {
      "name": "Figma",
@@ -146,7 +273,8 @@
      "desc": "协作式 UI 设计工具，含 AI 功能",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "image"
@@ -155,20 +283,43 @@
    "name": "视频",
    "tools": [
     {
+     "name": "剪映",
+     "url": "https://www.capcut.cn",
+     "desc": "字节跳动推出的视频剪辑工具，内置 AI 字幕、配音等功能",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "海螺 AI",
+     "url": "https://hailuoai.com",
+     "desc": "MiniMax 推出的 AI 视频生成平台",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "Vidu",
+     "url": "https://www.vidu.cn",
+     "desc": "生数科技推出的文生视频/图生视频平台",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "可灵 AI",
+     "url": "https://klingai.kuaishou.com",
+     "desc": "快手推出的文生视频/图生视频平台",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "cn"
+    },
+    {
      "name": "Runway",
      "url": "https://runwayml.com",
      "desc": "AI 视频生成与剪辑",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
-    },
-    {
-     "name": "可灵 Kling",
-     "url": "https://klingai.com",
-     "desc": "快手出品的文生视频/图生视频",
-     "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     },
     {
      "name": "Pika",
@@ -176,7 +327,8 @@
      "desc": "简单易用的 AI 短视频生成",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     },
     {
      "name": "HeyGen",
@@ -184,7 +336,8 @@
      "desc": "数字人口播视频与视频翻译",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "video"
@@ -193,20 +346,18 @@
    "name": "音频",
    "tools": [
     {
-     "name": "ElevenLabs",
-     "url": "https://elevenlabs.io",
-     "desc": "逼真的语音合成与声音克隆",
+     "name": "讯飞听见",
+     "url": "https://www.iflyrec.com",
+     "desc": "科大讯飞推出的录音转文字、会议记录与翻译服务",
      "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "avail": "cn"
     },
     {
-     "name": "Suno",
-     "url": "https://suno.com",
-     "desc": "一句话生成完整歌曲",
+     "name": "魔音工坊",
+     "url": "https://www.moyin.com",
+     "desc": "AI 配音平台，适用于短视频与有声内容",
      "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "avail": "cn"
     },
     {
      "name": "Whisper",
@@ -215,7 +366,26 @@
      "pricing": "开源免费",
      "github": "openai/whisper",
      "stars": 110610,
-     "new": false
+     "new": false,
+     "avail": "oss"
+    },
+    {
+     "name": "ElevenLabs",
+     "url": "https://elevenlabs.io",
+     "desc": "语音合成与声音克隆服务",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
+    },
+    {
+     "name": "Suno",
+     "url": "https://suno.com",
+     "desc": "一句话生成完整歌曲",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "audio"
@@ -224,13 +394,21 @@
    "name": "游戏开发",
    "tools": [
     {
+     "name": "腾讯混元 3D",
+     "url": "https://3d.hunyuan.tencent.com",
+     "desc": "腾讯推出的文本/图片生成 3D 模型工具",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
      "name": "Godot",
      "url": "https://godotengine.org",
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
      "stars": 118475,
-     "new": false
+     "new": false,
+     "avail": "oss"
     },
     {
      "name": "Rosebud AI",
@@ -238,7 +416,8 @@
      "desc": "用自然语言生成可玩的网页游戏",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     },
     {
      "name": "Scenario",
@@ -246,7 +425,8 @@
      "desc": "风格一致的游戏美术素材生成",
      "pricing": "付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     },
     {
      "name": "Meshy",
@@ -254,7 +434,8 @@
      "desc": "文本/图片生成 3D 模型",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "gamedev"
@@ -263,13 +444,30 @@
    "name": "智能体/自动化",
    "tools": [
     {
+     "name": "腾讯元器",
+     "url": "https://yuanqi.tencent.com",
+     "desc": "腾讯推出的 AI 智能体创建与分发平台",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "Coze 扣子",
+     "url": "https://www.coze.cn",
+     "desc": "零代码搭建 AI 智能体与机器人",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "cn"
+    },
+    {
      "name": "n8n",
      "url": "https://n8n.io",
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
      "stars": 207554,
-     "new": false
+     "new": false,
+     "avail": "oss"
     },
     {
      "name": "Dify",
@@ -278,15 +476,8 @@
      "pricing": "开源/付费",
      "github": "langgenius/dify",
      "stars": 158596,
-     "new": false
-    },
-    {
-     "name": "Coze 扣子",
-     "url": "https://www.coze.cn",
-     "desc": "零代码搭建 AI 智能体与机器人",
-     "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "new": false,
+     "avail": "oss"
     },
     {
      "name": "LangChain",
@@ -295,7 +486,8 @@
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
      "stars": 147896,
-     "new": false
+     "new": false,
+     "avail": "oss"
     },
     {
      "name": "Zapier",
@@ -303,7 +495,8 @@
      "desc": "连接数千应用的自动化平台",
      "pricing": "免费+付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "agents"
@@ -312,28 +505,39 @@
    "name": "办公效率",
    "tools": [
     {
-     "name": "Gamma",
-     "url": "https://gamma.app",
-     "desc": "一键生成演示文稿与文档",
+     "name": "秘塔 AI 搜索",
+     "url": "https://metaso.cn",
+     "desc": "带来源引用的 AI 搜索引擎",
      "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "avail": "cn"
     },
     {
-     "name": "Perplexity",
-     "url": "https://www.perplexity.ai",
-     "desc": "带引用来源的 AI 搜索",
+     "name": "WPS AI",
+     "url": "https://ai.wps.cn",
+     "desc": "金山办公推出的 AI 办公助手，支持文档、表格与演示",
      "pricing": "免费+付费",
-     "github": null,
-     "new": false
+     "avail": "cn"
     },
     {
-     "name": "NotebookLM",
-     "url": "https://notebooklm.google.com",
-     "desc": "基于你的资料做问答与播客摘要",
-     "pricing": "免费",
-     "github": null,
-     "new": false
+     "name": "讯飞智文",
+     "url": "https://zhiwen.xfyun.cn",
+     "desc": "科大讯飞推出的 AI 生成 PPT 与文档工具",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "AiPPT",
+     "url": "https://www.aippt.cn",
+     "desc": "输入主题即可生成 PPT 的在线工具",
+     "pricing": "免费+付费",
+     "avail": "cn"
+    },
+    {
+     "name": "钉钉 AI",
+     "url": "https://www.dingtalk.com",
+     "desc": "钉钉内置的 AI 助理，支持会议纪要、文档与审批",
+     "pricing": "免费+付费",
+     "avail": "cn"
     },
     {
      "name": "飞书智能伙伴",
@@ -341,7 +545,35 @@
      "desc": "飞书内置 AI 助手，会议纪要与文档",
      "pricing": "付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "cn"
+    },
+    {
+     "name": "Gamma",
+     "url": "https://gamma.app",
+     "desc": "一键生成演示文稿与文档",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
+    },
+    {
+     "name": "Perplexity",
+     "url": "https://www.perplexity.ai",
+     "desc": "带引用来源的 AI 搜索",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
+    },
+    {
+     "name": "NotebookLM",
+     "url": "https://notebooklm.google.com",
+     "desc": "基于你的资料做问答与播客摘要",
+     "pricing": "免费",
+     "github": null,
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "productivity"
@@ -350,12 +582,23 @@
    "name": "客服营销",
    "tools": [
     {
+     "name": "Chatwoot",
+     "url": "https://www.chatwoot.com",
+     "desc": "开源全渠道客服平台，支持 AI",
+     "pricing": "开源/付费",
+     "github": "chatwoot/chatwoot",
+     "stars": 37838,
+     "new": false,
+     "avail": "oss"
+    },
+    {
      "name": "Intercom Fin",
      "url": "https://www.intercom.com/fin",
      "desc": "AI 客服机器人自动回答客户问题",
      "pricing": "付费",
      "github": null,
-     "new": false
+     "new": false,
+     "avail": "intl"
     },
     {
      "name": "Jasper",
@@ -363,16 +606,8 @@
      "desc": "营销文案与品牌内容生成",
      "pricing": "付费",
      "github": null,
-     "new": false
-    },
-    {
-     "name": "Chatwoot",
-     "url": "https://www.chatwoot.com",
-     "desc": "开源全渠道客服平台，支持 AI",
-     "pricing": "开源/付费",
-     "github": "chatwoot/chatwoot",
-     "stars": 37838,
-     "new": false
+     "new": false,
+     "avail": "intl"
     }
    ],
    "slug": "marketing"

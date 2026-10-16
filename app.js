@@ -10,3 +10,7 @@ b.disabled=true;m.textContent="提交中…";
 try{const r=await fetch(f.action,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:f.email.value,website:f.website.value})});
 const j=await r.json().catch(()=>({}));m.textContent=j.msg||(r.ok?"订阅成功":"订阅失败，请稍后再试");if(r.ok)f.reset();}
 catch(_){m.textContent="网络错误，请稍后再试";}b.disabled=false;});
+const uf=document.getElementById("unsubf");
+if(uf)uf.addEventListener("submit",async e=>{e.preventDefault();const m=document.getElementById("unsubm");m.textContent="提交中…";
+try{const r=await fetch(uf.action,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:uf.email.value,website:uf.website.value})});
+const j=await r.json().catch(()=>({}));m.textContent=j.msg||(r.ok?"已退订":"退订失败，请稍后再试");}catch(_){m.textContent="网络错误，请稍后再试";}});
