@@ -13,8 +13,13 @@ jobs:
         with: {python-version: "3.12"}
       - run: python scripts/update.py
         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+      - name: 检查官网链接（失效的新收录条目自动移除，精选条目只报告）
+        run: python scripts/linkcheck.py --prune-auto
+        continue-on-error: true
+      - name: 生成静态页面、sitemap、llms.txt
+        run: python scripts/build.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add data/tools.json
+          git add -A
           git diff --cached --quiet || (git commit -m "chore: 每日数据更新 $(date -u +%F)" && git push)

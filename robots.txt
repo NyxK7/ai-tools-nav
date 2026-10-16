@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nyxk7.github.io/ai-tools-nav/sitemap.xml

@@ -29,6 +29,33 @@ try:
         items.append({"source":"Hacker News","title":h["title"],"url":h.get("url") or f"https://news.ycombinator.com/item?id={h['objectID']}","desc":"","metric":f"▲ {h['points']} 分","hn":f"https://news.ycombinator.com/item?id={h['objectID']}"})
 except Exception as e: print("hn fail",e)
 if items: d["daily"]=items
+
+# —— 保守的自动收录：只收 GitHub 新仓库，Star≥200，且只命中一个场景的关键词 ——
+RULES={"coding":["coding agent","code editor","copilot","vibe coding","code generation","ide","developer tool","cli for code"],
+"image":["image generation","text-to-image","diffusion","stable diffusion","image editing"],
+"video":["video generation","text-to-video","video editing"],
+"audio":["text-to-speech","tts","speech recognition","voice clone","music generation","asr"],
+"gamedev":["game engine","game development","gamedev"],
+"agents":["ai agent","agent framework","multi-agent","workflow automation","mcp server","autonomous agent"],
+"writing":["writing assistant","copywriting"],
+"productivity":["note-taking","presentation","slides","pdf"],
+"marketing":["customer support","chatbot for support","marketing"]}
+import re
+existing={t["url"].rstrip("/").lower() for s in d["scenes"] for t in s["tools"]}
+bys={s["slug"]:s for s in d["scenes"]}
+today=now.strftime("%Y-%m-%d")
+for it in items:
+    if it["source"]!="GitHub" or int(it["metric"].split()[-1])<200: continue
+    text=(it["title"]+" "+it["desc"]).lower()
+    hit=[k for k,ws in RULES.items() if any(re.search(r"\b"+re.escape(w)+r"\b",text) for w in ws)]
+    if len(hit)!=1 or it["url"].lower() in existing: continue
+    bys[hit[0]]["tools"].append({"name":it["title"].split("/")[-1],"url":it["url"],"desc":it["desc"] or "GitHub 新热门开源项目",
+      "pricing":"开源","github":it["title"],"auto":True,"added":today})
+    existing.add(it["url"].lower()); print("新收录",hit[0],it["title"])
+# 新收录标记保留 14 天
+for s in d["scenes"]:
+    for t in s["tools"]:
+        t["new"]=bool(t.get("added")) and (now-datetime.datetime.fromisoformat(t["added"]).replace(tzinfo=datetime.timezone.utc)).days<14
 d["updated"]=now.strftime("%Y-%m-%d %H:%M UTC")
 json.dump(d,open("data/tools.json","w"),ensure_ascii=False,indent=1)
 print(len(board),"ranked,",len(items),"daily")

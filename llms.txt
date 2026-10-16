@@ -1,0 +1,23 @@
+# AI 工具导航
+
+> 面向中文用户的 AI 工具导航站：按业务场景（写作、编程/Vibe coding、图像设计、视频、音频、游戏开发、智能体/自动化、办公效率、客服营销）推荐真实 AI 工具，提供基于 GitHub Star 的开源工具排行榜，并每日自动抓取 GitHub 与 Hacker News 上新出现的热门 AI 项目。数据每日更新，最近更新：2026-10-16 02:41 UTC。
+
+## 主要内容
+- [全部工具清单（Markdown）](https://nyxk7.github.io/ai-tools-nav/tools.md)：所有工具的名称、官网、一句话介绍、收费方式
+- [结构化数据（JSON）](https://nyxk7.github.io/ai-tools-nav/data/tools.json)
+- [首页](https://nyxk7.github.io/ai-tools-nav/)
+
+## 场景页面
+- [写作](https://nyxk7.github.io/ai-tools-nav/s/writing.html)
+- [编程/Vibe coding](https://nyxk7.github.io/ai-tools-nav/s/coding.html)
+- [图像设计](https://nyxk7.github.io/ai-tools-nav/s/image.html)
+- [视频](https://nyxk7.github.io/ai-tools-nav/s/video.html)
+- [音频](https://nyxk7.github.io/ai-tools-nav/s/audio.html)
+- [游戏开发](https://nyxk7.github.io/ai-tools-nav/s/gamedev.html)
+- [智能体/自动化](https://nyxk7.github.io/ai-tools-nav/s/agents.html)
+- [办公效率](https://nyxk7.github.io/ai-tools-nav/s/productivity.html)
+- [客服营销](https://nyxk7.github.io/ai-tools-nav/s/marketing.html)
+
+## 说明
+- 排行榜只统计有公开 GitHub 仓库的开源工具，依据为 Star 数。
+- 标注“新收录”的条目由程序按关键词自动归类，未经人工审核。
