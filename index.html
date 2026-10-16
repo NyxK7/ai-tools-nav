@@ -1,0 +1,10 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI 工具导航 · 按场景选工具 + 热门排行榜</title><link rel="stylesheet" href="style.css"></head><body>
+<header><h1>AI 工具导航</h1><p>不同业务场景该用什么 AI 工具？每日自动追踪全网新热门 AI。</p>
+<nav><a href="#scenes">场景导航</a><a href="#rank">热门排行榜</a><a href="#daily">每日新品快报</a></nav>
+<input id="q" placeholder="搜索工具名称或用途…"></header>
+<main><section id="scenes"><h2>按业务场景导航</h2><div id="sceneTabs" class="tabs"></div><div id="sceneList" class="grid"></div></section>
+<section id="rank"><h2>热门排行榜</h2><p class="note">排名依据：开源工具在 GitHub 上的实时 Star 数（每日通过 GitHub API 更新）。闭源工具没有公开可比的数据，暂不参与排名。</p><ol id="rankList"></ol></section>
+<section id="daily"><h2>每日新品快报</h2><p class="note">来源：GitHub 近 7 天新建、带 <code>ai</code> 主题的仓库（按 Star 排序），以及 Hacker News 近 48 小时 AI 相关的 Show HN 热帖。由程序自动抓取，未经人工审核。</p><div id="dailyList" class="grid"></div></section></main>
+<footer>数据更新时间：<span id="upd">-</span> · <a href="https://github.com/NyxK7/ai-tools-nav">GitHub 源码</a></footer>
+<script src="app.js"></script></body></html>

@@ -1,0 +1,509 @@
+{
+ "updated": "2026-10-16 02:24 UTC",
+ "scenes": [
+  {
+   "name": "写作",
+   "tools": [
+    {
+     "name": "ChatGPT",
+     "url": "https://chatgpt.com",
+     "desc": "通用对话助手，写作、改写、总结全能",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Claude",
+     "url": "https://claude.ai",
+     "desc": "长文写作与分析能力强，适合深度内容",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Kimi",
+     "url": "https://kimi.moonshot.cn",
+     "desc": "超长上下文中文助手，读文档写报告",
+     "pricing": "免费",
+     "github": null
+    },
+    {
+     "name": "Notion AI",
+     "url": "https://www.notion.so/product/ai",
+     "desc": "在笔记与知识库里直接写作和整理",
+     "pricing": "付费",
+     "github": null
+    }
+   ]
+  },
+  {
+   "name": "编程/Vibe coding",
+   "tools": [
+    {
+     "name": "Cursor",
+     "url": "https://cursor.com",
+     "desc": "AI 原生代码编辑器，对话式改代码",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "GitHub Copilot",
+     "url": "https://github.com/features/copilot",
+     "desc": "IDE 内代码补全与编程助手",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Bolt.new",
+     "url": "https://bolt.new",
+     "desc": "浏览器里一句话生成全栈应用",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Lovable",
+     "url": "https://lovable.dev",
+     "desc": "描述需求即可生成可上线的 Web 应用",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "v0",
+     "url": "https://v0.dev",
+     "desc": "生成 React/Next.js 前端界面",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Cline",
+     "url": "https://cline.bot",
+     "desc": "开源 VS Code 编程智能体",
+     "pricing": "开源免费",
+     "github": "cline/cline",
+     "stars": 70378
+    },
+    {
+     "name": "Aider",
+     "url": "https://aider.chat",
+     "desc": "终端里的开源结对编程助手",
+     "pricing": "开源免费",
+     "github": "Aider-AI/aider",
+     "stars": 49569
+    }
+   ]
+  },
+  {
+   "name": "图像设计",
+   "tools": [
+    {
+     "name": "Midjourney",
+     "url": "https://www.midjourney.com",
+     "desc": "高质量艺术风格图像生成",
+     "pricing": "付费",
+     "github": null
+    },
+    {
+     "name": "Stable Diffusion WebUI",
+     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+     "desc": "本地运行的开源图像生成界面",
+     "pricing": "开源免费",
+     "github": "AUTOMATIC1111/stable-diffusion-webui",
+     "stars": 165059
+    },
+    {
+     "name": "ComfyUI",
+     "url": "https://www.comfy.org",
+     "desc": "节点式开源图像/视频生成工作流",
+     "pricing": "开源免费",
+     "github": "comfyanonymous/ComfyUI",
+     "stars": 137736
+    },
+    {
+     "name": "Canva",
+     "url": "https://www.canva.com",
+     "desc": "在线设计平台，内置 AI 生成与编辑",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Figma",
+     "url": "https://www.figma.com",
+     "desc": "协作式 UI 设计工具，含 AI 功能",
+     "pricing": "免费+付费",
+     "github": null
+    }
+   ]
+  },
+  {
+   "name": "视频",
+   "tools": [
+    {
+     "name": "Runway",
+     "url": "https://runwayml.com",
+     "desc": "AI 视频生成与剪辑",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "可灵 Kling",
+     "url": "https://klingai.com",
+     "desc": "快手出品的文生视频/图生视频",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Pika",
+     "url": "https://pika.art",
+     "desc": "简单易用的 AI 短视频生成",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "HeyGen",
+     "url": "https://www.heygen.com",
+     "desc": "数字人口播视频与视频翻译",
+     "pricing": "免费+付费",
+     "github": null
+    }
+   ]
+  },
+  {
+   "name": "音频",
+   "tools": [
+    {
+     "name": "ElevenLabs",
+     "url": "https://elevenlabs.io",
+     "desc": "逼真的语音合成与声音克隆",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Suno",
+     "url": "https://suno.com",
+     "desc": "一句话生成完整歌曲",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Whisper",
+     "url": "https://github.com/openai/whisper",
+     "desc": "开源语音识别与转写模型",
+     "pricing": "开源免费",
+     "github": "openai/whisper",
+     "stars": 110606
+    }
+   ]
+  },
+  {
+   "name": "游戏开发",
+   "tools": [
+    {
+     "name": "Godot",
+     "url": "https://godotengine.org",
+     "desc": "开源游戏引擎，适合配合 AI 写代码",
+     "pricing": "开源免费",
+     "github": "godotengine/godot",
+     "stars": 118474
+    },
+    {
+     "name": "Rosebud AI",
+     "url": "https://rosebud.ai",
+     "desc": "用自然语言生成可玩的网页游戏",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Scenario",
+     "url": "https://www.scenario.com",
+     "desc": "风格一致的游戏美术素材生成",
+     "pricing": "付费",
+     "github": null
+    },
+    {
+     "name": "Meshy",
+     "url": "https://www.meshy.ai",
+     "desc": "文本/图片生成 3D 模型",
+     "pricing": "免费+付费",
+     "github": null
+    }
+   ]
+  },
+  {
+   "name": "智能体/自动化",
+   "tools": [
+    {
+     "name": "n8n",
+     "url": "https://n8n.io",
+     "desc": "开源工作流自动化，可接入 AI 节点",
+     "pricing": "开源/付费",
+     "github": "n8n-io/n8n",
+     "stars": 207551
+    },
+    {
+     "name": "Dify",
+     "url": "https://dify.ai",
+     "desc": "开源 LLM 应用与智能体搭建平台",
+     "pricing": "开源/付费",
+     "github": "langgenius/dify",
+     "stars": 158593
+    },
+    {
+     "name": "Coze 扣子",
+     "url": "https://www.coze.cn",
+     "desc": "零代码搭建 AI 智能体与机器人",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "LangChain",
+     "url": "https://www.langchain.com",
+     "desc": "构建 LLM 应用与智能体的开源框架",
+     "pricing": "开源免费",
+     "github": "langchain-ai/langchain",
+     "stars": 147897
+    },
+    {
+     "name": "Zapier",
+     "url": "https://zapier.com",
+     "desc": "连接数千应用的自动化平台",
+     "pricing": "免费+付费",
+     "github": null
+    }
+   ]
+  },
+  {
+   "name": "办公效率",
+   "tools": [
+    {
+     "name": "Gamma",
+     "url": "https://gamma.app",
+     "desc": "一键生成演示文稿与文档",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "Perplexity",
+     "url": "https://www.perplexity.ai",
+     "desc": "带引用来源的 AI 搜索",
+     "pricing": "免费+付费",
+     "github": null
+    },
+    {
+     "name": "NotebookLM",
+     "url": "https://notebooklm.google.com",
+     "desc": "基于你的资料做问答与播客摘要",
+     "pricing": "免费",
+     "github": null
+    },
+    {
+     "name": "飞书智能伙伴",
+     "url": "https://www.feishu.cn",
+     "desc": "飞书内置 AI 助手，会议纪要与文档",
+     "pricing": "付费",
+     "github": null
+    }
+   ]
+  },
+  {
+   "name": "客服营销",
+   "tools": [
+    {
+     "name": "Intercom Fin",
+     "url": "https://www.intercom.com/fin",
+     "desc": "AI 客服机器人自动回答客户问题",
+     "pricing": "付费",
+     "github": null
+    },
+    {
+     "name": "Jasper",
+     "url": "https://www.jasper.ai",
+     "desc": "营销文案与品牌内容生成",
+     "pricing": "付费",
+     "github": null
+    },
+    {
+     "name": "Chatwoot",
+     "url": "https://www.chatwoot.com",
+     "desc": "开源全渠道客服平台，支持 AI",
+     "pricing": "开源/付费",
+     "github": "chatwoot/chatwoot",
+     "stars": 37836
+    }
+   ]
+  }
+ ],
+ "leaderboard": [
+  {
+   "name": "n8n",
+   "url": "https://n8n.io",
+   "scene": "智能体/自动化",
+   "stars": 207551,
+   "repo": "n8n-io/n8n"
+  },
+  {
+   "name": "Stable Diffusion WebUI",
+   "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+   "scene": "图像设计",
+   "stars": 165059,
+   "repo": "AUTOMATIC1111/stable-diffusion-webui"
+  },
+  {
+   "name": "Dify",
+   "url": "https://dify.ai",
+   "scene": "智能体/自动化",
+   "stars": 158593,
+   "repo": "langgenius/dify"
+  },
+  {
+   "name": "LangChain",
+   "url": "https://www.langchain.com",
+   "scene": "智能体/自动化",
+   "stars": 147897,
+   "repo": "langchain-ai/langchain"
+  },
+  {
+   "name": "ComfyUI",
+   "url": "https://www.comfy.org",
+   "scene": "图像设计",
+   "stars": 137736,
+   "repo": "comfyanonymous/ComfyUI"
+  },
+  {
+   "name": "Godot",
+   "url": "https://godotengine.org",
+   "scene": "游戏开发",
+   "stars": 118474,
+   "repo": "godotengine/godot"
+  },
+  {
+   "name": "Whisper",
+   "url": "https://github.com/openai/whisper",
+   "scene": "音频",
+   "stars": 110606,
+   "repo": "openai/whisper"
+  },
+  {
+   "name": "Cline",
+   "url": "https://cline.bot",
+   "scene": "编程/Vibe coding",
+   "stars": 70378,
+   "repo": "cline/cline"
+  },
+  {
+   "name": "Aider",
+   "url": "https://aider.chat",
+   "scene": "编程/Vibe coding",
+   "stars": 49569,
+   "repo": "Aider-AI/aider"
+  },
+  {
+   "name": "Chatwoot",
+   "url": "https://www.chatwoot.com",
+   "scene": "客服营销",
+   "stars": 37836,
+   "repo": "chatwoot/chatwoot"
+  }
+ ],
+ "daily": [
+  {
+   "source": "GitHub",
+   "title": "deeplethe/solid-glass",
+   "url": "https://github.com/deeplethe/solid-glass",
+   "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+   "metric": "★ 1033"
+  },
+  {
+   "source": "GitHub",
+   "title": "zhuyansen/new-term-radar",
+   "url": "https://github.com/zhuyansen/new-term-radar",
+   "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+   "metric": "★ 1027"
+  },
+  {
+   "source": "GitHub",
+   "title": "datalab-to/indra",
+   "url": "https://github.com/datalab-to/indra",
+   "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+   "metric": "★ 361"
+  },
+  {
+   "source": "GitHub",
+   "title": "vakandi/opencode-rust",
+   "url": "https://github.com/vakandi/opencode-rust",
+   "desc": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
+   "metric": "★ 71"
+  },
+  {
+   "source": "GitHub",
+   "title": "songshikang0111/awesome-REA-cases",
+   "url": "https://github.com/songshikang0111/awesome-REA-cases",
+   "desc": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
+   "metric": "★ 63"
+  },
+  {
+   "source": "GitHub",
+   "title": "apenasdouglas/ai-motion-library",
+   "url": "https://github.com/apenasdouglas/ai-motion-library",
+   "desc": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, ski",
+   "metric": "★ 63"
+  },
+  {
+   "source": "GitHub",
+   "title": "guolola/SoftJL",
+   "url": "https://github.com/guolola/SoftJL",
+   "desc": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOCX specifications",
+   "metric": "★ 39"
+  },
+  {
+   "source": "GitHub",
+   "title": "rupeshs/filedig",
+   "url": "https://github.com/rupeshs/filedig",
+   "desc": "Find your files by what's in them. Local AI search for docs, PDFs and photos on Windows",
+   "metric": "★ 37"
+  },
+  {
+   "source": "GitHub",
+   "title": "SubmitGame/awesome-ai-game-dev-tools",
+   "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
+   "desc": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
+   "metric": "★ 31"
+  },
+  {
+   "source": "GitHub",
+   "title": "robinebers/attentionmachine-skills",
+   "url": "https://github.com/robinebers/attentionmachine-skills",
+   "desc": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
+   "metric": "★ 31"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: The first short movie built using code and AI",
+   "url": "https://fframes.studio/the-why/",
+   "desc": "",
+   "metric": "▲ 14 分",
+   "hn": "https://news.ycombinator.com/item?id=50089045"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
+   "url": "https://github.com/rlshaw-ml/BlastLoop",
+   "desc": "",
+   "metric": "▲ 12 分",
+   "hn": "https://news.ycombinator.com/item?id=50106062"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+   "url": "https://clova.email/",
+   "desc": "",
+   "metric": "▲ 110 分",
+   "hn": "https://news.ycombinator.com/item?id=50090932"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+   "url": "https://github.com/graphicle-ai/graphicle",
+   "desc": "",
+   "metric": "▲ 47 分",
+   "hn": "https://news.ycombinator.com/item?id=50088713"
+  }
+ ]
+}
