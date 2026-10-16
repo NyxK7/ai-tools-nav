@@ -7,7 +7,7 @@ FEED="https://github.com/NyxK7/ai-tools-nav/issues/new/choose"
 def card(t,sc=None):
     tags=[t["pricing"]]+([sc] if sc else [])+([f"★ {t['stars']:,}"] if t.get("stars") else [])
     new='<span class="new">新收录</span>' if t.get("new") else ""
-    return (f'<li class="card" data-k="{E((t["name"]+" "+t["desc"]).lower())}"><h4><a href="{E(t["url"])}" target="_blank" rel="noopener">{E(t["name"])}</a>{new}</h4>'
+    return (f'<li class="card" data-k="{E((t["name"]+" "+t["desc"]).lower())}"><h3><a href="{E(t["url"])}" target="_blank" rel="noopener">{E(t["name"])}</a>{new}</h3>'
             f'<p>{E(t["desc"])}</p><span class="tag">{E(" · ".join(tags))}</span></li>')
 def ld_list(name,tools):
     return {"@context":"https://schema.org","@type":"ItemList","name":name,"numberOfItems":len(tools),"itemListElement":[
@@ -26,7 +26,7 @@ def page(path,title,desc,kw,body,ld,root):
 <link rel="canonical" href="{url}"><meta name="robots" content="index,follow"><meta name="applicable-device" content="pc,mobile">
 <meta property="og:type" content="website"><meta property="og:locale" content="zh_CN"><meta property="og:site_name" content="AI 工具导航">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{url}">
-<meta name="theme-color" content="#4f46e5"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🧭%3C/text%3E%3C/svg%3E">
+<meta name="theme-color" content="#4f46e5"><link rel="icon" href="{root}favicon.svg">
 <link rel="stylesheet" href="{root}style.css">{lds}</head><body>
 <a class="skip" href="#main">跳到正文</a>
 <header><p class="logo"><a href="{root}">🧭 AI 工具导航</a></p><h1>{E(title.split(" | ")[0])}</h1><p>{E(desc)}</p>
@@ -43,7 +43,7 @@ sub=f'''<section id="subscribe" aria-labelledby="h-sub"><h2 id="h-sub">邮件订
 # 首页
 sc="".join(f'<section class="scene" id="{s["slug"]}" aria-labelledby="h-{s["slug"]}"><h3 id="h-{s["slug"]}"><a href="s/{s["slug"]}.html">{E(s["name"])}</a> <small>{len(s["tools"])} 个工具</small></h3><ul class="grid">{"".join(card(t) for t in s["tools"])}</ul></section>' for s in d["scenes"])
 rk="".join(f'<li><a href="{E(t["url"])}" target="_blank" rel="noopener">{E(t["name"])}</a> <small>{E(t["scene"])}</small><span>★ {t["stars"]:,}</span></li>' for t in d["leaderboard"])
-dl="".join(f'<li class="card"><h4><a href="{E(i["url"])}" target="_blank" rel="noopener nofollow">{E(i["title"])}</a></h4><p>{E(i["desc"])}</p><span class="tag">{E(i["source"])} · {E(i["metric"])}</span>'+(f' <a href="{E(i["hn"])}" target="_blank" rel="noopener nofollow">HN 讨论</a>' if i.get("hn") else "")+'</li>' for i in d["daily"])
+dl="".join(f'<li class="card"><h3><a href="{E(i["url"])}" target="_blank" rel="noopener nofollow">{E(i["title"])}</a></h3><p>{E(i["desc"])}</p><span class="tag">{E(i["source"])} · {E(i["metric"])}</span>'+(f' <a href="{E(i["hn"])}" target="_blank" rel="noopener nofollow">HN 讨论</a>' if i.get("hn") else "")+'</li>' for i in d["daily"])
 body=f'''<div class="search"><label for="q" class="sr">搜索工具</label><input id="q" type="search" placeholder="搜索工具名称或用途，如：视频、写代码…"></div>
 <section id="scenes" aria-labelledby="h-scenes"><h2 id="h-scenes">按业务场景导航</h2>{sc}<p id="none" hidden>没有找到匹配的工具</p></section>
 <section id="rank" aria-labelledby="h-rank"><h2 id="h-rank">热门排行榜</h2><p class="note">排名依据：开源工具在 GitHub 上的实时 Star 数（每日通过 GitHub API 更新）。闭源工具没有公开可比数据，暂不参与排名。</p><ol class="rank">{rk}</ol></section>
