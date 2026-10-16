@@ -8,7 +8,9 @@ FEED="https://github.com/NyxK7/ai-tools-nav/issues/new/choose"
 AV={"cn":"国内服务","oss":"开源，可本地部署","intl":"境外服务，国内可能无法直接使用"}
 def av(t): return t.get("avail") or ("oss" if t.get("github") else "intl")
 def card(t,sc=None):
-    tags=[AV[av(t)],t["pricing"]]+([sc] if sc else [])+([f"★ {t['stars']:,}"] if t.get("stars") else [])
+    g=t.get("signal") or {}
+    sig=f"Tranco #{g['rank']:,}" if g.get("type")=="tranco" else ("暂无流行度数据" if not g else "")
+    tags=[AV[av(t)],t["pricing"]]+([sc] if sc else [])+([f"★ {t['stars']:,}"] if t.get("stars") else [])+([sig] if sig else [])
     new='<span class="new">新收录</span>' if t.get("new") else ""
     return (f'<li class="card" data-k="{E((t["name"]+" "+t["desc"]).lower())}"><h3><a href="{E(t["url"])}" target="_blank" rel="noopener">{E(t["name"])}</a>{new}</h3>'
             f'<p>{E(t["desc"])}</p><span class="tag{" intl" if av(t)=="intl" else ""}">{E(" · ".join(tags))}</span></li>')
@@ -49,7 +51,7 @@ sc="".join(f'<section class="scene" id="{s["slug"]}" aria-labelledby="h-{s["slug
 rk="".join(f'<li><a href="{E(t["url"])}" target="_blank" rel="noopener">{E(t["name"])}</a> <small>{E(t["scene"])}</small><span>★ {t["stars"]:,}</span></li>' for t in d["leaderboard"])
 dl="".join(f'<li class="card"><h3><a href="{E(i["url"])}" target="_blank" rel="noopener nofollow">{E(i["title"])}</a></h3><p>{E(i["desc"])}</p><span class="tag">{E(i["source"])} · {E(i["metric"])}</span>'+(f' <a href="{E(i["hn"])}" target="_blank" rel="noopener nofollow">HN 讨论</a>' if i.get("hn") else "")+'</li>' for i in d["daily"])
 body=f'''<div class="search"><label for="q" class="sr">搜索工具</label><input id="q" type="search" placeholder="搜索工具名称或用途，如：视频、写代码…"></div>
-<section id="scenes" aria-labelledby="h-scenes"><h2 id="h-scenes">按业务场景导航</h2>{sc}<p id="none" hidden>没有找到匹配的工具</p></section>
+<section id="scenes" aria-labelledby="h-scenes"><h2 id="h-scenes">按业务场景导航</h2><p class="note">场景内排序依据公开流行度信号：优先按 Tranco 网站流行度排名（数值越小越热门，数据日期 {E((d.get("ranking") or {}).get("date",""))}）；官网不在独立域名、无法单独统计的工具排在其后，有开源仓库的按 GitHub Star 排序，其余标注“暂无流行度数据”。排序不代表质量评价。<a href="about.html#rank-method">详细说明</a></p>{sc}<p id="none" hidden>没有找到匹配的工具</p></section>
 <section id="rank" aria-labelledby="h-rank"><h2 id="h-rank">热门排行榜</h2><p class="note">排名依据：开源工具在 GitHub 上的实时 Star 数（每日通过 GitHub API 更新）。闭源工具没有公开可比数据，暂不参与排名。</p><ol class="rank">{rk}</ol></section>
 <section id="daily" aria-labelledby="h-daily"><h2 id="h-daily">每日新品快报 <small>{E(day)}</small></h2><p class="note">来源：GitHub 近 7 天新建、带 ai 主题的仓库（按 Star 排序）与 Hacker News 近 48 小时 AI 相关 Show HN 热帖。程序自动抓取，未经人工审核。</p><ul class="grid">{dl or "<li>今日暂无</li>"}</ul></section>{sub("")}'''
 site={"@context":"https://schema.org","@type":"WebSite","name":"AI 工具导航","url":B+"/","inLanguage":"zh-CN"}
@@ -59,7 +61,7 @@ open("index.html","w").write(page("index.html","AI 工具导航 | 按业务场�
 os.makedirs("s",exist_ok=True)
 for s in d["scenes"]:
     names="、".join(t["name"] for t in s["tools"][:5])
-    b=f'<section aria-labelledby="h-s"><h2 id="h-s">{E(s["name"])} 场景推荐 AI 工具（{len(s["tools"])} 个）</h2><ul class="grid">{"".join(card(t) for t in s["tools"])}</ul></section>{sub("../")}'
+    b=f'<section aria-labelledby="h-s"><h2 id="h-s">{E(s["name"])} 场景推荐 AI 工具（{len(s["tools"])} 个）</h2><p class="note">场景内排序依据公开流行度信号：优先按 Tranco 网站流行度排名（数值越小越热门，数据日期 {E((d.get("ranking") or {}).get("date",""))}）；官网不在独立域名、无法单独统计的工具排在其后，有开源仓库的按 GitHub Star 排序，其余标注“暂无流行度数据”。排序不代表质量评价。<a href="../about.html#rank-method">详细说明</a></p><ul class="grid">{"".join(card(t) for t in s["tools"])}</ul></section>{sub("../")}'
     bc={"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"AI 工具导航","item":B+"/"},{"@type":"ListItem","position":2,"name":s["name"],"item":f"{B}/s/{s['slug']}.html"}]}
     open(f"s/{s['slug']}.html","w").write(page(f"s/{s['slug']}.html",f"{s['name']} AI 工具推荐 | AI 工具导航",
       f"{s['name']}场景常用 AI 工具推荐：{names} 等，附中文介绍、官网链接与收费方式，每日更新。",
@@ -84,12 +86,16 @@ open("llms.txt","w").write(f"""# AI 工具导航
 - [首页]({B}/)
 
 ## 场景页面
-"""+"\n".join(f"- [{s['name']}]({B}/s/{s['slug']}.html)" for s in d["scenes"])+"\n\n## 说明\n- 排行榜只统计有公开 GitHub 仓库的开源工具，依据为 Star 数。\n- 每个工具标注可用性：国内服务 / 开源可本地部署 / 境外服务（国内可能无法直接使用）。境外服务仅作客观介绍。\n- 标注“新收录”的条目由程序按关键词自动归类，未经人工审核。\n")
+"""+"\n".join(f"- [{s['name']}]({B}/s/{s['slug']}.html)" for s in d["scenes"])+"\n\n## 说明\n- 场景内排序：按 Tranco 网站流行度排名（独立域名），其后按 GitHub Star，其余无数据；与国内/境外无关。每个工具的 signal 字段记录信号与来源。\n- 排行榜只统计有公开 GitHub 仓库的开源工具，依据为 Star 数。\n- 每个工具标注可用性：国内服务 / 开源可本地部署 / 境外服务（国内可能无法直接使用）。境外服务仅作客观介绍。\n- 标注“新收录”的条目由程序按关键词自动归类，未经人工审核。\n")
 def static(fn,title,body):
     open(fn,"w").write(page(fn,title+" | AI 工具导航",title+" - AI 工具导航",title,f'<section class="doc">{body}</section>',[],""))
 static("about.html","关于本站",f'''<h2>关于本站</h2><p>AI 工具导航是一个面向中文用户的非营利性信息整理站点，按业务场景收录 AI 工具的名称、官网链接、简介与收费方式，并提供开源项目 GitHub Star 排行与每日新项目快报。</p>
-<p>收录原则：优先展示面向中国大陆用户提供服务的国内产品；开源工具标注“开源，可本地部署”；境外服务标注“境外服务，国内可能无法直接使用”，仅作客观信息介绍，本站不提供任何访问境外服务的方法或工具。</p>
-<p>排序说明：场景内按“国内服务 → 开源 → 境外服务”分组展示，不代表优劣评价；排行榜仅依据 GitHub 公开 Star 数。</p>
+<p>收录原则：兼顾面向中国大陆用户提供服务的国内产品与境外、开源工具；开源工具标注“开源，可本地部署”；境外服务标注“境外服务，国内可能无法直接使用”，仅作客观信息介绍，本站不提供任何访问境外服务的方法或工具。</p>
+<h3 id="rank-method">排序方法</h3><p>场景内工具按公开、可引用的流行度信号排序，与是否国内服务无关；“国内服务 / 开源 / 境外服务”仅作可用性标注。</p><ol>
+<li>官网位于独立域名的工具，按 <a href="https://tranco-list.eu/">Tranco</a> 网站流行度排名排序（综合 Chrome UX Report、Cloudflare Radar、Cisco Umbrella、Majestic、Farsight 近 30 天数据，每日自动更新）。</li>
+<li>官网是大平台子域名或子页面的工具（如 yiyan.baidu.com、github.com 上的项目）无法单独统计，排在其后；其中有开源仓库的按 GitHub Star 数排序。</li>
+<li>两者都没有的标注“暂无流行度数据”，排在最后。</li></ol>
+<p>局限：Tranco 统计的是整个域名的流量，对“产品内置 AI 功能”（如飞书、钉钉、Figma）反映的是整个产品的热度；其数据源对中国大陆流量覆盖有限，国内产品排名可能偏低。本站不编造任何数据，每个工具的信号与来源记录在 <a href="data/tools.json">data/tools.json</a> 的 signal 字段。“热门排行榜”仅依据 GitHub Star 数。</p>
 <p>站点代码开源于 <a href="https://github.com/NyxK7/ai-tools-nav">GitHub</a>。纠错、推荐或下架请求请通过 <a href="{FEED}">GitHub Issues</a> 提交。</p>''')
 static("disclaimer.html","免责声明",f'''<h2>免责声明</h2><ol>
 <li>本站内容仅供信息参考，不构成任何推荐、背书或投资建议。工具功能、价格、可用性以各官网为准，可能随时变化。</li>

@@ -13,6 +13,9 @@ jobs:
         with: {python-version: "3.12"}
       - run: python scripts/update.py
         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+      - name: Rank tools by public popularity signals
+        run: python3 scripts/rank.py
+        continue-on-error: true
       - name: 检查官网链接（失效的新收录条目自动移除，精选条目只报告）
         run: python scripts/linkcheck.py --prune-auto
         continue-on-error: true

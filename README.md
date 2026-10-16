@@ -11,7 +11,8 @@
 ## ✨ 功能
 
 - **9 大业务场景**：写作、编程/Vibe coding、图像设计、视频、音频、游戏开发、智能体/自动化、办公效率、客服营销
-- **可用性标注**：每个工具标注「国内服务」「开源，可本地部署」或「境外服务，国内可能无法直接使用」，国内服务优先展示
+- **可用性标注**：每个工具标注「国内服务」「开源，可本地部署」或「境外服务，国内可能无法直接使用」（仅作信息标注，不影响排序）
+- **按流行度排序**：场景内依据公开信号排序——Tranco 网站流行度排名，其次 GitHub Star；无数据的排在最后并注明，信号与来源记录在 `data/tools.json` 的 `signal` 字段
 - **热门排行榜**：依据开源工具的 GitHub Star 数，每日刷新
 - **每日新品快报**：自动抓取 GitHub 新建 AI 仓库与 Hacker News Show HN 热帖
 - **SEO / AI 友好**：预渲染 HTML、JSON-LD 结构化数据、`sitemap.xml`、`llms.txt`、`tools.md`
@@ -23,9 +24,10 @@
 `.github/workflows/daily-update.yml` 每天北京时间 08:00 运行（也可手动触发）：
 
 1. `scripts/update.py`：刷新 GitHub Star，抓取近 7 天新建的 `topic:ai` 仓库和近 48 小时 Show HN 帖子；Star ≥ 200 且关键词唯一匹配某场景的仓库会自动收录并标记「新收录」（14 天）
-2. `scripts/linkcheck.py --prune-auto`：检查链接，只自动移除失效的「自动收录」条目
-3. `scripts/build.py`：重新生成全部页面
-4. 有变化时自动提交推送，GitHub Pages 与 Vercel 随之重新部署
+2. `scripts/rank.py`：下载最新 Tranco 榜单，为场景内工具重新排序
+3. `scripts/linkcheck.py --prune-auto`：检查链接，只自动移除失效的「自动收录」条目
+4. `scripts/build.py`：重新生成全部页面
+5. 有变化时自动提交推送，GitHub Pages 与 Vercel 随之重新部署
 
 ## 📁 项目结构
 
@@ -33,6 +35,7 @@
 data/tools.json        # 唯一数据源：场景、工具、排行榜、每日快报
 scripts/seed.py        # 初始数据
 scripts/update.py      # 每日抓取与自动收录
+scripts/rank.py        # 按 Tranco/GitHub Star 排序场景内工具
 scripts/linkcheck.py   # 链接检查
 scripts/build.py       # 生成 index.html、s/*.html、关于/免责/隐私页、sitemap、llms.txt、tools.md
 api/subscribe.js       # Vercel 函数：订阅（写入 Resend 联系人分组）
@@ -67,6 +70,7 @@ GH_TOKEN=xxx python3 scripts/update.py   # 抓取更新（令牌可选，用于�
 
 - 工具信息：人工整理，来自各工具官网
 - Star 数与新仓库：[GitHub REST API](https://docs.github.com/rest)
+- 网站流行度：[Tranco](https://tranco-list.eu/)
 - Show HN：[Hacker News Algolia API](https://hn.algolia.com/api)
 
 ## ⚠️ 免责声明
