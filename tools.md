@@ -84,7 +84,7 @@
 
 ## 每日新品快报（2026-10-16）
 
-- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)（GitHub，★ 1033）A design system for AI applications. Material, physical, tactile, technical.
+- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)（GitHub，★ 1042）A design system for AI applications. Material, physical, tactile, technical.
 - [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)（GitHub，★ 1028）Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
 - [datalab-to/indra](https://github.com/datalab-to/indra)（GitHub，★ 361）Fast CPU OCR: line detection, CTC recognition, reading order, markdown
 - [vakandi/opencode-rust](https://github.com/vakandi/opencode-rust)（GitHub，★ 71）The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.
