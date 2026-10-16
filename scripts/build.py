@@ -1,6 +1,7 @@
 """由 data/tools.json 生成静态 HTML（首页 + 场景页）、sitemap.xml、robots.txt、llms.txt、tools.md。"""
 import json,html,os,datetime
 B="https://nyxk7.github.io/ai-tools-nav"
+API="https://ai-tools-nav-seven-pearl.vercel.app/api/subscribe"
 d=json.load(open("data/tools.json")); E=lambda s:html.escape(str(s or ""),quote=True)
 upd=d.get("updated") or ""; day=upd[:10] or datetime.date.today().isoformat()
 FEED="https://github.com/NyxK7/ai-tools-nav/issues/new/choose"
@@ -34,11 +35,11 @@ def page(path,title,desc,kw,body,ld,root):
 <nav class="scn" aria-label="业务场景">{navs}</nav></header>
 <main id="main">{body}</main>
 <footer><p>数据更新时间：{E(upd)} · 每日自动更新 · <a href="{root}tools.md">纯文本工具清单</a> · <a href="{root}llms.txt">llms.txt</a> · <a href="https://github.com/NyxK7/ai-tools-nav">源码</a> · <a href="{FEED}" target="_blank" rel="noopener">反馈</a></p>
-<p>工具介绍与价格以官网为准，本站不收取工具方费用。</p></footer><script src="{root}app.js" defer></script></body></html>'''
+<p>工具介绍与价格以官网为准，本站不收取工具方费用。</p></footer><script src="{root}app.js" defer></script><script>if(/\\.vercel\\.app$/.test(location.hostname)){{var s=document.createElement("script");s.defer=1;s.src="/_vercel/insights/script.js";document.head.appendChild(s)}}</script></body></html>'''
 alltools=[t for s in d["scenes"] for t in s["tools"]]
-sub=f'''<section id="subscribe" aria-labelledby="h-sub"><h2 id="h-sub">邮件订阅（即将上线）</h2><p>每周一封：本周最值得试的 AI 新工具 + 场景选型建议。订阅功能正在准备中，
-可先 <a href="https://github.com/NyxK7/ai-tools-nav" target="_blank" rel="noopener">在 GitHub 上 Watch 本项目</a> 获取更新。</p>
-<form class="sub" onsubmit="return false"><label for="em" class="sr">邮箱地址</label><input id="em" type="email" placeholder="your@email.com" disabled><button type="button" disabled>即将上线</button></form>
+sub=f'''<section id="subscribe" aria-labelledby="h-sub"><h2 id="h-sub">邮件订阅</h2><p>每周一封：本周最值得试的 AI 新工具 + 场景选型建议。随时可退订。</p>
+<form class="sub" id="subf" action="{API}" method="post"><label for="em" class="sr">邮箱地址</label><input id="em" name="email" type="email" placeholder="your@email.com" required maxlength="254" autocomplete="email"><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px" title="请勿填写"><button type="submit">订阅</button></form>
+<p id="subm" role="status" aria-live="polite"></p>
 <p>发现工具失效、想推荐工具或有建议？<a href="{FEED}" target="_blank" rel="noopener">在 GitHub Issues 反馈</a></p></section>'''
 # 首页
 sc="".join(f'<section class="scene" id="{s["slug"]}" aria-labelledby="h-{s["slug"]}"><h3 id="h-{s["slug"]}"><a href="s/{s["slug"]}.html">{E(s["name"])}</a> <small>{len(s["tools"])} 个工具</small></h3><ul class="grid">{"".join(card(t) for t in s["tools"])}</ul></section>' for s in d["scenes"])
