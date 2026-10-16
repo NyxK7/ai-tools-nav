@@ -50,7 +50,7 @@ for it in items:
     hit=[k for k,ws in RULES.items() if any(re.search(r"\b"+re.escape(w)+r"\b",text) for w in ws)]
     if len(hit)!=1 or it["url"].lower() in existing: continue
     bys[hit[0]]["tools"].append({"name":it["title"].split("/")[-1],"url":it["url"],"desc":it["desc"] or "GitHub 新热门开源项目",
-      "pricing":"开源","github":it["title"],"auto":True,"added":today})
+      "pricing":"开源","avail":"oss","github":it["title"],"auto":True,"added":today})
     existing.add(it["url"].lower()); print("新收录",hit[0],it["title"])
 # 新收录标记保留 14 天
 for s in d["scenes"]:
