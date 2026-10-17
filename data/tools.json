@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 01:05 UTC",
+ "updated": "2026-10-17 03:12 UTC",
  "scenes": [
   {
    "name": "写作",
@@ -204,7 +204,7 @@
      "desc": "开源 VS Code 编程智能体",
      "pricing": "开源免费",
      "github": "cline/cline",
-     "stars": 70426,
+     "stars": 70430,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -268,7 +268,7 @@
      "desc": "终端里的开源结对编程助手",
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
-     "stars": 49587,
+     "stars": 49588,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -363,7 +363,7 @@
      "desc": "节点式开源图像/视频生成工作流",
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
-     "stars": 137925,
+     "stars": 137941,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -641,12 +641,12 @@
      "desc": "开源语音识别与转写模型",
      "pricing": "开源免费",
      "github": "openai/whisper",
-     "stars": 110696,
+     "stars": 110699,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 110696,
+      "stars": 110699,
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
@@ -663,7 +663,7 @@
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
-     "stars": 118519,
+     "stars": 118526,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -758,7 +758,7 @@
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
-     "stars": 207708,
+     "stars": 207724,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -775,7 +775,7 @@
      "desc": "构建 LLM 应用与智能体的开源框架",
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
-     "stars": 147949,
+     "stars": 147951,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -808,7 +808,7 @@
      "desc": "开源 LLM 应用与智能体搭建平台",
      "pricing": "开源/付费",
      "github": "langgenius/dify",
-     "stars": 158669,
+     "stars": 158676,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -979,7 +979,7 @@
      "desc": "开源全渠道客服平台，支持 AI",
      "pricing": "开源/付费",
      "github": "chatwoot/chatwoot",
-     "stars": 37871,
+     "stars": 37873,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -1008,7 +1008,7 @@
    "name": "n8n",
    "url": "https://n8n.io",
    "scene": "智能体/自动化",
-   "stars": 207708,
+   "stars": 207724,
    "repo": "n8n-io/n8n"
   },
   {
@@ -1022,56 +1022,56 @@
    "name": "Dify",
    "url": "https://dify.ai",
    "scene": "智能体/自动化",
-   "stars": 158669,
+   "stars": 158676,
    "repo": "langgenius/dify"
   },
   {
    "name": "LangChain",
    "url": "https://www.langchain.com",
    "scene": "智能体/自动化",
-   "stars": 147949,
+   "stars": 147951,
    "repo": "langchain-ai/langchain"
   },
   {
    "name": "ComfyUI",
    "url": "https://www.comfy.org",
    "scene": "图像设计",
-   "stars": 137925,
+   "stars": 137941,
    "repo": "comfyanonymous/ComfyUI"
   },
   {
    "name": "Godot",
    "url": "https://godotengine.org",
    "scene": "游戏开发",
-   "stars": 118519,
+   "stars": 118526,
    "repo": "godotengine/godot"
   },
   {
    "name": "Whisper",
    "url": "https://github.com/openai/whisper",
    "scene": "音频",
-   "stars": 110696,
+   "stars": 110699,
    "repo": "openai/whisper"
   },
   {
    "name": "Cline",
    "url": "https://cline.bot",
    "scene": "编程/Vibe coding",
-   "stars": 70426,
+   "stars": 70430,
    "repo": "cline/cline"
   },
   {
    "name": "Aider",
    "url": "https://aider.chat",
    "scene": "编程/Vibe coding",
-   "stars": 49587,
+   "stars": 49588,
    "repo": "Aider-AI/aider"
   },
   {
    "name": "Chatwoot",
    "url": "https://www.chatwoot.com",
    "scene": "客服营销",
-   "stars": 37871,
+   "stars": 37873,
    "repo": "chatwoot/chatwoot"
   }
  ],
@@ -1081,28 +1081,28 @@
    "title": "deeplethe/solid-glass",
    "url": "https://github.com/deeplethe/solid-glass",
    "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-   "metric": "★ 1390"
+   "metric": "★ 1443"
   },
   {
    "source": "GitHub",
    "title": "zhuyansen/new-term-radar",
    "url": "https://github.com/zhuyansen/new-term-radar",
    "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-   "metric": "★ 1066"
+   "metric": "★ 1067"
   },
   {
    "source": "GitHub",
    "title": "datalab-to/indra",
    "url": "https://github.com/datalab-to/indra",
    "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-   "metric": "★ 451"
+   "metric": "★ 459"
   },
   {
    "source": "GitHub",
    "title": "songshikang0111/awesome-REA-cases",
    "url": "https://github.com/songshikang0111/awesome-REA-cases",
    "desc": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
-   "metric": "★ 73"
+   "metric": "★ 74"
   },
   {
    "source": "GitHub",
@@ -1116,14 +1116,14 @@
    "title": "apenasdouglas/ai-motion-library",
    "url": "https://github.com/apenasdouglas/ai-motion-library",
    "desc": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, ski",
-   "metric": "★ 65"
+   "metric": "★ 66"
   },
   {
    "source": "GitHub",
    "title": "guolola/SoftJL",
    "url": "https://github.com/guolola/SoftJL",
    "desc": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOCX specifications",
-   "metric": "★ 53"
+   "metric": "★ 54"
   },
   {
    "source": "GitHub",
@@ -1144,7 +1144,7 @@
    "title": "robinebers/attentionmachine-skills",
    "url": "https://github.com/robinebers/attentionmachine-skills",
    "desc": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
-   "metric": "★ 34"
+   "metric": "★ 35"
   },
   {
    "source": "Hacker News",
@@ -1159,7 +1159,7 @@
    "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
    "url": "https://github.com/rlshaw-ml/BlastLoop",
    "desc": "",
-   "metric": "▲ 14 分",
+   "metric": "▲ 15 分",
    "hn": "https://news.ycombinator.com/item?id=50106062"
   },
   {
@@ -1167,7 +1167,7 @@
    "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
    "url": "https://stoke.money",
    "desc": "",
-   "metric": "▲ 21 分",
+   "metric": "▲ 23 分",
    "hn": "https://news.ycombinator.com/item?id=50122776"
   }
  ],
