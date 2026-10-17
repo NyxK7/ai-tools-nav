@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 02:42 UTC",
+ "updated": "2026-10-17 01:05 UTC",
  "scenes": [
   {
    "name": "写作",
@@ -14,10 +14,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 96,
+      "rank": 98,
       "domain": "chatgpt.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -30,10 +30,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 427,
+      "rank": 420,
       "domain": "claude.ai",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -42,12 +42,13 @@
      "desc": "深度求索推出的大模型与对话助手，支持深度思考模式",
      "pricing": "免费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 1237,
+      "rank": 1231,
       "domain": "deepseek.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -56,12 +57,13 @@
      "desc": "字节跳动推出的 AI 助手，支持对话、写作、翻译与文档总结",
      "pricing": "免费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 2561,
+      "rank": 2563,
       "domain": "doubao.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -74,10 +76,10 @@
      "avail": "cn",
      "signal": {
       "type": "tranco",
-      "rank": 6897,
+      "rank": 6890,
       "domain": "kimi.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -86,12 +88,13 @@
      "desc": "阿里巴巴推出的 AI 助手，支持对话、写作与长文档阅读",
      "pricing": "免费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 10285,
+      "rank": 10268,
       "domain": "qianwen.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -100,12 +103,13 @@
      "desc": "智谱 AI 基于 GLM 模型的对话助手",
      "pricing": "免费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 29176,
+      "rank": 29011,
       "domain": "chatglm.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -114,12 +118,13 @@
      "desc": "昆仑万维推出的 AI 助手，提供搜索、写作与办公智能体",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 114372,
+      "rank": 114478,
       "domain": "tiangong.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -127,21 +132,24 @@
      "url": "https://yiyan.baidu.com",
      "desc": "百度推出的 AI 助手（现名文心助手），支持写作与问答",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     },
     {
      "name": "讯飞星火",
      "url": "https://xinghuo.xfyun.cn",
      "desc": "科大讯飞推出的 AI 助手，支持写作、语音交互等",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     },
     {
      "name": "腾讯元宝",
      "url": "https://yuanbao.tencent.com",
      "desc": "腾讯推出的 AI 助手，可接入微信公众号内容进行搜索与问答",
      "pricing": "免费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     },
     {
      "name": "Notion AI",
@@ -168,10 +176,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 3162,
+      "rank": 3170,
       "domain": "lovable.dev",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -184,10 +192,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 3241,
+      "rank": 3239,
       "domain": "cursor.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -196,15 +204,15 @@
      "desc": "开源 VS Code 编程智能体",
      "pricing": "开源免费",
      "github": "cline/cline",
-     "stars": 70379,
+     "stars": 70426,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 11738,
+      "rank": 11534,
       "domain": "cline.bot",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -217,10 +225,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 27709,
+      "rank": 27712,
       "domain": "bolt.new",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -229,12 +237,13 @@
      "desc": "字节跳动推出的 AI 编程 IDE（豆包 MarsCode 编程助手已并入 Trae 插件）",
      "pricing": "免费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 38454,
+      "rank": 38654,
       "domain": "trae.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -247,10 +256,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 50926,
+      "rank": 50905,
       "domain": "v0.dev",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -259,15 +268,15 @@
      "desc": "终端里的开源结对编程助手",
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
-     "stars": 49569,
+     "stars": 49587,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 96375,
+      "rank": 96153,
       "domain": "aider.chat",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -276,12 +285,13 @@
      "desc": "智谱 AI 推出的多语言代码生成与补全插件",
      "pricing": "免费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 198469,
+      "rank": 200256,
       "domain": "codegeex.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -289,14 +299,16 @@
      "url": "https://lingma.aliyun.com",
      "desc": "阿里云推出的 IDE 编程插件，支持代码补全与对话式编程",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     },
     {
      "name": "文心快码 Comate",
      "url": "https://comate.baidu.com",
      "desc": "百度推出的智能编程助手，支持主流 IDE",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     },
     {
      "name": "GitHub Copilot",
@@ -325,8 +337,8 @@
       "type": "tranco",
       "rank": 883,
       "domain": "figma.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -339,10 +351,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 4983,
+      "rank": 5001,
       "domain": "midjourney.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -351,15 +363,15 @@
      "desc": "节点式开源图像/视频生成工作流",
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
-     "stars": 137739,
+     "stars": 137925,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 21328,
+      "rank": 21259,
       "domain": "comfy.org",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -372,10 +384,10 @@
      "avail": "cn",
      "signal": {
       "type": "tranco",
-      "rank": 21632,
+      "rank": 21467,
       "domain": "canva.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -384,12 +396,13 @@
      "desc": "在线平面设计平台，提供 AI 生成与编辑功能",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 36438,
+      "rank": 36499,
       "domain": "gaoding.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -398,12 +411,13 @@
      "desc": "AI 绘画模型分享与在线生图平台",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 53750,
+      "rank": 54192,
       "domain": "liblib.art",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -412,12 +426,13 @@
      "desc": "美图推出的 AI 商业设计工具，支持抠图、海报与商品图",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 435553,
+      "rank": 437463,
       "domain": "x-design.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -426,12 +441,12 @@
      "desc": "本地运行的开源图像生成界面",
      "pricing": "开源免费",
      "github": "AUTOMATIC1111/stable-diffusion-webui",
-     "stars": 165059,
+     "stars": 165072,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 165059,
+      "stars": 165072,
       "repo": "AUTOMATIC1111/stable-diffusion-webui",
       "source": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
      }
@@ -441,7 +456,8 @@
      "url": "https://jimeng.jianying.com",
      "desc": "字节跳动旗下的 AI 图片与视频创作平台",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     }
    ],
    "slug": "image"
@@ -459,10 +475,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 6431,
+      "rank": 6382,
       "domain": "runwayml.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -475,10 +491,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 13786,
+      "rank": 13793,
       "domain": "heygen.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -491,10 +507,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 27681,
+      "rank": 27802,
       "domain": "pika.art",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -503,12 +519,13 @@
      "desc": "字节跳动推出的视频剪辑工具，内置 AI 字幕、配音等功能",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 97175,
+      "rank": 96933,
       "domain": "capcut.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -517,12 +534,13 @@
      "desc": "MiniMax 推出的 AI 视频生成平台",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 102742,
+      "rank": 102688,
       "domain": "hailuoai.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -531,12 +549,13 @@
      "desc": "生数科技推出的文生视频/图生视频平台",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 491484,
+      "rank": 489538,
       "domain": "vidu.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -564,10 +583,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 2713,
+      "rank": 2714,
       "domain": "suno.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -580,10 +599,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 3495,
+      "rank": 3483,
       "domain": "elevenlabs.io",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -592,12 +611,13 @@
      "desc": "科大讯飞推出的录音转文字、会议记录与翻译服务",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 58822,
+      "rank": 58901,
       "domain": "iflyrec.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -606,12 +626,13 @@
      "desc": "AI 配音平台，适用于短视频与有声内容",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 285217,
+      "rank": 284894,
       "domain": "moyin.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -620,12 +641,12 @@
      "desc": "开源语音识别与转写模型",
      "pricing": "开源免费",
      "github": "openai/whisper",
-     "stars": 110610,
+     "stars": 110696,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 110610,
+      "stars": 110696,
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
@@ -642,15 +663,15 @@
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
-     "stars": 118475,
+     "stars": 118519,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 15382,
+      "rank": 15405,
       "domain": "godotengine.org",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -663,10 +684,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 17904,
+      "rank": 17809,
       "domain": "meshy.ai",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -679,10 +700,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 133063,
+      "rank": 132049,
       "domain": "scenario.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -695,10 +716,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 229918,
+      "rank": 228860,
       "domain": "rosebud.ai",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -706,7 +727,8 @@
      "url": "https://3d.hunyuan.tencent.com",
      "desc": "腾讯推出的文本/图片生成 3D 模型工具",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     }
    ],
    "slug": "gamedev"
@@ -724,10 +746,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 2921,
+      "rank": 2928,
       "domain": "zapier.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -736,15 +758,15 @@
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
-     "stars": 207554,
+     "stars": 207708,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 5947,
+      "rank": 5934,
       "domain": "n8n.io",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -753,15 +775,15 @@
      "desc": "构建 LLM 应用与智能体的开源框架",
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
-     "stars": 147896,
+     "stars": 147949,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 14476,
+      "rank": 14485,
       "domain": "langchain.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -774,10 +796,10 @@
      "avail": "cn",
      "signal": {
       "type": "tranco",
-      "rank": 36532,
+      "rank": 36959,
       "domain": "coze.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -786,15 +808,15 @@
      "desc": "开源 LLM 应用与智能体搭建平台",
      "pricing": "开源/付费",
      "github": "langgenius/dify",
-     "stars": 158596,
+     "stars": 158669,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 49027,
+      "rank": 48967,
       "domain": "dify.ai",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -802,7 +824,8 @@
      "url": "https://yuanqi.tencent.com",
      "desc": "腾讯推出的 AI 智能体创建与分发平台",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     }
    ],
    "slug": "agents"
@@ -820,10 +843,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 679,
+      "rank": 680,
       "domain": "perplexity.ai",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -836,10 +859,10 @@
      "avail": "cn",
      "signal": {
       "type": "tranco",
-      "rank": 2396,
+      "rank": 2428,
       "domain": "feishu.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -848,12 +871,13 @@
      "desc": "钉钉内置的 AI 助理，支持会议纪要、文档与审批",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 3637,
+      "rank": 3639,
       "domain": "dingtalk.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -866,10 +890,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 3865,
+      "rank": 3870,
       "domain": "gamma.app",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -878,12 +902,13 @@
      "desc": "带来源引用的 AI 搜索引擎",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 85523,
+      "rank": 85428,
       "domain": "metaso.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -892,12 +917,13 @@
      "desc": "输入主题即可生成 PPT 的在线工具",
      "pricing": "免费+付费",
      "avail": "cn",
+     "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 177766,
+      "rank": 178380,
       "domain": "aippt.cn",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -905,14 +931,16 @@
      "url": "https://ai.wps.cn",
      "desc": "金山办公推出的 AI 办公助手，支持文档、表格与演示",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     },
     {
      "name": "讯飞智文",
      "url": "https://zhiwen.xfyun.cn",
      "desc": "科大讯飞推出的 AI 生成 PPT 与文档工具",
      "pricing": "免费+付费",
-     "avail": "cn"
+     "avail": "cn",
+     "new": false
     },
     {
      "name": "NotebookLM",
@@ -939,10 +967,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 12582,
+      "rank": 12626,
       "domain": "jasper.ai",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -951,15 +979,15 @@
      "desc": "开源全渠道客服平台，支持 AI",
      "pricing": "开源/付费",
      "github": "chatwoot/chatwoot",
-     "stars": 37838,
+     "stars": 37871,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 32974,
+      "rank": 32886,
       "domain": "chatwoot.com",
-      "source": "https://tranco-list.eu/list/Y8JGG/1000000",
-      "date": "2026-10-15"
+      "source": "https://tranco-list.eu/list/64VVX/1000000",
+      "date": "2026-10-16"
      }
     },
     {
@@ -980,70 +1008,70 @@
    "name": "n8n",
    "url": "https://n8n.io",
    "scene": "智能体/自动化",
-   "stars": 207554,
+   "stars": 207708,
    "repo": "n8n-io/n8n"
   },
   {
    "name": "Stable Diffusion WebUI",
    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
    "scene": "图像设计",
-   "stars": 165059,
+   "stars": 165072,
    "repo": "AUTOMATIC1111/stable-diffusion-webui"
   },
   {
    "name": "Dify",
    "url": "https://dify.ai",
    "scene": "智能体/自动化",
-   "stars": 158596,
+   "stars": 158669,
    "repo": "langgenius/dify"
   },
   {
    "name": "LangChain",
    "url": "https://www.langchain.com",
    "scene": "智能体/自动化",
-   "stars": 147896,
+   "stars": 147949,
    "repo": "langchain-ai/langchain"
   },
   {
    "name": "ComfyUI",
    "url": "https://www.comfy.org",
    "scene": "图像设计",
-   "stars": 137739,
+   "stars": 137925,
    "repo": "comfyanonymous/ComfyUI"
   },
   {
    "name": "Godot",
    "url": "https://godotengine.org",
    "scene": "游戏开发",
-   "stars": 118475,
+   "stars": 118519,
    "repo": "godotengine/godot"
   },
   {
    "name": "Whisper",
    "url": "https://github.com/openai/whisper",
    "scene": "音频",
-   "stars": 110610,
+   "stars": 110696,
    "repo": "openai/whisper"
   },
   {
    "name": "Cline",
    "url": "https://cline.bot",
    "scene": "编程/Vibe coding",
-   "stars": 70379,
+   "stars": 70426,
    "repo": "cline/cline"
   },
   {
    "name": "Aider",
    "url": "https://aider.chat",
    "scene": "编程/Vibe coding",
-   "stars": 49569,
+   "stars": 49587,
    "repo": "Aider-AI/aider"
   },
   {
    "name": "Chatwoot",
    "url": "https://www.chatwoot.com",
    "scene": "客服营销",
-   "stars": 37838,
+   "stars": 37871,
    "repo": "chatwoot/chatwoot"
   }
  ],
@@ -1053,49 +1081,49 @@
    "title": "deeplethe/solid-glass",
    "url": "https://github.com/deeplethe/solid-glass",
    "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-   "metric": "★ 1042"
+   "metric": "★ 1390"
   },
   {
    "source": "GitHub",
    "title": "zhuyansen/new-term-radar",
    "url": "https://github.com/zhuyansen/new-term-radar",
    "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-   "metric": "★ 1028"
+   "metric": "★ 1066"
   },
   {
    "source": "GitHub",
    "title": "datalab-to/indra",
    "url": "https://github.com/datalab-to/indra",
    "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-   "metric": "★ 361"
-  },
-  {
-   "source": "GitHub",
-   "title": "vakandi/opencode-rust",
-   "url": "https://github.com/vakandi/opencode-rust",
-   "desc": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
-   "metric": "★ 71"
+   "metric": "★ 451"
   },
   {
    "source": "GitHub",
    "title": "songshikang0111/awesome-REA-cases",
    "url": "https://github.com/songshikang0111/awesome-REA-cases",
    "desc": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
-   "metric": "★ 63"
+   "metric": "★ 73"
+  },
+  {
+   "source": "GitHub",
+   "title": "vakandi/opencode-rust",
+   "url": "https://github.com/vakandi/opencode-rust",
+   "desc": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
+   "metric": "★ 72"
   },
   {
    "source": "GitHub",
    "title": "apenasdouglas/ai-motion-library",
    "url": "https://github.com/apenasdouglas/ai-motion-library",
    "desc": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, ski",
-   "metric": "★ 63"
+   "metric": "★ 65"
   },
   {
    "source": "GitHub",
    "title": "guolola/SoftJL",
    "url": "https://github.com/guolola/SoftJL",
    "desc": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOCX specifications",
-   "metric": "★ 39"
+   "metric": "★ 53"
   },
   {
    "source": "GitHub",
@@ -1109,51 +1137,43 @@
    "title": "SubmitGame/awesome-ai-game-dev-tools",
    "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
    "desc": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
-   "metric": "★ 31"
+   "metric": "★ 35"
   },
   {
    "source": "GitHub",
    "title": "robinebers/attentionmachine-skills",
    "url": "https://github.com/robinebers/attentionmachine-skills",
    "desc": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
-   "metric": "★ 31"
+   "metric": "★ 34"
   },
   {
    "source": "Hacker News",
-   "title": "Show HN: The first short movie built using code and AI",
-   "url": "https://fframes.studio/the-why/",
+   "title": "Show HN: rStation – A shared research lab for your AI agents",
+   "url": "https://rstation.ai/",
    "desc": "",
-   "metric": "▲ 14 分",
-   "hn": "https://news.ycombinator.com/item?id=50089045"
+   "metric": "▲ 50 分",
+   "hn": "https://news.ycombinator.com/item?id=50118876"
   },
   {
    "source": "Hacker News",
    "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
    "url": "https://github.com/rlshaw-ml/BlastLoop",
    "desc": "",
-   "metric": "▲ 12 分",
+   "metric": "▲ 14 分",
    "hn": "https://news.ycombinator.com/item?id=50106062"
   },
   {
    "source": "Hacker News",
-   "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-   "url": "https://clova.email/",
+   "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+   "url": "https://stoke.money",
    "desc": "",
-   "metric": "▲ 110 分",
-   "hn": "https://news.ycombinator.com/item?id=50090932"
-  },
-  {
-   "source": "Hacker News",
-   "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-   "url": "https://github.com/graphicle-ai/graphicle",
-   "desc": "",
-   "metric": "▲ 47 分",
-   "hn": "https://news.ycombinator.com/item?id=50088713"
+   "metric": "▲ 21 分",
+   "hn": "https://news.ycombinator.com/item?id=50122776"
   }
  ],
  "ranking": {
   "method": "tranco",
-  "list_id": "Y8JGG",
-  "date": "2026-10-15"
+  "list_id": "64VVX",
+  "date": "2026-10-16"
  }
 }
