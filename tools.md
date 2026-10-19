@@ -7,7 +7,7 @@
 
 - [ChatGPT](https://chatgpt.com)：OpenAI 推出的通用对话助手（境外服务，国内可能无法直接使用，免费+付费）
 - [Claude](https://claude.ai)：Anthropic 推出的对话助手，支持长文本写作与分析（境外服务，国内可能无法直接使用，免费+付费）
-- [DeepSeek](https://www.deepseek.com)：深度求索推出的大模型与对话助手，支持深度思考模式（国内服务，免费）
+- [DeepSeek](https://www.deepseek.com)：深度求索推出的大模型与对话助手，原生支持看图理解与 100 万 token 上下文，智能体与编程能力强，使用成本低（国内服务，免费）
 - [豆包](https://www.doubao.com)：字节跳动推出的 AI 助手，支持对话、写作、翻译与文档总结（国内服务，免费）
 - [Kimi](https://www.kimi.com)：月之暗面推出的 AI 助手，支持长文档阅读与写作（国内服务，免费）
 - [通义千问（千问）](https://www.qianwen.com)：阿里巴巴推出的 AI 助手，支持对话、写作与长文档阅读（国内服务，免费）
@@ -112,6 +112,7 @@
 
 ## 每日新品快报（2026-10-18）
 
+- [DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)（DeepSeek 官方，2026-10-17 发布）DeepSeek V4.1 Flash 小版本更新（10 月 17 日）：552B 参数 MoE，原生看图理解，100 万 token 上下文；Terminal-Bench 4.0 从 31.2 提升到 42.3、DeepSWE 达 77.0，智能体与编程能力明显增强，API 模型名 deepseek-flash，闲时半价。
 - [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)（GitHub，★ 1772）A design system for AI applications. Material, physical, tactile, technical.
 - [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)（GitHub，★ 1084）Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
 - [datalab-to/indra](https://github.com/datalab-to/indra)（GitHub，★ 589）Fast CPU OCR: line detection, CTC recognition, reading order, markdown

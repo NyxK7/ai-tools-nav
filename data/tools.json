@@ -39,7 +39,7 @@
     {
      "name": "DeepSeek",
      "url": "https://www.deepseek.com",
-     "desc": "深度求索推出的大模型与对话助手，支持深度思考模式",
+     "desc": "深度求索推出的大模型与对话助手，原生支持看图理解与 100 万 token 上下文，智能体与编程能力强，使用成本低",
      "pricing": "免费",
      "avail": "cn",
      "new": false,
@@ -1076,6 +1076,13 @@
   }
  ],
  "daily": [
+  {
+   "source": "DeepSeek 官方",
+   "title": "DeepSeek-V4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "desc": "DeepSeek V4.1 Flash 小版本更新（10 月 17 日）：552B 参数 MoE，原生看图理解，100 万 token 上下文；Terminal-Bench 4.0 从 31.2 提升到 42.3、DeepSWE 达 77.0，智能体与编程能力明显增强，API 模型名 deepseek-flash，闲时半价。",
+   "metric": "2026-10-17 发布"
+  },
   {
    "source": "GitHub",
    "title": "deeplethe/solid-glass",
