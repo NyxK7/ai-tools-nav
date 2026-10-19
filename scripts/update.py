@@ -1,5 +1,6 @@
-"""每日更新：抓取 GitHub stars、GitHub 新热门 AI 仓库、Hacker News AI 热帖。"""
+"""每日更新：抓取 GitHub stars、GitHub 新热门 AI 仓库、Hacker News AI 热帖，并合并 pinned_digest 中的置顶条目。"""
 import json,os,urllib.request,urllib.parse,datetime
+from digest import merge
 T=os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
 def get(u,gh=False):
     h={"User-Agent":"ai-tools-nav"}
@@ -15,7 +16,6 @@ for s in d["scenes"]:
                 r=get("https://api.github.com/repos/"+t["github"],True)
                 t["stars"]=r["stargazers_count"]; board.append({"name":t["name"],"url":t["url"],"scene":s["name"],"stars":t["stars"],"repo":t["github"]})
             except Exception as e: print("skip",t["github"],e)
-d["leaderboard"]=sorted(board,key=lambda x:-x["stars"])
 since=(now-datetime.timedelta(days=7)).strftime("%Y-%m-%d")
 items=[]
 try:
@@ -28,7 +28,7 @@ try:
     for h in get(f"https://hn.algolia.com/api/v1/search?query=AI&tags=show_hn&numericFilters=created_at_i>{ts},points>10&hitsPerPage=10")["hits"]:
         items.append({"source":"Hacker News","title":h["title"],"url":h.get("url") or f"https://news.ycombinator.com/item?id={h['objectID']}","desc":"","metric":f"▲ {h['points']} 分","hn":f"https://news.ycombinator.com/item?id={h['objectID']}"})
 except Exception as e: print("hn fail",e)
-if items: d["daily"]=items
+merge(d,items,now.date())  # 置顶的官方发布保留 14 天，其余为本次抓取
 
 # —— 保守的自动收录：只收 GitHub 新仓库，Star≥200，且只命中一个场景的关键词 ——
 RULES={"coding":["coding agent","code editor","copilot","vibe coding","code generation","ide","developer tool","cli for code"],
@@ -58,4 +58,4 @@ for s in d["scenes"]:
         t["new"]=bool(t.get("added")) and (now-datetime.datetime.fromisoformat(t["added"]).replace(tzinfo=datetime.timezone.utc)).days<14
 d["updated"]=now.strftime("%Y-%m-%d %H:%M UTC")
 json.dump(d,open("data/tools.json","w"),ensure_ascii=False,indent=1)
-print(len(board),"ranked,",len(items),"daily")
+print(len(board),"stars refreshed,",len(items),"fetched,",len(d["daily"]),"daily (incl. pinned)")

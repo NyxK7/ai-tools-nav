@@ -1005,74 +1005,184 @@
  ],
  "leaderboard": [
   {
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com",
+   "scene": "写作",
+   "metric": "Tranco #103",
+   "signal": "tranco",
+   "rank": 103,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Claude",
+   "url": "https://claude.ai",
+   "scene": "写作",
+   "metric": "Tranco #418",
+   "signal": "tranco",
+   "rank": 418,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Perplexity",
+   "url": "https://www.perplexity.ai",
+   "scene": "办公效率",
+   "metric": "Tranco #680",
+   "signal": "tranco",
+   "rank": 680,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Figma",
+   "url": "https://www.figma.com",
+   "scene": "图像设计",
+   "metric": "Tranco #890",
+   "signal": "tranco",
+   "rank": 890,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "DeepSeek",
+   "url": "https://www.deepseek.com",
+   "scene": "写作",
+   "metric": "Tranco #1,231",
+   "signal": "tranco",
+   "rank": 1231,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "飞书智能伙伴",
+   "url": "https://www.feishu.cn",
+   "scene": "办公效率",
+   "metric": "Tranco #2,449",
+   "signal": "tranco",
+   "rank": 2449,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "豆包",
+   "url": "https://www.doubao.com",
+   "scene": "写作",
+   "metric": "Tranco #2,560",
+   "signal": "tranco",
+   "rank": 2560,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Suno",
+   "url": "https://suno.com",
+   "scene": "音频",
+   "metric": "Tranco #2,712",
+   "signal": "tranco",
+   "rank": 2712,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Zapier",
+   "url": "https://zapier.com",
+   "scene": "智能体/自动化",
+   "metric": "Tranco #2,931",
+   "signal": "tranco",
+   "rank": 2931,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Lovable",
+   "url": "https://lovable.dev",
+   "scene": "编程/Vibe coding",
+   "metric": "Tranco #3,176",
+   "signal": "tranco",
+   "rank": 3176,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Cursor",
+   "url": "https://cursor.com",
+   "scene": "编程/Vibe coding",
+   "metric": "Tranco #3,238",
+   "signal": "tranco",
+   "rank": 3238,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "ElevenLabs",
+   "url": "https://elevenlabs.io",
+   "scene": "音频",
+   "metric": "Tranco #3,461",
+   "signal": "tranco",
+   "rank": 3461,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "钉钉 AI",
+   "url": "https://www.dingtalk.com",
+   "scene": "办公效率",
+   "metric": "Tranco #3,646",
+   "signal": "tranco",
+   "rank": 3646,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Gamma",
+   "url": "https://gamma.app",
+   "scene": "办公效率",
+   "metric": "Tranco #3,865",
+   "signal": "tranco",
+   "rank": 3865,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
+   "name": "Midjourney",
+   "url": "https://www.midjourney.com",
+   "scene": "图像设计",
+   "metric": "Tranco #5,019",
+   "signal": "tranco",
+   "rank": 5019,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
+  },
+  {
    "name": "n8n",
    "url": "https://n8n.io",
    "scene": "智能体/自动化",
-   "stars": 207837,
-   "repo": "n8n-io/n8n"
+   "metric": "Tranco #5,933",
+   "signal": "tranco",
+   "rank": 5933,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
   },
   {
-   "name": "Stable Diffusion WebUI",
-   "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-   "scene": "图像设计",
-   "stars": 165071,
-   "repo": "AUTOMATIC1111/stable-diffusion-webui"
+   "name": "Runway",
+   "url": "https://runwayml.com",
+   "scene": "视频",
+   "metric": "Tranco #6,384",
+   "signal": "tranco",
+   "rank": 6384,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
   },
   {
-   "name": "Dify",
-   "url": "https://dify.ai",
-   "scene": "智能体/自动化",
-   "stars": 158738,
-   "repo": "langgenius/dify"
+   "name": "Kimi",
+   "url": "https://www.kimi.com",
+   "scene": "写作",
+   "metric": "Tranco #6,886",
+   "signal": "tranco",
+   "rank": 6886,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
   },
   {
-   "name": "LangChain",
-   "url": "https://www.langchain.com",
-   "scene": "智能体/自动化",
-   "stars": 148006,
-   "repo": "langchain-ai/langchain"
-  },
-  {
-   "name": "ComfyUI",
-   "url": "https://www.comfy.org",
-   "scene": "图像设计",
-   "stars": 138080,
-   "repo": "comfyanonymous/ComfyUI"
-  },
-  {
-   "name": "Godot",
-   "url": "https://godotengine.org",
-   "scene": "游戏开发",
-   "stars": 118579,
-   "repo": "godotengine/godot"
-  },
-  {
-   "name": "Whisper",
-   "url": "https://github.com/openai/whisper",
-   "scene": "音频",
-   "stars": 110784,
-   "repo": "openai/whisper"
+   "name": "通义千问（千问）",
+   "url": "https://www.qianwen.com",
+   "scene": "写作",
+   "metric": "Tranco #10,277",
+   "signal": "tranco",
+   "rank": 10277,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
   },
   {
    "name": "Cline",
    "url": "https://cline.bot",
    "scene": "编程/Vibe coding",
-   "stars": 70479,
-   "repo": "cline/cline"
-  },
-  {
-   "name": "Aider",
-   "url": "https://aider.chat",
-   "scene": "编程/Vibe coding",
-   "stars": 49603,
-   "repo": "Aider-AI/aider"
-  },
-  {
-   "name": "Chatwoot",
-   "url": "https://www.chatwoot.com",
-   "scene": "客服营销",
-   "stars": 37910,
-   "repo": "chatwoot/chatwoot"
+   "metric": "Tranco #11,522",
+   "signal": "tranco",
+   "rank": 11522,
+   "source": "https://tranco-list.eu/list/8PX8V/1000000"
   }
  ],
  "daily": [
@@ -1081,7 +1191,9 @@
    "title": "DeepSeek-V4.1-Flash-1017",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "desc": "DeepSeek V4.1 Flash 小版本更新（10 月 17 日）：552B 参数 MoE，原生看图理解，100 万 token 上下文；Terminal-Bench 4.0 从 31.2 提升到 42.3、DeepSWE 达 77.0，智能体与编程能力明显增强，API 模型名 deepseek-flash，闲时半价。",
-   "metric": "2026-10-17 发布"
+   "metric": "2026-10-17 发布",
+   "pinned": true,
+   "date": "2026-10-17"
   },
   {
    "source": "GitHub",
@@ -1190,5 +1302,14 @@
   "method": "tranco",
   "list_id": "8PX8V",
   "date": "2026-10-17"
- }
+ },
+ "pinned_digest": [
+  {
+   "source": "DeepSeek 官方",
+   "title": "DeepSeek-V4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "desc": "DeepSeek V4.1 Flash 小版本更新（10 月 17 日）：552B 参数 MoE，原生看图理解，100 万 token 上下文；Terminal-Bench 4.0 从 31.2 提升到 42.3、DeepSWE 达 77.0，智能体与编程能力明显增强，API 模型名 deepseek-flash，闲时半价。",
+   "date": "2026-10-17"
+  }
+ ]
 }

@@ -21,10 +21,26 @@
    }
    ```
 
-   `avail` 取值：`cn` 国内服务、`oss` 开源可本地部署、`intl` 境外服务（国内可能无法直接使用）。开源项目可加 `"github": "owner/repo"` 以参与 Star 排行。
+   `avail` 取值：`cn` 国内服务、`oss` 开源可本地部署、`intl` 境外服务（国内可能无法直接使用）。开源项目可加 `"github": "owner/repo"` 以获取 Star 数；官网不在独立域名时，热门排行榜按 Star 数排名。
 
 3. 本地运行 `python3 scripts/build.py` 和 `python3 scripts/linkcheck.py`，确认生成正常、链接有效
 4. 提交 PR，说明收录理由
+
+## 在每日新品快报置顶官方发布
+
+快报每天由程序自动抓取并整栏刷新。重要的官方发布（如新模型）可手动置顶：在 `data/tools.json` 的 `pinned_digest` 数组里加一条：
+
+```json
+{
+  "source": "DeepSeek 官方",
+  "title": "DeepSeek-V4.1-Flash-1017",
+  "url": "https://官方发布页或模型页",
+  "desc": "中文一句到两句介绍，只写官方公布的信息",
+  "date": "2026-10-17"
+}
+```
+
+`date` 为发布日期（YYYY-MM-DD），显示为「YYYY-MM-DD 发布」。从该日起 14 天内（与「新收录」标记相同）置顶在快报最前，之后自动不再显示，条目保留作记录。合并逻辑在 `scripts/digest.py`，`update.py` 与 `build.py` 都会调用，每日抓取不会冲掉置顶。改完运行 `python3 scripts/build.py` 即可生效。
 
 ## 收录原则
 

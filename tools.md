@@ -97,18 +97,28 @@
 - [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 37910）
 - [Intercom Fin](https://www.intercom.com/fin)：AI 客服机器人自动回答客户问题（境外服务，国内可能无法直接使用，付费）
 
-## 热门排行榜（依据 GitHub Star 数）
+## 热门排行榜（依据 Tranco 网站流行度排名，其后为 GitHub Star 数）
 
-1. n8n — ★ 207837
-2. Stable Diffusion WebUI — ★ 165071
-3. Dify — ★ 158738
-4. LangChain — ★ 148006
-5. ComfyUI — ★ 138080
-6. Godot — ★ 118579
-7. Whisper — ★ 110784
-8. Cline — ★ 70479
-9. Aider — ★ 49603
-10. Chatwoot — ★ 37910
+1. ChatGPT（写作）— Tranco #103
+2. Claude（写作）— Tranco #418
+3. Perplexity（办公效率）— Tranco #680
+4. Figma（图像设计）— Tranco #890
+5. DeepSeek（写作）— Tranco #1,231
+6. 飞书智能伙伴（办公效率）— Tranco #2,449
+7. 豆包（写作）— Tranco #2,560
+8. Suno（音频）— Tranco #2,712
+9. Zapier（智能体/自动化）— Tranco #2,931
+10. Lovable（编程/Vibe coding）— Tranco #3,176
+11. Cursor（编程/Vibe coding）— Tranco #3,238
+12. ElevenLabs（音频）— Tranco #3,461
+13. 钉钉 AI（办公效率）— Tranco #3,646
+14. Gamma（办公效率）— Tranco #3,865
+15. Midjourney（图像设计）— Tranco #5,019
+16. n8n（智能体/自动化）— Tranco #5,933
+17. Runway（视频）— Tranco #6,384
+18. Kimi（写作）— Tranco #6,886
+19. 通义千问（千问）（写作）— Tranco #10,277
+20. Cline（编程/Vibe coding）— Tranco #11,522
 
 ## 每日新品快报（2026-10-18）
 

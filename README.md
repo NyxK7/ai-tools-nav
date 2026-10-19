@@ -3,7 +3,7 @@
 [![Daily update](https://github.com/NyxK7/ai-tools-nav/actions/workflows/daily-update.yml/badge.svg)](https://github.com/NyxK7/ai-tools-nav/actions/workflows/daily-update.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-面向中文用户的 AI 工具导航站：**按业务场景**整理真实可用的 AI 工具，附 GitHub Star 开源排行榜与每日新品快报。纯静态、无框架、无外部 CDN，每天由 GitHub Actions 自动更新。
+面向中文用户的 AI 工具导航站：**按业务场景**整理真实可用的 AI 工具，附热门排行榜（Tranco 网站流行度 + GitHub Star，闭源开源一起排）与每日新品快报。纯静态、无框架、无外部 CDN，每天由 GitHub Actions 自动更新。
 
 - 🌐 GitHub Pages：<https://nyxk7.github.io/ai-tools-nav/>
 - ▲ Vercel（含邮件订阅接口）：<https://ai-tools-nav-seven-pearl.vercel.app/>
@@ -13,7 +13,8 @@
 - **9 大业务场景**：写作、编程/Vibe coding、图像设计、视频、音频、游戏开发、智能体/自动化、办公效率、客服营销
 - **可用性标注**：每个工具标注「国内服务」「开源，可本地部署」或「境外服务，国内可能无法直接使用」（仅作信息标注，不影响排序）
 - **按流行度排序**：场景内依据公开信号排序——Tranco 网站流行度排名，其次 GitHub Star；无数据的排在最后并注明，信号与来源记录在 `data/tools.json` 的 `signal` 字段
-- **热门排行榜**：依据开源工具的 GitHub Star 数，每日刷新
+- **热门排行榜**：闭源与开源产品一起排，先按 Tranco 网站流行度排名，其后为按 GitHub Star 排序的开源项目，展示前 20 名，无公开数据的不上榜，每日刷新
+- **每日新品快报置顶**：重要官方发布可写入 `data/tools.json` 的 `pinned_digest`，置顶 14 天后自动下架（格式见 CONTRIBUTING.md）
 - **每日新品快报**：自动抓取 GitHub 新建 AI 仓库与 Hacker News Show HN 热帖
 - **SEO / AI 友好**：预渲染 HTML、JSON-LD 结构化数据、`sitemap.xml`、`llms.txt`、`tools.md`
 - **邮件周刊订阅**：Vercel Serverless 函数 + Resend 联系人，带格式校验、蜜罐与频率限制，支持自助退订
