@@ -29,8 +29,13 @@ try:
         items.append({"source":"Hacker News","title":h["title"],"url":h.get("url") or f"https://news.ycombinator.com/item?id={h['objectID']}","desc":"","metric":f"▲ {h['points']} 分","hn":f"https://news.ycombinator.com/item?id={h['objectID']}"})
 except Exception as e: print("hn fail",e)
 # —— 合规过滤：自动抓取的条目不收越狱、灰产中转/发卡、恶意软件、刷星、成人等内容 ——
-BLOCK=["jailbreak","越狱","relay","中转","发卡","api key","free key","crack","破解","bypass","malware","exploit","ransomware","nsfw","porn","18+","色情","赌","gambling","casino","proxy pool","翻墙","vpn","star-buying","fake star","刷星"]
-items=[it for it in items if not any(b in (it["title"]+" "+it["desc"]+" "+it["url"]).lower() for b in BLOCK)]
+BLOCK=["jailbreak","越狱","relay","中转","发卡","api key","free key","crack","破解","bypass","malware","exploit","ransomware","nsfw","porn","18+","色情","赌","gambling","casino","proxy pool","翻墙","vpn","star-buying","fake star","刷星","dll inject","injector","memory patch","bulk-create","anonymous account","session cookie","cookie harvest","token harvest","credential stuff","stealer","keylogger","rat ","botnet"]
+def _blocked(it):
+    blob=(it.get("title","")+" "+it.get("desc","")+" "+it.get("url","")).lower()
+    return any(b in blob for b in BLOCK)
+items=[it for it in items if not _blocked(it)]
+# 同步清掉已入库快报里的漏网灰产（置顶官方发布保留）
+d["daily"]=[it for it in d.get("daily",[]) if it.get("pinned") or not _blocked(it)]
 merge(d,items,now.date())  # 置顶的官方发布保留 14 天，其余为本次抓取
 
 # —— 保守的自动收录：只收 GitHub 新仓库，Star≥200，且只命中一个场景的关键词 ——

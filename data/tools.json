@@ -1204,13 +1204,6 @@
   },
   {
    "source": "GitHub",
-   "title": "DreamHazeSever/meanp-injector-rpocket-team",
-   "url": "https://github.com/DreamHazeSever/meanp-injector-rpocket-team",
-   "desc": "Advanced Lightweight C++26 DLL Injection Framework for Windows Memory Patching 2026",
-   "metric": "★ 50"
-  },
-  {
-   "source": "GitHub",
    "title": "harshpreet931/harshpreet-hand",
    "url": "https://github.com/harshpreet931/harshpreet-hand",
    "desc": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
@@ -1243,13 +1236,6 @@
    "url": "https://github.com/hsuanshao/AgentMemory",
    "desc": "Self-hosted memory service for AI agents, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and multi-tenant isolation",
    "metric": "★ 21"
-  },
-  {
-   "source": "GitHub",
-   "title": "0xgetz/ptero-bulk-9router",
-   "url": "https://github.com/0xgetz/ptero-bulk-9router",
-   "desc": "Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible po",
-   "metric": "★ 17"
   },
   {
    "source": "GitHub",

@@ -124,13 +124,11 @@
 
 - [DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)（DeepSeek 官方，2026-10-17 发布）DeepSeek V4.1 Flash 小版本更新（10 月 17 日）：552B 参数 MoE，原生看图理解，100 万 token 上下文；Terminal-Bench 4.0 从 31.2 提升到 42.3、DeepSWE 达 77.0，智能体与编程能力明显增强，API 模型名 deepseek-flash，闲时半价。
 - [guolola/SoftJL](https://github.com/guolola/SoftJL)（GitHub，★ 98）Turn requirements into UML diagrams, test cases and editable Word specs—with traceability. Self-hosted, bring your own AI model. Built for capstone and course p
-- [DreamHazeSever/meanp-injector-rpocket-team](https://github.com/DreamHazeSever/meanp-injector-rpocket-team)（GitHub，★ 50）Advanced Lightweight C++26 DLL Injection Framework for Windows Memory Patching 2026
 - [harshpreet931/harshpreet-hand](https://github.com/harshpreet931/harshpreet-hand)（GitHub，★ 44）I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.
 - [Riper21/hh-sniper](https://github.com/Riper21/hh-sniper)（GitHub，★ 32）Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от гал
 - [speedydivid/TokenForge](https://github.com/speedydivid/TokenForge)（GitHub，★ 31）Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 
 - [ahmedbadr-dev/voice-ai-assistant](https://github.com/ahmedbadr-dev/voice-ai-assistant)（GitHub，★ 28）Python voice AI assistant: microphone STT, Google Gemini answers, offline TTS with pyttsx3. Clean env-based setup.
 - [hsuanshao/AgentMemory](https://github.com/hsuanshao/AgentMemory)（GitHub，★ 21）Self-hosted memory service for AI agents, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and multi-tenant isolation
-- [0xgetz/ptero-bulk-9router](https://github.com/0xgetz/ptero-bulk-9router)（GitHub，★ 17）Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible po
 - [precisionz/tokenation](https://github.com/precisionz/tokenation)（GitHub，★ 17）Daily-updated, official-page-verified free LLM API offers - evergreen free tiers AND limited-time promos with real deadlines. 每日核实仍有效的免费 LLM API 额度与限时羊毛活动，常态/限时
 - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)（Hacker News，▲ 154 分）
 - [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle)（Hacker News，▲ 11 分）
