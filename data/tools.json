@@ -1197,24 +1197,10 @@
   },
   {
    "source": "GitHub",
-   "title": "AndreSzymanski15/ai-jailbreaks",
-   "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
-   "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles",
-   "metric": "★ 375"
-  },
-  {
-   "source": "GitHub",
    "title": "guolola/SoftJL",
    "url": "https://github.com/guolola/SoftJL",
    "desc": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications ",
    "metric": "★ 87"
-  },
-  {
-   "source": "GitHub",
-   "title": "repoboost-hq/github-star-benchmarks",
-   "url": "https://github.com/repoboost-hq/github-star-benchmarks",
-   "desc": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star res",
-   "metric": "★ 74"
   },
   {
    "source": "GitHub",
@@ -1225,13 +1211,6 @@
   },
   {
    "source": "GitHub",
-   "title": "waw666waw666/awesome-ai-relay-and-cards",
-   "url": "https://github.com/waw666waw666/awesome-ai-relay-and-cards",
-   "desc": "2026 AI 发卡比价 & API 中转站精选指南",
-   "metric": "★ 39"
-  },
-  {
-   "source": "GitHub",
    "title": "harshpreet931/harshpreet-hand",
    "url": "https://github.com/harshpreet931/harshpreet-hand",
    "desc": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
@@ -1239,23 +1218,9 @@
   },
   {
    "source": "GitHub",
-   "title": "JoasASantos/Malvex",
-   "url": "https://github.com/JoasASantos/Malvex",
-   "desc": "AI-driven malware analysis framework with 30+ integrated tools, web REPL, and MCP server",
-   "metric": "★ 32"
-  },
-  {
-   "source": "GitHub",
    "title": "speedydivid/TokenForge",
    "url": "https://github.com/speedydivid/TokenForge",
    "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across ",
-   "metric": "★ 31"
-  },
-  {
-   "source": "GitHub",
-   "title": "Riper21/hh-sniper",
-   "url": "https://github.com/Riper21/hh-sniper",
-   "desc": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от гал",
    "metric": "★ 31"
   },
   {

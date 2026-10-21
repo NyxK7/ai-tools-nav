@@ -123,15 +123,10 @@
 ## 每日新品快报（2026-10-20）
 
 - [DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)（DeepSeek 官方，2026-10-17 发布）DeepSeek V4.1 Flash 小版本更新（10 月 17 日）：552B 参数 MoE，原生看图理解，100 万 token 上下文；Terminal-Bench 4.0 从 31.2 提升到 42.3、DeepSWE 达 77.0，智能体与编程能力明显增强，API 模型名 deepseek-flash，闲时半价。
-- [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks)（GitHub，★ 375）AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles
 - [guolola/SoftJL](https://github.com/guolola/SoftJL)（GitHub，★ 87）Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications 
-- [repoboost-hq/github-star-benchmarks](https://github.com/repoboost-hq/github-star-benchmarks)（GitHub，★ 74）AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star res
 - [apenasdouglas/ai-motion-library](https://github.com/apenasdouglas/ai-motion-library)（GitHub，★ 69）Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, ski
-- [waw666waw666/awesome-ai-relay-and-cards](https://github.com/waw666waw666/awesome-ai-relay-and-cards)（GitHub，★ 39）2026 AI 发卡比价 & API 中转站精选指南
 - [harshpreet931/harshpreet-hand](https://github.com/harshpreet931/harshpreet-hand)（GitHub，★ 39）I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.
-- [JoasASantos/Malvex](https://github.com/JoasASantos/Malvex)（GitHub，★ 32）AI-driven malware analysis framework with 30+ integrated tools, web REPL, and MCP server
 - [speedydivid/TokenForge](https://github.com/speedydivid/TokenForge)（GitHub，★ 31）Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 
-- [Riper21/hh-sniper](https://github.com/Riper21/hh-sniper)（GitHub，★ 31）Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от гал
 - [ahmedbadr-dev/voice-ai-assistant](https://github.com/ahmedbadr-dev/voice-ai-assistant)（GitHub，★ 28）Python voice AI assistant: microphone STT, Google Gemini answers, offline TTS with pyttsx3. Clean env-based setup.
 - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)（Hacker News，▲ 252 分）
 - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)（Hacker News，▲ 145 分）
