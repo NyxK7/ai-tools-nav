@@ -169,6 +169,13 @@
      "github": null,
      "new": false,
      "avail": "intl"
+    },
+    {
+     "name": "StudyArena",
+     "url": "https://studyarena.com",
+     "desc": "面向学生的 AI 回答对比工具：免费账户可比较三个匿名回答，投票后揭晓模型",
+     "pricing": "免费+付费",
+     "avail": "intl"
     }
    ],
    "slug": "writing"
