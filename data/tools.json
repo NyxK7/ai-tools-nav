@@ -830,6 +830,23 @@
      }
     },
     {
+     "name": "Orkas",
+     "url": "https://orkas.ai",
+     "desc": "开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）",
+     "pricing": "开源免费（模型调用可能收费）",
+     "github": "Orkas-AI/Orkas",
+     "stars": 2147,
+     "new": true,
+     "added": "2026-10-22",
+     "avail": "oss",
+     "signal": {
+      "type": "github_stars",
+      "stars": 2147,
+      "repo": "Orkas-AI/Orkas",
+      "source": "https://github.com/Orkas-AI/Orkas"
+     }
+    },
+    {
      "name": "腾讯元器",
      "url": "https://yuanqi.tencent.com",
      "desc": "腾讯推出的 AI 智能体创建与分发平台",
