@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22 01:11 UTC",
+ "updated": "2026-10-22 03:30 UTC",
  "scenes": [
   {
    "name": "写作",
@@ -214,7 +214,7 @@
      "desc": "开源 VS Code 编程智能体",
      "pricing": "开源免费",
      "github": "cline/cline",
-     "stars": 70739,
+     "stars": 70695,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -278,7 +278,7 @@
      "desc": "终端里的开源结对编程助手",
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
-     "stars": 49690,
+     "stars": 49689,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -373,7 +373,7 @@
      "desc": "节点式开源图像/视频生成工作流",
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
-     "stars": 141532,
+     "stars": 141617,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -451,12 +451,12 @@
      "desc": "本地运行的开源图像生成界面",
      "pricing": "开源免费",
      "github": "AUTOMATIC1111/stable-diffusion-webui",
-     "stars": 165091,
+     "stars": 165094,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 165091,
+      "stars": 165094,
       "repo": "AUTOMATIC1111/stable-diffusion-webui",
       "source": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
      }
@@ -651,12 +651,12 @@
      "desc": "开源语音识别与转写模型",
      "pricing": "开源免费",
      "github": "openai/whisper",
-     "stars": 111020,
+     "stars": 111023,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 111020,
+      "stars": 111023,
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
@@ -673,7 +673,7 @@
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
-     "stars": 118818,
+     "stars": 118830,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -768,7 +768,7 @@
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
-     "stars": 208254,
+     "stars": 208269,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -785,7 +785,7 @@
      "desc": "构建 LLM 应用与智能体的开源框架",
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
-     "stars": 148224,
+     "stars": 148235,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -818,7 +818,7 @@
      "desc": "开源 LLM 应用与智能体搭建平台",
      "pricing": "开源/付费",
      "github": "langgenius/dify",
-     "stars": 159161,
+     "stars": 159176,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -989,7 +989,7 @@
      "desc": "开源全渠道客服平台，支持 AI",
      "pricing": "开源/付费",
      "github": "chatwoot/chatwoot",
-     "stars": 38072,
+     "stars": 38077,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -1219,14 +1219,14 @@
    "title": "HaozheH3/awesome-rea-games",
    "url": "https://github.com/HaozheH3/awesome-rea-games",
    "desc": "A collection of game decompilations, recompilations, demos, ports",
-   "metric": "★ 104"
+   "metric": "★ 103"
   },
   {
    "source": "GitHub",
    "title": "h9-tec/ai-roadmap-2026",
    "url": "https://github.com/h9-tec/ai-roadmap-2026",
    "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per",
-   "metric": "★ 74"
+   "metric": "★ 76"
   },
   {
    "source": "GitHub",
@@ -1254,7 +1254,7 @@
    "title": "precisionz/tokenation",
    "url": "https://github.com/precisionz/tokenation",
    "desc": "Daily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time lists, every entry verified against official pages. 日更免费 LL",
-   "metric": "★ 20"
+   "metric": "★ 22"
   },
   {
    "source": "GitHub",
@@ -1297,19 +1297,19 @@
   },
   {
    "source": "Hacker News",
-   "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
-   "url": "https://rouler.io/",
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+   "url": "https://github.com/omnara-ai/omnara",
    "desc": "",
-   "metric": "▲ 25 分",
-   "hn": "https://news.ycombinator.com/item?id=50161144"
+   "metric": "▲ 31 分",
+   "hn": "https://news.ycombinator.com/item?id=50183892"
   },
   {
    "source": "Hacker News",
-   "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
-   "url": "https://github.com/omnara-ai/omnara",
+   "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+   "url": "https://rouler.io/",
    "desc": "",
-   "metric": "▲ 20 分",
-   "hn": "https://news.ycombinator.com/item?id=50183892"
+   "metric": "▲ 26 分",
+   "hn": "https://news.ycombinator.com/item?id=50161144"
   },
   {
    "source": "Hacker News",
