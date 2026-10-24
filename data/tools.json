@@ -1326,6 +1326,13 @@
  },
  "pinned_digest": [
   {
+   "source": "MiniMax 官方",
+   "title": "MiniMax-M3.1-Flash",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+   "desc": "MiniMax 发布 M3.1-Flash：约 428B 参数原生多模态 MoE（约 23B 激活），支持文本/图像/视频输入与最长约 100 万 token 上下文；强化智能体、编程与网络安全任务，权重已在 Hugging Face 开放。",
+   "date": "2026-10-17"
+  },
+  {
    "source": "Google DeepMind 官方",
    "title": "Gemini 4 Argon",
    "url": "https://gemini.google.com",
