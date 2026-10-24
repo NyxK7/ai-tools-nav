@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 01:09 UTC",
+ "updated": "2026-10-24 03:29 UTC",
  "scenes": [
   {
    "name": "写作",
@@ -286,7 +286,7 @@
      "desc": "终端里的开源结对编程助手",
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
-     "stars": 49722,
+     "stars": 49726,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -381,7 +381,7 @@
      "desc": "节点式开源图像/视频生成工作流",
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
-     "stars": 142353,
+     "stars": 142381,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -459,12 +459,12 @@
      "desc": "本地运行的开源图像生成界面",
      "pricing": "开源免费",
      "github": "AUTOMATIC1111/stable-diffusion-webui",
-     "stars": 165124,
+     "stars": 165126,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 165124,
+      "stars": 165126,
       "repo": "AUTOMATIC1111/stable-diffusion-webui",
       "source": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
      }
@@ -659,12 +659,12 @@
      "desc": "开源语音识别与转写模型",
      "pricing": "开源免费",
      "github": "openai/whisper",
-     "stars": 111146,
+     "stars": 111151,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 111146,
+      "stars": 111151,
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
@@ -681,7 +681,7 @@
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
-     "stars": 118973,
+     "stars": 118977,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -776,7 +776,7 @@
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
-     "stars": 208414,
+     "stars": 208428,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -793,7 +793,7 @@
      "desc": "构建 LLM 应用与智能体的开源框架",
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
-     "stars": 148332,
+     "stars": 148340,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -826,7 +826,7 @@
      "desc": "开源 LLM 应用与智能体搭建平台",
      "pricing": "开源/付费",
      "github": "langgenius/dify",
-     "stars": 159379,
+     "stars": 159385,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -843,13 +843,13 @@
      "desc": "开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）",
      "pricing": "开源免费（模型调用可能收费）",
      "github": "Orkas-AI/Orkas",
-     "stars": 2158,
+     "stars": 2159,
      "new": true,
      "added": "2026-10-22",
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 2158,
+      "stars": 2159,
       "repo": "Orkas-AI/Orkas",
       "source": "https://github.com/Orkas-AI/Orkas"
      }
@@ -1014,7 +1014,7 @@
      "desc": "开源全渠道客服平台，支持 AI",
      "pricing": "开源/付费",
      "github": "chatwoot/chatwoot",
-     "stars": 38151,
+     "stars": 38153,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -1253,7 +1253,7 @@
    "title": "h9-tec/ai-roadmap-2026",
    "url": "https://github.com/h9-tec/ai-roadmap-2026",
    "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per",
-   "metric": "★ 145"
+   "metric": "★ 146"
   },
   {
    "source": "GitHub",
@@ -1267,7 +1267,7 @@
    "title": "AbuZar-Ansarii/Ultron",
    "url": "https://github.com/AbuZar-Ansarii/Ultron",
    "desc": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
-   "metric": "★ 64"
+   "metric": "★ 71"
   },
   {
    "source": "GitHub",
@@ -1324,7 +1324,7 @@
    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
    "url": "https://www.thisandthat.chat/enron/",
    "desc": "",
-   "metric": "▲ 56 分",
+   "metric": "▲ 58 分",
    "hn": "https://news.ycombinator.com/item?id=50207620"
   }
  ],
