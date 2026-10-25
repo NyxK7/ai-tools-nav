@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 01:09 UTC",
+ "updated": "2026-10-25 03:25 UTC",
  "scenes": [
   {
    "name": "写作",
@@ -222,7 +222,7 @@
      "desc": "开源 VS Code 编程智能体",
      "pricing": "开源免费",
      "github": "cline/cline",
-     "stars": 70826,
+     "stars": 70834,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -286,7 +286,7 @@
      "desc": "终端里的开源结对编程助手",
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
-     "stars": 49740,
+     "stars": 49744,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -381,7 +381,7 @@
      "desc": "节点式开源图像/视频生成工作流",
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
-     "stars": 142637,
+     "stars": 142661,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -459,12 +459,12 @@
      "desc": "本地运行的开源图像生成界面",
      "pricing": "开源免费",
      "github": "AUTOMATIC1111/stable-diffusion-webui",
-     "stars": 165127,
+     "stars": 165130,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 165127,
+      "stars": 165130,
       "repo": "AUTOMATIC1111/stable-diffusion-webui",
       "source": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
      }
@@ -659,12 +659,12 @@
      "desc": "开源语音识别与转写模型",
      "pricing": "开源免费",
      "github": "openai/whisper",
-     "stars": 111204,
+     "stars": 111211,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 111204,
+      "stars": 111211,
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
@@ -681,7 +681,7 @@
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
-     "stars": 119016,
+     "stars": 119022,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -776,7 +776,7 @@
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
-     "stars": 208506,
+     "stars": 208510,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -793,7 +793,7 @@
      "desc": "构建 LLM 应用与智能体的开源框架",
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
-     "stars": 148392,
+     "stars": 148397,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -826,7 +826,7 @@
      "desc": "开源 LLM 应用与智能体搭建平台",
      "pricing": "开源/付费",
      "github": "langgenius/dify",
-     "stars": 159439,
+     "stars": 159446,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -843,13 +843,13 @@
      "desc": "开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）",
      "pricing": "开源免费（模型调用可能收费）",
      "github": "Orkas-AI/Orkas",
-     "stars": 2165,
+     "stars": 2166,
      "new": true,
      "added": "2026-10-22",
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 2165,
+      "stars": 2166,
       "repo": "Orkas-AI/Orkas",
       "source": "https://github.com/Orkas-AI/Orkas"
      }
@@ -1014,7 +1014,7 @@
      "desc": "开源全渠道客服平台，支持 AI",
      "pricing": "开源/付费",
      "github": "chatwoot/chatwoot",
-     "stars": 38188,
+     "stars": 38191,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -1253,14 +1253,14 @@
    "title": "h9-tec/ai-roadmap-2026",
    "url": "https://github.com/h9-tec/ai-roadmap-2026",
    "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per",
-   "metric": "★ 155"
+   "metric": "★ 157"
   },
   {
    "source": "GitHub",
    "title": "liyupi/dafeiyu-cleaner",
    "url": "https://github.com/liyupi/dafeiyu-cleaner",
    "desc": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。Dee",
-   "metric": "★ 68"
+   "metric": "★ 71"
   },
   {
    "source": "GitHub",
@@ -1281,7 +1281,7 @@
    "title": "gabe-santana/arkdraw",
    "url": "https://github.com/gabe-santana/arkdraw",
    "desc": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that g",
-   "metric": "★ 38"
+   "metric": "★ 40"
   },
   {
    "source": "GitHub",
@@ -1295,7 +1295,7 @@
    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
    "url": "https://www.thisandthat.chat/enron/",
    "desc": "",
-   "metric": "▲ 64 分",
+   "metric": "▲ 65 分",
    "hn": "https://news.ycombinator.com/item?id=50207620"
   },
   {
