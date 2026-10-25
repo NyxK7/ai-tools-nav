@@ -29,8 +29,24 @@ try:
         items.append({"source":"Hacker News","title":h["title"],"url":h.get("url") or f"https://news.ycombinator.com/item?id={h['objectID']}","desc":"","metric":f"▲ {h['points']} 分","hn":f"https://news.ycombinator.com/item?id={h['objectID']}"})
 except Exception as e: print("hn fail",e)
 # —— 合规过滤：自动抓取的条目不收越狱、灰产中转/发卡、恶意软件、刷星、成人等内容 ——
-BLOCK=["jailbreak","越狱","relay","中转","发卡","api key","free key","crack","破解","bypass","malware","exploit","ransomware","nsfw","porn","18+","色情","赌","gambling","casino","proxy pool","翻墙","vpn","star-buying","fake star","刷星","injector","dll inject","injection framework","harvest token","session cookie","anonymous account","bulk-create","sniper","автопилот"]
+BLOCK=["jailbreak","越狱","relay","中转","发卡","api key","free key","crack","破解","bypass","malware","exploit","ransomware","nsfw","porn","18+","色情","赌","gambling","casino","proxy pool","翻墙","vpn","star-buying","fake star","刷星","injector","dll inject","injection framework","harvest token","session cookie","anonymous account","bulk-create","sniper","автопилот","abliterat","uncensored","portable.zip","main.exe","unofficial enhanced"]
 items=[it for it in items if not any(b in (it["title"]+" "+it["desc"]+" "+it["url"]).lower() for b in BLOCK)]
+# —— 防钓鱼：剔除“只有 README、靠 Release 压缩包分发 exe”的冒牌仓库，以及注册不足 30 天的账号 ——
+DOCS={"readme.md","readme","license","license.md",".gitignore","readme_zh.md","readme.en.md"}
+def suspicious(full):
+    try:
+        names=[c["name"].lower() for c in get("https://api.github.com/repos/"+full+"/contents",True)]
+        if not [n for n in names if n not in DOCS]: return "仅 README 无源码"
+        u=get("https://api.github.com/users/"+full.split("/")[0],True)
+        if (now-datetime.datetime.fromisoformat(u["created_at"].replace("Z","+00:00"))).days<30: return "账号过新"
+    except Exception as e: print("check fail",full,e)
+    return None
+_kept=[]
+for it in items:
+    why=suspicious(it["title"]) if it["source"]=="GitHub" else None
+    if why: print("剔除可疑仓库",it["title"],why)
+    else: _kept.append(it)
+items=_kept
 merge(d,items,now.date())  # 置顶的官方发布保留 14 天，其余为本次抓取
 
 # —— 保守的自动收录：只收 GitHub 新仓库，Star≥200，且只命中一个场景的关键词 ——
