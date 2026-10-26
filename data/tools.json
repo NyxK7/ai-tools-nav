@@ -336,6 +336,14 @@
      "github": null,
      "new": false,
      "avail": "intl"
+    },
+    {
+     "name": "agent-qa",
+     "url": "https://vostride.com",
+     "desc": "vostride 推出的应用测试智能体，以自然语言测试网页、Android 和 iOS，支持持久记忆、经过验证的自我改进及 CLI/MCP；本地软件免费，模型服务费用另计。",
+     "pricing": "免费",
+     "avail": "intl",
+     "github": "vostride/agent-qa"
     }
    ],
    "slug": "coding"

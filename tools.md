@@ -33,6 +33,7 @@
 - [通义灵码](https://lingma.aliyun.com)：阿里云推出的 IDE 编程插件，支持代码补全与对话式编程（国内服务，免费+付费）
 - [文心快码 Comate](https://comate.baidu.com)：百度推出的智能编程助手，支持主流 IDE（国内服务，免费+付费）
 - [GitHub Copilot](https://github.com/features/copilot)：IDE 内代码补全与编程助手（境外服务，国内可能无法直接使用，免费+付费）
+- [agent-qa](https://vostride.com)：vostride 推出的应用测试智能体，以自然语言测试网页、Android 和 iOS，支持持久记忆、经过验证的自我改进及 CLI/MCP；本地软件免费，模型服务费用另计。（境外服务，国内可能无法直接使用，免费）
 
 ## 图像设计
 
