@@ -1314,6 +1314,13 @@
  },
  "pinned_digest": [
   {
+   "source": "月之暗面官方",
+   "title": "Kimi K3.1 Pro",
+   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+   "desc": "月之暗面发布 K3.1 系列首款模型 Kimi K3.1 Pro：约 3 万亿参数级开放权重模型，支持约 100 万 token 上下文；强化编程、3D 创作、金融研究与长程智能体能力，并同步推出约 2–3 倍速的 Highspeed 版本；已上线 Kimi / Work / Code 与 API，完整权重计划于 11 月 4 日前开放。",
+   "date": "2026-10-24"
+  },
+  {
    "source": "MiniMax 官方",
    "title": "MiniMax-M3.1-Flash",
    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
