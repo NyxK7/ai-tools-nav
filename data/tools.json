@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 01:08 UTC",
+ "updated": "2026-10-26 03:28 UTC",
  "scenes": [
   {
    "name": "写作",
@@ -222,7 +222,7 @@
      "desc": "开源 VS Code 编程智能体",
      "pricing": "开源免费",
      "github": "cline/cline",
-     "stars": 70842,
+     "stars": 70846,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -286,7 +286,7 @@
      "desc": "终端里的开源结对编程助手",
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
-     "stars": 49751,
+     "stars": 49754,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -381,7 +381,7 @@
      "desc": "节点式开源图像/视频生成工作流",
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
-     "stars": 142944,
+     "stars": 142987,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -659,12 +659,12 @@
      "desc": "开源语音识别与转写模型",
      "pricing": "开源免费",
      "github": "openai/whisper",
-     "stars": 111257,
+     "stars": 111266,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 111257,
+      "stars": 111266,
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
@@ -681,7 +681,7 @@
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
-     "stars": 119076,
+     "stars": 119080,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -776,7 +776,7 @@
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
-     "stars": 208591,
+     "stars": 208603,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -793,7 +793,7 @@
      "desc": "构建 LLM 应用与智能体的开源框架",
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
-     "stars": 148449,
+     "stars": 148459,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -826,7 +826,7 @@
      "desc": "开源 LLM 应用与智能体搭建平台",
      "pricing": "开源/付费",
      "github": "langgenius/dify",
-     "stars": 159529,
+     "stars": 159539,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -1014,7 +1014,7 @@
      "desc": "开源全渠道客服平台，支持 AI",
      "pricing": "开源/付费",
      "github": "chatwoot/chatwoot",
-     "stars": 38281,
+     "stars": 38289,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -1259,6 +1259,20 @@
   },
   {
    "source": "GitHub",
+   "title": "huaxialucaicaizi/ai-startup-skills",
+   "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+   "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+   "metric": "★ 216"
+  },
+  {
+   "source": "GitHub",
+   "title": "hevnsnt/CVEngine",
+   "url": "https://github.com/hevnsnt/CVEngine",
+   "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+   "metric": "★ 173"
+  },
+  {
+   "source": "GitHub",
    "title": "h9-tec/ai-roadmap-2026",
    "url": "https://github.com/h9-tec/ai-roadmap-2026",
    "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per",
@@ -1266,24 +1280,17 @@
   },
   {
    "source": "GitHub",
-   "title": "hevnsnt/CVEngine",
-   "url": "https://github.com/hevnsnt/CVEngine",
-   "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-   "metric": "★ 143"
-  },
-  {
-   "source": "GitHub",
    "title": "liyupi/dafeiyu-cleaner",
    "url": "https://github.com/liyupi/dafeiyu-cleaner",
    "desc": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。Dee",
-   "metric": "★ 89"
+   "metric": "★ 91"
   },
   {
    "source": "GitHub",
    "title": "Shaitrish/37studio",
    "url": "https://github.com/Shaitrish/37studio",
    "desc": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-   "metric": "★ 65"
+   "metric": "★ 66"
   },
   {
    "source": "GitHub",
@@ -1297,14 +1304,7 @@
    "title": "lwh0630/TokenBar",
    "url": "https://github.com/lwh0630/TokenBar",
    "desc": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
-   "metric": "★ 51"
-  },
-  {
-   "source": "GitHub",
-   "title": "hollobit/ai-native",
-   "url": "https://github.com/hollobit/ai-native",
-   "desc": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
-   "metric": "★ 46"
+   "metric": "★ 54"
   },
   {
    "source": "Hacker News",
@@ -1319,7 +1319,7 @@
    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
    "url": "https://huggingface.co/destined/hurston-1",
    "desc": "",
-   "metric": "▲ 45 分",
+   "metric": "▲ 54 分",
    "hn": "https://news.ycombinator.com/item?id=50227330"
   },
   {
