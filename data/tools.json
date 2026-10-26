@@ -177,6 +177,13 @@
      "pricing": "免费+付费",
      "avail": "intl",
      "new": false
+    },
+    {
+     "name": "ImagineYourBook",
+     "url": "https://www.imagineyourbook.com/",
+     "desc": "ImagineYourBook 推出的 AI 整书写作工具：先规划全书结构与人物，再逐章写出完整的文字书稿并生成封面，可下载 Word、EPUB 或 Markdown 文件；成稿需作者自行审校，提供需绑定银行卡的 7 天试用",
+     "pricing": "付费",
+     "avail": "intl"
     }
    ],
    "slug": "writing"
