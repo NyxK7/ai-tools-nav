@@ -1,6 +1,6 @@
 # AI 工具导航 · 全部工具清单
 
-> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-10-27 03:54 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
+> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-10-28 04:16 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
 
 
 ## 写作
@@ -24,11 +24,11 @@
 
 - [Cursor](https://cursor.com)：AI 原生代码编辑器，对话式改代码（境外服务，国内可能无法直接使用，免费+付费）
 - [Lovable](https://lovable.dev)：描述需求即可生成可上线的 Web 应用（境外服务，国内可能无法直接使用，免费+付费）
-- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 70905）
+- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 70942）
 - [Bolt.new](https://bolt.new)：浏览器里一句话生成全栈应用（境外服务，国内可能无法直接使用，免费+付费）
 - [Trae](https://www.trae.cn)：字节跳动推出的 AI 编程 IDE（豆包 MarsCode 编程助手已并入 Trae 插件）（国内服务，免费）
 - [v0](https://v0.dev)：生成 React/Next.js 前端界面（境外服务，国内可能无法直接使用，免费+付费）
-- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 49769）
+- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 49786）
 - [CodeGeeX](https://codegeex.cn)：智谱 AI 推出的多语言代码生成与补全插件（国内服务，免费）
 - [通义灵码](https://lingma.aliyun.com)：阿里云推出的 IDE 编程插件，支持代码补全与对话式编程（国内服务，免费+付费）
 - [文心快码 Comate](https://comate.baidu.com)：百度推出的智能编程助手，支持主流 IDE（国内服务，免费+付费）
@@ -38,12 +38,12 @@
 
 - [Figma](https://www.figma.com)：协作式 UI 设计工具，含 AI 功能（境外服务，国内可能无法直接使用，免费+付费）
 - [Midjourney](https://www.midjourney.com)：AI 图像生成服务（境外服务，国内可能无法直接使用，付费）
-- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 143338）
+- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 143610）
 - [Canva 可画](https://www.canva.cn)：在线设计平台（中国版），内置 AI 生成与编辑（国内服务，免费+付费）
 - [稿定设计](https://www.gaoding.com)：在线平面设计平台，提供 AI 生成与编辑功能（国内服务，免费+付费）
 - [LiblibAI 哩布哩布](https://www.liblib.art)：AI 绘画模型分享与在线生图平台（国内服务，免费+付费）
 - [美图设计室](https://www.x-design.com)：美图推出的 AI 商业设计工具，支持抠图、海报与商品图（国内服务，免费+付费）
-- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165155）
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165162）
 - [即梦 AI](https://jimeng.jianying.com)：字节跳动旗下的 AI 图片与视频创作平台（国内服务，免费+付费）
 
 ## 视频
@@ -62,11 +62,11 @@
 - [ElevenLabs](https://elevenlabs.io)：语音合成与声音克隆服务（境外服务，国内可能无法直接使用，免费+付费）
 - [讯飞听见](https://www.iflyrec.com)：科大讯飞推出的录音转文字、会议记录与翻译服务（国内服务，免费+付费）
 - [魔音工坊](https://www.moyin.com)：AI 配音平台，适用于短视频与有声内容（国内服务，免费+付费）
-- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 111352）
+- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 111424）
 
 ## 游戏开发
 
-- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 119138）
+- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 119181）
 - [Meshy](https://www.meshy.ai)：文本/图片生成 3D 模型（境外服务，国内可能无法直接使用，免费+付费）
 - [Scenario](https://www.scenario.com)：风格一致的游戏美术素材生成（境外服务，国内可能无法直接使用，付费）
 - [Rosebud AI](https://rosebud.ai)：用自然语言生成可玩的网页游戏（境外服务，国内可能无法直接使用，免费+付费）
@@ -75,11 +75,11 @@
 ## 智能体/自动化
 
 - [Zapier](https://zapier.com)：连接数千应用的自动化平台（境外服务，国内可能无法直接使用，免费+付费）
-- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 208695）
-- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 148532）
+- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 208822）
+- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 148584）
 - [Coze 扣子](https://www.coze.cn)：零代码搭建 AI 智能体与机器人（国内服务，免费+付费）
-- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 159645）
-- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 2180，新收录）
+- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 159754）
+- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 2509，新收录）
 - [腾讯元器](https://yuanqi.tencent.com)：腾讯推出的 AI 智能体创建与分发平台（国内服务，免费+付费）
 
 ## 办公效率
@@ -97,45 +97,44 @@
 ## 客服营销
 
 - [Jasper](https://www.jasper.ai)：营销文案与品牌内容生成（境外服务，国内可能无法直接使用，付费）
-- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 38370）
+- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 38455）
 - [Intercom Fin](https://www.intercom.com/fin)：AI 客服机器人自动回答客户问题（境外服务，国内可能无法直接使用，付费）
 
 ## 热门排行榜（依据 Tranco 网站流行度排名，其后为 GitHub Star 数）
 
-1. ChatGPT（写作）— Tranco #114
+1. ChatGPT（写作）— Tranco #112
 2. Claude（写作）— Tranco #411
-3. Perplexity（办公效率）— Tranco #688
-4. Figma（图像设计）— Tranco #911
-5. DeepSeek（写作）— Tranco #1,203
-6. 飞书智能伙伴（办公效率）— Tranco #2,404
-7. 豆包（写作）— Tranco #2,529
-8. Suno（音频）— Tranco #2,703
-9. Zapier（智能体/自动化）— Tranco #3,031
-10. Cursor（编程/Vibe coding）— Tranco #3,294
-11. ElevenLabs（音频）— Tranco #3,430
-12. Lovable（编程/Vibe coding）— Tranco #3,674
-13. 钉钉 AI（办公效率）— Tranco #3,704
-14. Gamma（办公效率）— Tranco #3,949
-15. Midjourney（图像设计）— Tranco #5,142
-16. n8n（智能体/自动化）— Tranco #5,900
-17. Runway（视频）— Tranco #5,985
-18. Kimi（写作）— Tranco #6,904
-19. 通义千问（千问）（写作）— Tranco #9,797
-20. Cline（编程/Vibe coding）— Tranco #11,167
+3. Perplexity（办公效率）— Tranco #693
+4. Figma（图像设计）— Tranco #907
+5. DeepSeek（写作）— Tranco #1,172
+6. 飞书智能伙伴（办公效率）— Tranco #2,396
+7. 豆包（写作）— Tranco #2,514
+8. Suno（音频）— Tranco #2,739
+9. Zapier（智能体/自动化）— Tranco #3,016
+10. Cursor（编程/Vibe coding）— Tranco #3,298
+11. ElevenLabs（音频）— Tranco #3,418
+12. Lovable（编程/Vibe coding）— Tranco #3,700
+13. 钉钉 AI（办公效率）— Tranco #3,708
+14. Gamma（办公效率）— Tranco #3,946
+15. Midjourney（图像设计）— Tranco #5,140
+16. n8n（智能体/自动化）— Tranco #5,893
+17. Runway（视频）— Tranco #5,974
+18. Kimi（写作）— Tranco #6,892
+19. 通义千问（千问）（写作）— Tranco #9,736
+20. Cline（编程/Vibe coding）— Tranco #11,172
 
-## 每日新品快报（2026-10-27）
+## 每日新品快报（2026-10-28）
 
 - [Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)（月之暗面官方，2026-10-24 发布）月之暗面发布 K3.1 系列首款模型 Kimi K3.1 Pro：约 3 万亿参数级开放权重模型，支持约 100 万 token 上下文；强化编程、3D 创作、金融研究与长程智能体能力，并同步推出约 2–3 倍速的 Highspeed 版本；已上线 Kimi / Work / Code 与 API，完整权重计划于 11 月 4 日前开放。
 - [MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash)（MiniMax 官方，2026-10-17 发布）MiniMax 发布 M3.1-Flash：约 428B 参数原生多模态 MoE（约 23B 激活），支持文本/图像/视频输入与最长约 100 万 token 上下文；强化智能体、编程与网络安全任务，权重已在 Hugging Face 开放。
 - [DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)（DeepSeek 官方，2026-10-17 发布）DeepSeek V4.1 Flash 小版本更新（10 月 17 日）：552B 参数 MoE，原生看图理解，100 万 token 上下文；Terminal-Bench 4.0 从 31.2 提升到 42.3、DeepSWE 达 77.0，智能体与编程能力明显增强，API 模型名 deepseek-flash，闲时半价。
-- [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine)（GitHub，★ 387）AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.
-- [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills)（GitHub，★ 344）创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
-- [h9-tec/ai-roadmap-2026](https://github.com/h9-tec/ai-roadmap-2026)（GitHub，★ 170）AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per
-- [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner)（GitHub，★ 108）DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。Dee
-- [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar)（GitHub，★ 86）Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.
-- [Shaitrish/37studio](https://github.com/Shaitrish/37studio)（GitHub，★ 72）Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.
-- [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42)（Hacker News，▲ 15 分）
-- [Show HN: AgentTrust – Zero-trust security and human approvals for AI agents](https://github.com/SRN0129/Agenttrust)（Hacker News，▲ 14 分）
-- [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)（Hacker News，▲ 126 分）
-- [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/)（Hacker News，▲ 28 分）
-- [Show HN: RainbowSay – Learn, teach, research languages live with shows you love](https://rainbowsay.ai/)（Hacker News，▲ 11 分）
+- [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills)（GitHub，★ 435）创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
+- [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine)（GitHub，★ 423）AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.
+- [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android)（GitHub，★ 182）在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。
+- [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner)（GitHub，★ 115）DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。Dee
+- [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar)（GitHub，★ 99）Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.
+- [litmers-dev/litpage](https://github.com/litmers-dev/litpage)（GitHub，★ 80）Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.
+- [Shaitrish/37studio](https://github.com/Shaitrish/37studio)（GitHub，★ 74）Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.
+- [hollobit/ai-native](https://github.com/hollobit/ai-native)（GitHub，★ 65）지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)
+- [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)（Hacker News，▲ 167 分）
+- [Show HN: Cryo – A language whose programs live forever](https://play.endothermic.ai/)（Hacker News，▲ 12 分）
