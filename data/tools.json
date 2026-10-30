@@ -668,6 +668,13 @@
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
+    },
+    {
+     "name": "Tera Studio",
+     "url": "https://terastudio.co/zh-hans/",
+     "desc": "网页端 AI 歌声克隆：唱约 1 分钟让它学会你的声音，再用你的声音唱出你上传的任意一首歌，支持任何语言",
+     "pricing": "免费+付费",
+     "avail": "intl"
     }
    ],
    "slug": "audio"
