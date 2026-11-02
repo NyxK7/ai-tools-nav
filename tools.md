@@ -1,6 +1,6 @@
 # AI 工具导航 · 全部工具清单
 
-> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-11-01 04:39 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
+> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-11-02 02:04 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
 
 
 ## 写作
@@ -24,11 +24,11 @@
 
 - [Cursor](https://cursor.com)：AI 原生代码编辑器，对话式改代码（境外服务，国内可能无法直接使用，免费+付费）
 - [Lovable](https://lovable.dev)：描述需求即可生成可上线的 Web 应用（境外服务，国内可能无法直接使用，免费+付费）
-- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 71131）
+- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 71184）
 - [Bolt.new](https://bolt.new)：浏览器里一句话生成全栈应用（境外服务，国内可能无法直接使用，免费+付费）
 - [Trae](https://www.trae.cn)：字节跳动推出的 AI 编程 IDE（豆包 MarsCode 编程助手已并入 Trae 插件）（国内服务，免费）
 - [v0](https://v0.dev)：生成 React/Next.js 前端界面（境外服务，国内可能无法直接使用，免费+付费）
-- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 49858）
+- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 49885）
 - [CodeGeeX](https://codegeex.cn)：智谱 AI 推出的多语言代码生成与补全插件（国内服务，免费）
 - [通义灵码](https://lingma.aliyun.com)：阿里云推出的 IDE 编程插件，支持代码补全与对话式编程（国内服务，免费+付费）
 - [文心快码 Comate](https://comate.baidu.com)：百度推出的智能编程助手，支持主流 IDE（国内服务，免费+付费）
@@ -38,12 +38,12 @@
 
 - [Figma](https://www.figma.com)：协作式 UI 设计工具，含 AI 功能（境外服务，国内可能无法直接使用，免费+付费）
 - [Midjourney](https://www.midjourney.com)：AI 图像生成服务（境外服务，国内可能无法直接使用，付费）
-- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 144376）
+- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 144498）
 - [Canva 可画](https://www.canva.cn)：在线设计平台（中国版），内置 AI 生成与编辑（国内服务，免费+付费）
 - [稿定设计](https://www.gaoding.com)：在线平面设计平台，提供 AI 生成与编辑功能（国内服务，免费+付费）
 - [LiblibAI 哩布哩布](https://www.liblib.art)：AI 绘画模型分享与在线生图平台（国内服务，免费+付费）
 - [美图设计室](https://www.x-design.com)：美图推出的 AI 商业设计工具，支持抠图、海报与商品图（国内服务，免费+付费）
-- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165207）
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165214）
 - [即梦 AI](https://jimeng.jianying.com)：字节跳动旗下的 AI 图片与视频创作平台（国内服务，免费+付费）
 
 ## 视频
@@ -62,11 +62,11 @@
 - [ElevenLabs](https://elevenlabs.io)：语音合成与声音克隆服务（境外服务，国内可能无法直接使用，免费+付费）
 - [讯飞听见](https://www.iflyrec.com)：科大讯飞推出的录音转文字、会议记录与翻译服务（国内服务，免费+付费）
 - [魔音工坊](https://www.moyin.com)：AI 配音平台，适用于短视频与有声内容（国内服务，免费+付费）
-- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 111665）
+- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 111737）
 
 ## 游戏开发
 
-- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 119366）
+- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 119407）
 - [Meshy](https://www.meshy.ai)：文本/图片生成 3D 模型（境外服务，国内可能无法直接使用，免费+付费）
 - [Scenario](https://www.scenario.com)：风格一致的游戏美术素材生成（境外服务，国内可能无法直接使用，付费）
 - [Rosebud AI](https://rosebud.ai)：用自然语言生成可玩的网页游戏（境外服务，国内可能无法直接使用，免费+付费）
@@ -75,13 +75,12 @@
 ## 智能体/自动化
 
 - [Zapier](https://zapier.com)：连接数千应用的自动化平台（境外服务，国内可能无法直接使用，免费+付费）
-- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 209225）
-- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 148788）
+- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 209309）
+- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 148842）
 - [Coze 扣子](https://www.coze.cn)：零代码搭建 AI 智能体与机器人（国内服务，免费+付费）
-- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 160118）
-- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 6634，新收录）
+- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 160174）
+- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 7377，新收录）
 - [腾讯元器](https://yuanqi.tencent.com)：腾讯推出的 AI 智能体创建与分发平台（国内服务，免费+付费）
-- [Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI)：⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows instal（开源，可本地部署，开源，新收录）
 
 ## 办公效率
 
@@ -98,42 +97,43 @@
 ## 客服营销
 
 - [Jasper](https://www.jasper.ai)：营销文案与品牌内容生成（境外服务，国内可能无法直接使用，付费）
-- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 38691）
+- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 38718）
 - [Intercom Fin](https://www.intercom.com/fin)：AI 客服机器人自动回答客户问题（境外服务，国内可能无法直接使用，付费）
 
 ## 热门排行榜（依据 Tranco 网站流行度排名，其后为 GitHub Star 数）
 
-1. ChatGPT（写作）— Tranco #111
-2. Claude（写作）— Tranco #415
-3. Perplexity（办公效率）— Tranco #713
-4. Figma（图像设计）— Tranco #906
-5. DeepSeek（写作）— Tranco #1,077
-6. 飞书智能伙伴（办公效率）— Tranco #2,422
-7. 豆包（写作）— Tranco #2,582
-8. Suno（音频）— Tranco #2,798
-9. Zapier（智能体/自动化）— Tranco #3,005
-10. Cursor（编程/Vibe coding）— Tranco #3,226
-11. ElevenLabs（音频）— Tranco #3,330
-12. 钉钉 AI（办公效率）— Tranco #3,666
-13. Lovable（编程/Vibe coding）— Tranco #3,694
-14. Gamma（办公效率）— Tranco #3,927
-15. Midjourney（图像设计）— Tranco #5,133
-16. n8n（智能体/自动化）— Tranco #5,849
-17. Runway（视频）— Tranco #5,980
-18. Kimi（写作）— Tranco #6,859
-19. 通义千问（千问）（写作）— Tranco #9,527
-20. Cline（编程/Vibe coding）— Tranco #11,167
+1. ChatGPT（写作）— Tranco #112
+2. Claude（写作）— Tranco #417
+3. Perplexity（办公效率）— Tranco #728
+4. Figma（图像设计）— Tranco #910
+5. DeepSeek（写作）— Tranco #1,054
+6. 飞书智能伙伴（办公效率）— Tranco #2,431
+7. 豆包（写作）— Tranco #2,579
+8. Suno（音频）— Tranco #2,811
+9. Zapier（智能体/自动化）— Tranco #2,999
+10. Cursor（编程/Vibe coding）— Tranco #3,202
+11. ElevenLabs（音频）— Tranco #3,289
+12. 钉钉 AI（办公效率）— Tranco #3,660
+13. Lovable（编程/Vibe coding）— Tranco #3,698
+14. Gamma（办公效率）— Tranco #3,923
+15. Midjourney（图像设计）— Tranco #5,128
+16. n8n（智能体/自动化）— Tranco #5,847
+17. Runway（视频）— Tranco #5,956
+18. Kimi（写作）— Tranco #6,847
+19. 通义千问（千问）（写作）— Tranco #9,432
+20. Cline（编程/Vibe coding）— Tranco #11,181
 
-## 每日新品快报（2026-11-01）
+## 每日新品快报（2026-11-02）
 
 - [Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)（月之暗面官方，2026-10-24 发布）月之暗面发布 K3.1 系列首款模型 Kimi K3.1 Pro：约 3 万亿参数级开放权重模型，支持约 100 万 token 上下文；强化编程、3D 创作、金融研究与长程智能体能力，并同步推出约 2–3 倍速的 Highspeed 版本；已上线 Kimi / Work / Code 与 API，完整权重计划于 11 月 4 日前开放。
-- [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI)（GitHub，★ 516）⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows instal
+- [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn)（GitHub，★ 577）AI 作图素材库 · 中文版（脸 / 姿势 / 服装）
 - [Balanov/baiagent-director](https://github.com/Balanov/baiagent-director)（GitHub，★ 305）Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.
-- [JunWan666/astrbot-for-android](https://github.com/JunWan666/astrbot-for-android)（GitHub，★ 290）在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。
 - [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk)（GitHub，★ 192）Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.
-- [hhtower/price-comparison](https://github.com/hhtower/price-comparison)（GitHub，★ 108）AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, wit
-- [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap)（GitHub，★ 84）Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.
-- [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru)（Hacker News，▲ 35 分）
-- [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)（Hacker News，▲ 13 分）
-- [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)（Hacker News，▲ 13 分）
-- [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)（Hacker News，▲ 52 分）
+- [hhtower/price-comparison](https://github.com/hhtower/price-comparison)（GitHub，★ 140）AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, wit
+- [gh9ko8y/graphmemory](https://github.com/gh9ko8y/graphmemory)（GitHub，★ 109）Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)
+- [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap)（GitHub，★ 104）Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.
+- [mankidev/codixel](https://github.com/mankidev/codixel)（GitHub，★ 55）Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.
+- [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)（Hacker News，▲ 163 分）
+- [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)（Hacker News，▲ 48 分）
+- [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)（Hacker News，▲ 14 分）
+- [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)（Hacker News，▲ 60 分）
