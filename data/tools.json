@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02 02:04 UTC",
+ "updated": "2026-11-02 04:41 UTC",
  "scenes": [
   {
    "name": "写作",
@@ -222,7 +222,7 @@
      "desc": "开源 VS Code 编程智能体",
      "pricing": "开源免费",
      "github": "cline/cline",
-     "stars": 71184,
+     "stars": 71189,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -286,7 +286,7 @@
      "desc": "终端里的开源结对编程助手",
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
-     "stars": 49885,
+     "stars": 49888,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -381,7 +381,7 @@
      "desc": "节点式开源图像/视频生成工作流",
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
-     "stars": 144498,
+     "stars": 144520,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -459,12 +459,12 @@
      "desc": "本地运行的开源图像生成界面",
      "pricing": "开源免费",
      "github": "AUTOMATIC1111/stable-diffusion-webui",
-     "stars": 165214,
+     "stars": 165216,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 165214,
+      "stars": 165216,
       "repo": "AUTOMATIC1111/stable-diffusion-webui",
       "source": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
      }
@@ -659,12 +659,12 @@
      "desc": "开源语音识别与转写模型",
      "pricing": "开源免费",
      "github": "openai/whisper",
-     "stars": 111737,
+     "stars": 111742,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 111737,
+      "stars": 111742,
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
@@ -681,7 +681,7 @@
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
-     "stars": 119407,
+     "stars": 119413,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -776,7 +776,7 @@
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
-     "stars": 209309,
+     "stars": 209318,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -793,7 +793,7 @@
      "desc": "构建 LLM 应用与智能体的开源框架",
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
-     "stars": 148842,
+     "stars": 148851,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -826,7 +826,7 @@
      "desc": "开源 LLM 应用与智能体搭建平台",
      "pricing": "开源/付费",
      "github": "langgenius/dify",
-     "stars": 160174,
+     "stars": 160186,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -843,13 +843,13 @@
      "desc": "开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）",
      "pricing": "开源免费（模型调用可能收费）",
      "github": "Orkas-AI/Orkas",
-     "stars": 7377,
+     "stars": 7586,
      "new": true,
      "added": "2026-10-22",
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 7377,
+      "stars": 7586,
       "repo": "Orkas-AI/Orkas",
       "source": "https://github.com/Orkas-AI/Orkas"
      }
@@ -1014,7 +1014,7 @@
      "desc": "开源全渠道客服平台，支持 AI",
      "pricing": "开源/付费",
      "github": "chatwoot/chatwoot",
-     "stars": 38718,
+     "stars": 38722,
      "new": false,
      "avail": "oss",
      "signal": {
@@ -1235,56 +1235,56 @@
    "title": "sleepy-zone/ai-ref-library-cn",
    "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
    "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-   "metric": "★ 577"
+   "metric": "★ 594"
   },
   {
    "source": "GitHub",
    "title": "Balanov/baiagent-director",
    "url": "https://github.com/Balanov/baiagent-director",
    "desc": "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.",
-   "metric": "★ 305"
+   "metric": "★ 306"
   },
   {
    "source": "GitHub",
    "title": "tavern-labs-ai/persona-ai-sdk",
    "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
    "desc": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
-   "metric": "★ 192"
+   "metric": "★ 194"
   },
   {
    "source": "GitHub",
    "title": "hhtower/price-comparison",
    "url": "https://github.com/hhtower/price-comparison",
    "desc": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, wit",
-   "metric": "★ 140"
+   "metric": "★ 141"
   },
   {
    "source": "GitHub",
    "title": "gh9ko8y/graphmemory",
    "url": "https://github.com/gh9ko8y/graphmemory",
    "desc": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
-   "metric": "★ 109"
+   "metric": "★ 111"
   },
   {
    "source": "GitHub",
    "title": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
    "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
    "desc": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-   "metric": "★ 104"
+   "metric": "★ 109"
   },
   {
    "source": "GitHub",
    "title": "mankidev/codixel",
    "url": "https://github.com/mankidev/codixel",
    "desc": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
-   "metric": "★ 55"
+   "metric": "★ 61"
   },
   {
    "source": "Hacker News",
    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
    "url": "https://github.com/ivankovic/omnidiff",
    "desc": "",
-   "metric": "▲ 163 分",
+   "metric": "▲ 189 分",
    "hn": "https://news.ycombinator.com/item?id=50325253"
   },
   {
@@ -1292,7 +1292,7 @@
    "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
    "desc": "",
-   "metric": "▲ 48 分",
+   "metric": "▲ 49 分",
    "hn": "https://news.ycombinator.com/item?id=50321522"
   },
   {
