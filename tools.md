@@ -1,6 +1,6 @@
 # AI 工具导航 · 全部工具清单
 
-> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-11-05 05:23 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
+> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-11-06 05:22 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
 
 
 ## 写作
@@ -24,11 +24,11 @@
 
 - [Cursor](https://cursor.com)：AI 原生代码编辑器，对话式改代码（境外服务，国内可能无法直接使用，免费+付费）
 - [Lovable](https://lovable.dev)：描述需求即可生成可上线的 Web 应用（境外服务，国内可能无法直接使用，免费+付费）
-- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 71323）
+- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 71378）
 - [Bolt.new](https://bolt.new)：浏览器里一句话生成全栈应用（境外服务，国内可能无法直接使用，免费+付费）
-- [Trae](https://www.trae.cn)：字节跳动推出的 AI 编程 IDE（豆包 MarsCode 编程助手已并入 Trae 插件）（国内服务，免费）
 - [v0](https://v0.dev)：生成 React/Next.js 前端界面（境外服务，国内可能无法直接使用，免费+付费）
-- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 49955）
+- [Trae](https://www.trae.cn)：字节跳动推出的 AI 编程 IDE（豆包 MarsCode 编程助手已并入 Trae 插件）（国内服务，免费）
+- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 49978）
 - [CodeGeeX](https://codegeex.cn)：智谱 AI 推出的多语言代码生成与补全插件（国内服务，免费）
 - [通义灵码](https://lingma.aliyun.com)：阿里云推出的 IDE 编程插件，支持代码补全与对话式编程（国内服务，免费+付费）
 - [文心快码 Comate](https://comate.baidu.com)：百度推出的智能编程助手，支持主流 IDE（国内服务，免费+付费）
@@ -38,12 +38,12 @@
 
 - [Figma](https://www.figma.com)：协作式 UI 设计工具，含 AI 功能（境外服务，国内可能无法直接使用，免费+付费）
 - [Midjourney](https://www.midjourney.com)：AI 图像生成服务（境外服务，国内可能无法直接使用，付费）
-- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 145081）
+- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 145273）
 - [Canva 可画](https://www.canva.cn)：在线设计平台（中国版），内置 AI 生成与编辑（国内服务，免费+付费）
 - [稿定设计](https://www.gaoding.com)：在线平面设计平台，提供 AI 生成与编辑功能（国内服务，免费+付费）
 - [LiblibAI 哩布哩布](https://www.liblib.art)：AI 绘画模型分享与在线生图平台（国内服务，免费+付费）
 - [美图设计室](https://www.x-design.com)：美图推出的 AI 商业设计工具，支持抠图、海报与商品图（国内服务，免费+付费）
-- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165244）
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165260）
 - [即梦 AI](https://jimeng.jianying.com)：字节跳动旗下的 AI 图片与视频创作平台（国内服务，免费+付费）
 
 ## 视频
@@ -62,11 +62,11 @@
 - [ElevenLabs](https://elevenlabs.io)：语音合成与声音克隆服务（境外服务，国内可能无法直接使用，免费+付费）
 - [讯飞听见](https://www.iflyrec.com)：科大讯飞推出的录音转文字、会议记录与翻译服务（国内服务，免费+付费）
 - [魔音工坊](https://www.moyin.com)：AI 配音平台，适用于短视频与有声内容（国内服务，免费+付费）
-- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 111976）
+- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 112054）
 
 ## 游戏开发
 
-- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 119594）
+- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 119638）
 - [Meshy](https://www.meshy.ai)：文本/图片生成 3D 模型（境外服务，国内可能无法直接使用，免费+付费）
 - [Scenario](https://www.scenario.com)：风格一致的游戏美术素材生成（境外服务，国内可能无法直接使用，付费）
 - [Rosebud AI](https://rosebud.ai)：用自然语言生成可玩的网页游戏（境外服务，国内可能无法直接使用，免费+付费）
@@ -75,11 +75,11 @@
 ## 智能体/自动化
 
 - [Zapier](https://zapier.com)：连接数千应用的自动化平台（境外服务，国内可能无法直接使用，免费+付费）
-- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 209583）
-- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 149048）
+- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 209658）
+- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 149100）
 - [Coze 扣子](https://www.coze.cn)：零代码搭建 AI 智能体与机器人（国内服务，免费+付费）
-- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 160436）
-- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 9024）
+- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 160505）
+- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 9043）
 - [腾讯元器](https://yuanqi.tencent.com)：腾讯推出的 AI 智能体创建与分发平台（国内服务，免费+付费）
 
 ## 办公效率
@@ -97,43 +97,45 @@
 ## 客服营销
 
 - [Jasper](https://www.jasper.ai)：营销文案与品牌内容生成（境外服务，国内可能无法直接使用，付费）
-- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 38899）
+- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 38965）
 - [Intercom Fin](https://www.intercom.com/fin)：AI 客服机器人自动回答客户问题（境外服务，国内可能无法直接使用，付费）
 
 ## 热门排行榜（依据 Tranco 网站流行度排名，其后为 GitHub Star 数）
 
-1. ChatGPT（写作）— Tranco #113
+1. ChatGPT（写作）— Tranco #114
 2. Claude（写作）— Tranco #414
-3. Perplexity（办公效率）— Tranco #753
-4. Figma（图像设计）— Tranco #912
-5. DeepSeek（写作）— Tranco #997
-6. 飞书智能伙伴（办公效率）— Tranco #2,433
-7. 豆包（写作）— Tranco #2,570
-8. Suno（音频）— Tranco #2,858
-9. Zapier（智能体/自动化）— Tranco #2,999
-10. Cursor（编程/Vibe coding）— Tranco #3,096
-11. ElevenLabs（音频）— Tranco #3,223
-12. 钉钉 AI（办公效率）— Tranco #3,613
-13. Lovable（编程/Vibe coding）— Tranco #3,650
-14. Gamma（办公效率）— Tranco #3,899
-15. Midjourney（图像设计）— Tranco #5,095
-16. n8n（智能体/自动化）— Tranco #5,769
-17. Runway（视频）— Tranco #5,897
-18. Kimi（写作）— Tranco #6,793
-19. 通义千问（千问）（写作）— Tranco #9,279
-20. Cline（编程/Vibe coding）— Tranco #11,215
+3. Perplexity（办公效率）— Tranco #762
+4. Figma（图像设计）— Tranco #913
+5. DeepSeek（写作）— Tranco #978
+6. 飞书智能伙伴（办公效率）— Tranco #2,404
+7. 豆包（写作）— Tranco #2,571
+8. Suno（音频）— Tranco #2,864
+9. Zapier（智能体/自动化）— Tranco #2,993
+10. Cursor（编程/Vibe coding）— Tranco #3,074
+11. ElevenLabs（音频）— Tranco #3,211
+12. 钉钉 AI（办公效率）— Tranco #3,597
+13. Lovable（编程/Vibe coding）— Tranco #3,647
+14. Gamma（办公效率）— Tranco #3,881
+15. Midjourney（图像设计）— Tranco #5,083
+16. n8n（智能体/自动化）— Tranco #5,748
+17. Runway（视频）— Tranco #5,862
+18. Kimi（写作）— Tranco #6,751
+19. 通义千问（千问）（写作）— Tranco #9,219
+20. Cline（编程/Vibe coding）— Tranco #11,244
 
-## 每日新品快报（2026-11-05）
+## 每日新品快报（2026-11-06）
 
 - [Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)（月之暗面官方，2026-10-24 发布）月之暗面发布 K3.1 系列首款模型 Kimi K3.1 Pro：约 3 万亿参数级开放权重模型，支持约 100 万 token 上下文；强化编程、3D 创作、金融研究与长程智能体能力，并同步推出约 2–3 倍速的 Highspeed 版本；已上线 Kimi / Work / Code 与 API，完整权重计划于 11 月 4 日前开放。
-- [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk)（GitHub，★ 197）Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.
-- [gh9ko8y/graphmemory](https://github.com/gh9ko8y/graphmemory)（GitHub，★ 190）Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)
-- [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap)（GitHub，★ 154）Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.
-- [mankidev/codixel](https://github.com/mankidev/codixel)（GitHub，★ 109）Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.
-- [xingjunm/autoppt](https://github.com/xingjunm/autoppt)（GitHub，★ 52）AutoPPT — AI-Powered Interactive Lecture Slides Generator |  AI备课神器 | 一键生成一整周精美、可交互的课件!
-- [bytedance/axion1_0](https://github.com/bytedance/axion1_0)（GitHub，★ 47）Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe releas
-- [DKKD13/dsh-finance](https://github.com/DKKD13/dsh-finance)（GitHub，★ 46）DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。
-- [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)（Hacker News，▲ 104 分）
-- [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/)（Hacker News，▲ 99 分）
-- [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)（Hacker News，▲ 25 分）
-- [Show HN: Remene – Understand your MRI and prepare questions for your doctor](https://remene.si)（Hacker News，▲ 11 分）
+- [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills)（GitHub，★ 345）AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)
+- [tavern-labs-ai/persona-ai-sdk](https://github.com/tavern-labs-ai/persona-ai-sdk)（GitHub，★ 196）Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.
+- [mankidev/codixel](https://github.com/mankidev/codixel)（GitHub，★ 125）Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.
+- [DKKD13/dsh-finance](https://github.com/DKKD13/dsh-finance)（GitHub，★ 72）DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。
+- [bytedance/axion1_0](https://github.com/bytedance/axion1_0)（GitHub，★ 58）Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe releas
+- [xingjunm/autoppt](https://github.com/xingjunm/autoppt)（GitHub，★ 53）AutoPPT — AI-Powered Interactive Lecture Slides Generator |  AI备课神器 | 一键生成一整周精美、可交互的课件!
+- [kennydamobd/chatGPT-shell-cli](https://github.com/kennydamobd/chatGPT-shell-cli)（GitHub，★ 50）A lightweight shell script to use OpenAI chat models and image generation from the terminal.
+- [fieldpincocknxxc/prompt-poet](https://github.com/fieldpincocknxxc/prompt-poet)（GitHub，★ 50）Low-code templating for LLM prompts: Jinja2 templates, token accounting, and cache-aware truncation.
+- [mandeal303/tiktokenizer](https://github.com/mandeal303/tiktokenizer)（GitHub，★ 50）An interactive playground for comparing how different language models tokenize the same text.
+- [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench)（GitHub，★ 42）Can AI agents rebuild websites through browser exploration?
+- [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/)（Hacker News，▲ 116 分）
+- [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)（Hacker News，▲ 40 分）
+- [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k)（Hacker News，▲ 187 分）
