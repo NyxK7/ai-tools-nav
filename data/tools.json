@@ -336,83 +336,6 @@
      "github": null,
      "new": false,
      "avail": "intl"
-    },
-    {
-     "name": "GitHub-Copilot-app",
-     "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
-     "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-     "pricing": "开源",
-     "avail": "oss",
-     "github": "trackboatwrightplan/GitHub-Copilot-app",
-     "auto": true,
-     "added": "2026-11-15",
-     "new": true
-    },
-    {
-     "name": "GitHub-Copilot-app",
-     "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
-     "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-     "pricing": "开源",
-     "avail": "oss",
-     "github": "TrapAccountant/GitHub-Copilot-app",
-     "auto": true,
-     "added": "2026-11-15",
-     "new": true
-    },
-    {
-     "name": "GitHub-Copilot-app",
-     "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
-     "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-     "pricing": "开源",
-     "avail": "oss",
-     "github": "trackersnailgrip/GitHub-Copilot-app",
-     "auto": true,
-     "added": "2026-11-15",
-     "new": true
-    },
-    {
-     "name": "GitHub-Copilot-app",
-     "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
-     "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-     "pricing": "开源",
-     "avail": "oss",
-     "github": "TradesmanRecord/GitHub-Copilot-app",
-     "auto": true,
-     "added": "2026-11-15",
-     "new": true
-    },
-    {
-     "name": "GitHub-Copilot-app",
-     "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
-     "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-     "pricing": "开源",
-     "avail": "oss",
-     "github": "toppatronweave/GitHub-Copilot-app",
-     "auto": true,
-     "added": "2026-11-15",
-     "new": true
-    },
-    {
-     "name": "GitHub-Copilot-app",
-     "url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
-     "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-     "pricing": "开源",
-     "avail": "oss",
-     "github": "TurquoiseConsultant/GitHub-Copilot-app",
-     "auto": true,
-     "added": "2026-11-15",
-     "new": true
-    },
-    {
-     "name": "GitHub-Copilot-app",
-     "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
-     "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-     "pricing": "开源",
-     "avail": "oss",
-     "github": "TurkeyDesignate/GitHub-Copilot-app",
-     "auto": true,
-     "added": "2026-11-15",
-     "new": true
     }
    ],
    "slug": "coding"
@@ -1298,55 +1221,6 @@
   }
  ],
  "daily": [
-  {
-   "source": "GitHub",
-   "title": "trackboatwrightplan/GitHub-Copilot-app",
-   "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "metric": "★ 672"
-  },
-  {
-   "source": "GitHub",
-   "title": "TrapAccountant/GitHub-Copilot-app",
-   "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "metric": "★ 670"
-  },
-  {
-   "source": "GitHub",
-   "title": "trackersnailgrip/GitHub-Copilot-app",
-   "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "metric": "★ 666"
-  },
-  {
-   "source": "GitHub",
-   "title": "TradesmanRecord/GitHub-Copilot-app",
-   "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "metric": "★ 665"
-  },
-  {
-   "source": "GitHub",
-   "title": "toppatronweave/GitHub-Copilot-app",
-   "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "metric": "★ 665"
-  },
-  {
-   "source": "GitHub",
-   "title": "TurquoiseConsultant/GitHub-Copilot-app",
-   "url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "metric": "★ 664"
-  },
-  {
-   "source": "GitHub",
-   "title": "TurkeyDesignate/GitHub-Copilot-app",
-   "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "metric": "★ 664"
-  },
   {
    "source": "Hacker News",
    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",

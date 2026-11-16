@@ -33,13 +33,6 @@
 - [通义灵码](https://lingma.aliyun.com)：阿里云推出的 IDE 编程插件，支持代码补全与对话式编程（国内服务，免费+付费）
 - [文心快码 Comate](https://comate.baidu.com)：百度推出的智能编程助手，支持主流 IDE（国内服务，免费+付费）
 - [GitHub Copilot](https://github.com/features/copilot)：IDE 内代码补全与编程助手（境外服务，国内可能无法直接使用，免费+付费）
-- [GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app)：The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. （开源，可本地部署，开源，新收录）
-- [GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app)：The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. （开源，可本地部署，开源，新收录）
-- [GitHub-Copilot-app](https://github.com/trackersnailgrip/GitHub-Copilot-app)：The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. （开源，可本地部署，开源，新收录）
-- [GitHub-Copilot-app](https://github.com/TradesmanRecord/GitHub-Copilot-app)：The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. （开源，可本地部署，开源，新收录）
-- [GitHub-Copilot-app](https://github.com/toppatronweave/GitHub-Copilot-app)：The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. （开源，可本地部署，开源，新收录）
-- [GitHub-Copilot-app](https://github.com/TurquoiseConsultant/GitHub-Copilot-app)：The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. （开源，可本地部署，开源，新收录）
-- [GitHub-Copilot-app](https://github.com/TurkeyDesignate/GitHub-Copilot-app)：The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. （开源，可本地部署，开源，新收录）
 
 ## 图像设计
 
@@ -132,11 +125,4 @@
 
 ## 每日新品快报（2026-11-15）
 
-- [trackboatwrightplan/GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app)（GitHub，★ 672）The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. 
-- [TrapAccountant/GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app)（GitHub，★ 670）The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. 
-- [trackersnailgrip/GitHub-Copilot-app](https://github.com/trackersnailgrip/GitHub-Copilot-app)（GitHub，★ 666）The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. 
-- [TradesmanRecord/GitHub-Copilot-app](https://github.com/TradesmanRecord/GitHub-Copilot-app)（GitHub，★ 665）The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. 
-- [toppatronweave/GitHub-Copilot-app](https://github.com/toppatronweave/GitHub-Copilot-app)（GitHub，★ 665）The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. 
-- [TurquoiseConsultant/GitHub-Copilot-app](https://github.com/TurquoiseConsultant/GitHub-Copilot-app)（GitHub，★ 664）The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. 
-- [TurkeyDesignate/GitHub-Copilot-app](https://github.com/TurkeyDesignate/GitHub-Copilot-app)（GitHub，★ 664）The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. 
 - [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)（Hacker News，▲ 147 分）

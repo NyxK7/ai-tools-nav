@@ -21,6 +21,8 @@ items=[]
 try:
     q=urllib.parse.quote(f"topic:ai created:>{since}")
     for r in get(f"https://api.github.com/search/repositories?q={q}&sort=stars&order=desc&per_page=10",True)["items"]:
+        if r.get("fork"):
+            print("剔除 fork", r["full_name"]); continue
         items.append({"source":"GitHub","title":r["full_name"],"url":r["html_url"],"desc":(r["description"] or "")[:160],"metric":f"★ {r['stargazers_count']}"})
 except Exception as e: print("gh search fail",e)
 try:
@@ -47,6 +49,31 @@ for it in items:
     if why: print("剔除可疑仓库",it["title"],why)
     else: _kept.append(it)
 items=_kept
+# —— 过滤刷星克隆站群：同批结果里同名/同简介重复，或 GitHub 上同名仓库过多（非 fork 按钮的复制站群）——
+from collections import Counter
+_gh=[it for it in items if it["source"]=="GitHub"]
+_spam_n={n for n,c in Counter(it["title"].split("/")[-1].lower() for it in _gh).items() if c>=2}
+_spam_d={x for x,c in Counter((it.get("desc") or "").strip().lower() for it in _gh if (it.get("desc") or "").strip()).items() if c>=2}
+def clone_wave(full):
+    name=full.split("/")[-1]
+    try:
+        q2=urllib.parse.quote(f'"{name}" in:name')
+        total=get(f"https://api.github.com/search/repositories?q={q2}&per_page=1",True).get("total_count",0)
+        if total>=5: return f"同名仓库过多({total})"
+    except Exception as e: print("clone check fail",full,e)
+    return None
+_kept=[]
+for it in items:
+    if it["source"]=="GitHub":
+        name=it["title"].split("/")[-1].lower()
+        desc=(it.get("desc") or "").strip().lower()
+        if name in _spam_n or desc in _spam_d:
+            print("剔除克隆站群",it["title"]); continue
+        why=clone_wave(it["title"])
+        if why:
+            print("剔除克隆站群",it["title"],why); continue
+    _kept.append(it)
+items=_kept
 merge(d,items,now.date())  # 置顶的官方发布保留 14 天，其余为本次抓取
 
 # —— 保守的自动收录：只收 GitHub 新仓库，Star≥200，且只命中一个场景的关键词 ——
@@ -60,17 +87,22 @@ RULES={"coding":["coding agent","code editor","copilot","vibe coding","code gene
 "productivity":["note-taking","presentation","slides","pdf"],
 "marketing":["customer support","chatbot for support","marketing"]}
 import re
+def norm_name(s):
+    return re.sub("[^a-z0-9\u4e00-\u9fff]+","", s.lower())
 existing={t["url"].rstrip("/").lower() for s in d["scenes"] for t in s["tools"]}
+existing_names={norm_name(t["name"]) for s in d["scenes"] for t in s["tools"] if t.get("name")}
 bys={s["slug"]:s for s in d["scenes"]}
 today=now.strftime("%Y-%m-%d")
 for it in items:
     if it["source"]!="GitHub" or int(it["metric"].split()[-1])<200: continue
     text=(it["title"]+" "+it["desc"]).lower()
     hit=[k for k,ws in RULES.items() if any(re.search(r"\b"+re.escape(w)+r"\b",text) for w in ws)]
-    if len(hit)!=1 or it["url"].lower() in existing: continue
-    bys[hit[0]]["tools"].append({"name":it["title"].split("/")[-1],"url":it["url"],"desc":it["desc"] or "GitHub 新热门开源项目",
+    name=it["title"].split("/")[-1]
+    nkey=norm_name(name)
+    if len(hit)!=1 or it["url"].lower() in existing or (nkey and nkey in existing_names): continue
+    bys[hit[0]]["tools"].append({"name":name,"url":it["url"],"desc":it["desc"] or "GitHub 新热门开源项目",
       "pricing":"开源","avail":"oss","github":it["title"],"auto":True,"added":today})
-    existing.add(it["url"].lower()); print("新收录",hit[0],it["title"])
+    existing.add(it["url"].lower()); existing_names.add(nkey); print("新收录",hit[0],it["title"])
 # 新收录标记保留 14 天
 for s in d["scenes"]:
     for t in s["tools"]:
