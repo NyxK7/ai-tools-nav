@@ -1,6 +1,6 @@
 # AI 工具导航 · 全部工具清单
 
-> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-11-15 05:01 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
+> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-11-16 04:59 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
 
 
 ## 写作
@@ -24,11 +24,11 @@
 
 - [Cursor](https://cursor.com)：AI 原生代码编辑器，对话式改代码（境外服务，国内可能无法直接使用，免费+付费）
 - [Lovable](https://lovable.dev)：描述需求即可生成可上线的 Web 应用（境外服务，国内可能无法直接使用，免费+付费）
-- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 71639）
+- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 71668）
 - [Bolt.new](https://bolt.new)：浏览器里一句话生成全栈应用（境外服务，国内可能无法直接使用，免费+付费）
 - [v0](https://v0.dev)：生成 React/Next.js 前端界面（境外服务，国内可能无法直接使用，免费+付费）
 - [Trae](https://www.trae.cn)：字节跳动推出的 AI 编程 IDE（豆包 MarsCode 编程助手已并入 Trae 插件）（国内服务，免费）
-- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 50118）
+- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 50134）
 - [CodeGeeX](https://codegeex.cn)：智谱 AI 推出的多语言代码生成与补全插件（国内服务，免费）
 - [通义灵码](https://lingma.aliyun.com)：阿里云推出的 IDE 编程插件，支持代码补全与对话式编程（国内服务，免费+付费）
 - [文心快码 Comate](https://comate.baidu.com)：百度推出的智能编程助手，支持主流 IDE（国内服务，免费+付费）
@@ -38,12 +38,12 @@
 
 - [Figma](https://www.figma.com)：协作式 UI 设计工具，含 AI 功能（境外服务，国内可能无法直接使用，免费+付费）
 - [Midjourney](https://www.midjourney.com)：AI 图像生成服务（境外服务，国内可能无法直接使用，付费）
-- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 146868）
+- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 147060）
 - [Canva 可画](https://www.canva.cn)：在线设计平台（中国版），内置 AI 生成与编辑（国内服务，免费+付费）
 - [稿定设计](https://www.gaoding.com)：在线平面设计平台，提供 AI 生成与编辑功能（国内服务，免费+付费）
 - [LiblibAI 哩布哩布](https://www.liblib.art)：AI 绘画模型分享与在线生图平台（国内服务，免费+付费）
 - [美图设计室](https://www.x-design.com)：美图推出的 AI 商业设计工具，支持抠图、海报与商品图（国内服务，免费+付费）
-- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165317）
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165321）
 - [即梦 AI](https://jimeng.jianying.com)：字节跳动旗下的 AI 图片与视频创作平台（国内服务，免费+付费）
 
 ## 视频
@@ -62,11 +62,11 @@
 - [ElevenLabs](https://elevenlabs.io)：语音合成与声音克隆服务（境外服务，国内可能无法直接使用，免费+付费）
 - [讯飞听见](https://www.iflyrec.com)：科大讯飞推出的录音转文字、会议记录与翻译服务（国内服务，免费+付费）
 - [魔音工坊](https://www.moyin.com)：AI 配音平台，适用于短视频与有声内容（国内服务，免费+付费）
-- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 112736）
+- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 112807）
 
 ## 游戏开发
 
-- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 120172）
+- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 120245）
 - [Meshy](https://www.meshy.ai)：文本/图片生成 3D 模型（境外服务，国内可能无法直接使用，免费+付费）
 - [Scenario](https://www.scenario.com)：风格一致的游戏美术素材生成（境外服务，国内可能无法直接使用，付费）
 - [Rosebud AI](https://rosebud.ai)：用自然语言生成可玩的网页游戏（境外服务，国内可能无法直接使用，免费+付费）
@@ -75,11 +75,11 @@
 ## 智能体/自动化
 
 - [Zapier](https://zapier.com)：连接数千应用的自动化平台（境外服务，国内可能无法直接使用，免费+付费）
-- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 210534）
-- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 149526）
+- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 210608）
+- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 149598）
 - [Coze 扣子](https://www.coze.cn)：零代码搭建 AI 智能体与机器人（国内服务，免费+付费）
-- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 161176）
-- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 9361）
+- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 161233）
+- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 9383）
 - [腾讯元器](https://yuanqi.tencent.com)：腾讯推出的 AI 智能体创建与分发平台（国内服务，免费+付费）
 
 ## 办公效率
@@ -97,32 +97,35 @@
 ## 客服营销
 
 - [Jasper](https://www.jasper.ai)：营销文案与品牌内容生成（境外服务，国内可能无法直接使用，付费）
-- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 39901）
+- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 39947）
 - [Intercom Fin](https://www.intercom.com/fin)：AI 客服机器人自动回答客户问题（境外服务，国内可能无法直接使用，付费）
 
 ## 热门排行榜（依据 Tranco 网站流行度排名，其后为 GitHub Star 数）
 
-1. ChatGPT（写作）— Tranco #115
+1. ChatGPT（写作）— Tranco #114
 2. Claude（写作）— Tranco #413
-3. DeepSeek（写作）— Tranco #837
-4. Perplexity（办公效率）— Tranco #874
-5. Figma（图像设计）— Tranco #911
-6. 飞书智能伙伴（办公效率）— Tranco #2,212
-7. 豆包（写作）— Tranco #2,561
-8. Cursor（编程/Vibe coding）— Tranco #2,782
-9. Suno（音频）— Tranco #2,991
-10. Zapier（智能体/自动化）— Tranco #3,008
-11. ElevenLabs（音频）— Tranco #3,174
-12. 钉钉 AI（办公效率）— Tranco #3,587
-13. Lovable（编程/Vibe coding）— Tranco #3,648
-14. Gamma（办公效率）— Tranco #3,849
-15. Midjourney（图像设计）— Tranco #4,917
-16. Runway（视频）— Tranco #5,390
-17. n8n（智能体/自动化）— Tranco #5,579
-18. Kimi（写作）— Tranco #6,561
-19. 通义千问（千问）（写作）— Tranco #9,138
-20. Cline（编程/Vibe coding）— Tranco #11,237
+3. DeepSeek（写作）— Tranco #817
+4. Perplexity（办公效率）— Tranco #888
+5. Figma（图像设计）— Tranco #907
+6. 飞书智能伙伴（办公效率）— Tranco #2,189
+7. 豆包（写作）— Tranco #2,559
+8. Cursor（编程/Vibe coding）— Tranco #2,741
+9. Zapier（智能体/自动化）— Tranco #2,991
+10. Suno（音频）— Tranco #3,010
+11. ElevenLabs（音频）— Tranco #3,168
+12. 钉钉 AI（办公效率）— Tranco #3,607
+13. Lovable（编程/Vibe coding）— Tranco #3,656
+14. Gamma（办公效率）— Tranco #3,858
+15. Midjourney（图像设计）— Tranco #4,933
+16. Runway（视频）— Tranco #5,358
+17. n8n（智能体/自动化）— Tranco #5,562
+18. Kimi（写作）— Tranco #6,537
+19. 通义千问（千问）（写作）— Tranco #9,152
+20. Cline（编程/Vibe coding）— Tranco #11,247
 
-## 每日新品快报（2026-11-15）
+## 每日新品快报（2026-11-16）
 
-- [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)（Hacker News，▲ 147 分）
+- [Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)（Hacker News，▲ 37 分）
+- [Show HN: Gamma PDF – AI-native PDF reader, self-hosted](https://gammapdf.com/)（Hacker News，▲ 11 分）
+- [Show HN: Shotoku – Local-first action governance and budget caps for AI agents](https://www.shotoku.dev/)（Hacker News，▲ 11 分）
+- [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)（Hacker News，▲ 167 分）
