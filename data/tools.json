@@ -853,14 +853,6 @@
       "repo": "Orkas-AI/Orkas",
       "source": "https://github.com/Orkas-AI/Orkas"
      }
-    },
-    {
-     "name": "腾讯元器",
-     "url": "https://yuanqi.tencent.com",
-     "desc": "腾讯推出的 AI 智能体创建与分发平台",
-     "pricing": "免费+付费",
-     "avail": "cn",
-     "new": false
     }
    ],
    "slug": "agents"
