@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25 07:12 UTC",
+ "updated": "2026-11-26 07:01 UTC",
  "scenes": [
   {
    "name": "写作",
@@ -14,10 +14,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 109,
+      "rank": 108,
       "domain": "chatgpt.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -30,10 +30,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 394,
+      "rank": 392,
       "domain": "claude.ai",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -45,10 +45,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 701,
+      "rank": 700,
       "domain": "deepseek.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -60,10 +60,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 2477,
+      "rank": 2473,
       "domain": "doubao.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -76,10 +76,10 @@
      "avail": "cn",
      "signal": {
       "type": "tranco",
-      "rank": 6329,
+      "rank": 6315,
       "domain": "kimi.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -91,10 +91,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 9310,
+      "rank": 9344,
       "domain": "qianwen.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -106,10 +106,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 25495,
+      "rank": 25456,
       "domain": "chatglm.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -121,10 +121,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 105441,
+      "rank": 105002,
       "domain": "tiangong.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -194,10 +194,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 2377,
+      "rank": 2348,
       "domain": "cursor.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -210,10 +210,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 3640,
+      "rank": 3635,
       "domain": "lovable.dev",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -222,15 +222,15 @@
      "desc": "开源 VS Code 编程智能体",
      "pricing": "开源免费",
      "github": "cline/cline",
-     "stars": 71883,
+     "stars": 71907,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 11051,
+      "rank": 11039,
       "domain": "cline.bot",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -243,10 +243,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 25031,
+      "rank": 24978,
       "domain": "bolt.new",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -259,10 +259,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 40529,
+      "rank": 40225,
       "domain": "v0.dev",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -274,10 +274,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 41565,
+      "rank": 41272,
       "domain": "trae.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -286,15 +286,15 @@
      "desc": "终端里的开源结对编程助手",
      "pricing": "开源免费",
      "github": "Aider-AI/aider",
-     "stars": 50249,
+     "stars": 50266,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 76061,
+      "rank": 75860,
       "domain": "aider.chat",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -306,10 +306,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 196409,
+      "rank": 197081,
       "domain": "codegeex.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -353,10 +353,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 882,
+      "rank": 880,
       "domain": "figma.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -369,10 +369,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 4714,
+      "rank": 4695,
       "domain": "midjourney.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -381,15 +381,15 @@
      "desc": "节点式开源图像/视频生成工作流",
      "pricing": "开源免费",
      "github": "comfyanonymous/ComfyUI",
-     "stars": 148509,
+     "stars": 148657,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 18279,
+      "rank": 18083,
       "domain": "comfy.org",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -402,10 +402,10 @@
      "avail": "cn",
      "signal": {
       "type": "tranco",
-      "rank": 24555,
+      "rank": 24618,
       "domain": "canva.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -417,10 +417,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 34067,
+      "rank": 33886,
       "domain": "gaoding.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -432,10 +432,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 58193,
+      "rank": 58054,
       "domain": "liblib.art",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -447,10 +447,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 411847,
+      "rank": 412768,
       "domain": "x-design.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -459,12 +459,12 @@
      "desc": "本地运行的开源图像生成界面",
      "pricing": "开源免费",
      "github": "AUTOMATIC1111/stable-diffusion-webui",
-     "stars": 165372,
+     "stars": 165387,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 165372,
+      "stars": 165387,
       "repo": "AUTOMATIC1111/stable-diffusion-webui",
       "source": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
      }
@@ -493,10 +493,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 5416,
+      "rank": 5420,
       "domain": "runwayml.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -509,10 +509,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 11786,
+      "rank": 11712,
       "domain": "heygen.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -525,10 +525,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 28585,
+      "rank": 28514,
       "domain": "pika.art",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -540,10 +540,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 82039,
+      "rank": 82255,
       "domain": "hailuoai.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -555,10 +555,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 89483,
+      "rank": 88889,
       "domain": "capcut.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -570,10 +570,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 349960,
+      "rank": 347866,
       "domain": "vidu.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -592,22 +592,6 @@
    "name": "音频",
    "tools": [
     {
-     "name": "ElevenLabs",
-     "url": "https://elevenlabs.io",
-     "desc": "语音合成与声音克隆服务",
-     "pricing": "免费+付费",
-     "github": null,
-     "new": false,
-     "avail": "intl",
-     "signal": {
-      "type": "tranco",
-      "rank": 3180,
-      "domain": "elevenlabs.io",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
-     }
-    },
-    {
      "name": "Suno",
      "url": "https://suno.com",
      "desc": "一句话生成完整歌曲",
@@ -617,10 +601,26 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 3191,
+      "rank": 3206,
       "domain": "suno.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
+     }
+    },
+    {
+     "name": "ElevenLabs",
+     "url": "https://elevenlabs.io",
+     "desc": "语音合成与声音克隆服务",
+     "pricing": "免费+付费",
+     "github": null,
+     "new": false,
+     "avail": "intl",
+     "signal": {
+      "type": "tranco",
+      "rank": 3210,
+      "domain": "elevenlabs.io",
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -632,10 +632,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 56700,
+      "rank": 56572,
       "domain": "iflyrec.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -647,10 +647,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 262027,
+      "rank": 261168,
       "domain": "moyin.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -659,12 +659,12 @@
      "desc": "开源语音识别与转写模型",
      "pricing": "开源免费",
      "github": "openai/whisper",
-     "stars": 113463,
+     "stars": 113559,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 113463,
+      "stars": 113559,
       "repo": "openai/whisper",
       "source": "https://github.com/openai/whisper"
      }
@@ -685,10 +685,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 13939,
+      "rank": 13661,
       "domain": "meshy.ai",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -697,15 +697,15 @@
      "desc": "开源游戏引擎，适合配合 AI 写代码",
      "pricing": "开源免费",
      "github": "godotengine/godot",
-     "stars": 120753,
+     "stars": 120854,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 15579,
+      "rank": 15586,
       "domain": "godotengine.org",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -718,10 +718,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 103062,
+      "rank": 102529,
       "domain": "scenario.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -734,10 +734,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 190556,
+      "rank": 190083,
       "domain": "rosebud.ai",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -764,10 +764,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 3010,
+      "rank": 2977,
       "domain": "zapier.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -776,15 +776,15 @@
      "desc": "开源工作流自动化，可接入 AI 节点",
      "pricing": "开源/付费",
      "github": "n8n-io/n8n",
-     "stars": 212067,
+     "stars": 212176,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 5376,
+      "rank": 5349,
       "domain": "n8n.io",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -793,15 +793,15 @@
      "desc": "构建 LLM 应用与智能体的开源框架",
      "pricing": "开源免费",
      "github": "langchain-ai/langchain",
-     "stars": 149964,
+     "stars": 150011,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 12123,
+      "rank": 12113,
       "domain": "langchain.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -814,10 +814,10 @@
      "avail": "cn",
      "signal": {
       "type": "tranco",
-      "rank": 34412,
+      "rank": 34715,
       "domain": "coze.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -826,15 +826,15 @@
      "desc": "开源 LLM 应用与智能体搭建平台",
      "pricing": "开源/付费",
      "github": "langgenius/dify",
-     "stars": 161862,
+     "stars": 161932,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 42576,
+      "rank": 42328,
       "domain": "dify.ai",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -843,13 +843,13 @@
      "desc": "开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）",
      "pricing": "开源免费（模型调用可能收费）",
      "github": "Orkas-AI/Orkas",
-     "stars": 9589,
+     "stars": 9571,
      "new": false,
      "added": "2026-10-22",
      "avail": "oss",
      "signal": {
       "type": "github_stars",
-      "stars": 9589,
+      "stars": 9571,
       "repo": "Orkas-AI/Orkas",
       "source": "https://github.com/Orkas-AI/Orkas"
      }
@@ -870,10 +870,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 979,
+      "rank": 977,
       "domain": "perplexity.ai",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -886,10 +886,10 @@
      "avail": "cn",
      "signal": {
       "type": "tranco",
-      "rank": 2057,
+      "rank": 2049,
       "domain": "feishu.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -902,10 +902,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 3922,
+      "rank": 3923,
       "domain": "gamma.app",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -917,10 +917,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 4070,
+      "rank": 4110,
       "domain": "dingtalk.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -932,10 +932,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 70231,
+      "rank": 69571,
       "domain": "metaso.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -947,10 +947,10 @@
      "new": false,
      "signal": {
       "type": "tranco",
-      "rank": 164848,
+      "rank": 163234,
       "domain": "aippt.cn",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -994,10 +994,10 @@
      "avail": "intl",
      "signal": {
       "type": "tranco",
-      "rank": 12132,
+      "rank": 12123,
       "domain": "jasper.ai",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -1006,15 +1006,15 @@
      "desc": "开源全渠道客服平台，支持 AI",
      "pricing": "开源/付费",
      "github": "chatwoot/chatwoot",
-     "stars": 40521,
+     "stars": 40581,
      "new": false,
      "avail": "oss",
      "signal": {
       "type": "tranco",
-      "rank": 30635,
+      "rank": 30680,
       "domain": "chatwoot.com",
-      "source": "https://tranco-list.eu/list/JZW4Y/1000000",
-      "date": "2026-11-24"
+      "source": "https://tranco-list.eu/list/947P2/1000000",
+      "date": "2026-11-25"
      }
     },
     {
@@ -1035,227 +1035,249 @@
    "name": "ChatGPT",
    "url": "https://chatgpt.com",
    "scene": "写作",
-   "metric": "Tranco #109",
+   "metric": "Tranco #108",
    "signal": "tranco",
-   "rank": 109,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 108,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Claude",
    "url": "https://claude.ai",
    "scene": "写作",
-   "metric": "Tranco #394",
+   "metric": "Tranco #392",
    "signal": "tranco",
-   "rank": 394,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 392,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "DeepSeek",
    "url": "https://www.deepseek.com",
    "scene": "写作",
-   "metric": "Tranco #701",
+   "metric": "Tranco #700",
    "signal": "tranco",
-   "rank": 701,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 700,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Figma",
    "url": "https://www.figma.com",
    "scene": "图像设计",
-   "metric": "Tranco #882",
+   "metric": "Tranco #880",
    "signal": "tranco",
-   "rank": 882,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 880,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Perplexity",
    "url": "https://www.perplexity.ai",
    "scene": "办公效率",
-   "metric": "Tranco #979",
+   "metric": "Tranco #977",
    "signal": "tranco",
-   "rank": 979,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 977,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "飞书智能伙伴",
    "url": "https://www.feishu.cn",
    "scene": "办公效率",
-   "metric": "Tranco #2,057",
+   "metric": "Tranco #2,049",
    "signal": "tranco",
-   "rank": 2057,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 2049,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Cursor",
    "url": "https://cursor.com",
    "scene": "编程/Vibe coding",
-   "metric": "Tranco #2,377",
+   "metric": "Tranco #2,348",
    "signal": "tranco",
-   "rank": 2377,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 2348,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "豆包",
    "url": "https://www.doubao.com",
    "scene": "写作",
-   "metric": "Tranco #2,477",
+   "metric": "Tranco #2,473",
    "signal": "tranco",
-   "rank": 2477,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 2473,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Zapier",
    "url": "https://zapier.com",
    "scene": "智能体/自动化",
-   "metric": "Tranco #3,010",
+   "metric": "Tranco #2,977",
    "signal": "tranco",
-   "rank": 3010,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
-  },
-  {
-   "name": "ElevenLabs",
-   "url": "https://elevenlabs.io",
-   "scene": "音频",
-   "metric": "Tranco #3,180",
-   "signal": "tranco",
-   "rank": 3180,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 2977,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Suno",
    "url": "https://suno.com",
    "scene": "音频",
-   "metric": "Tranco #3,191",
+   "metric": "Tranco #3,206",
    "signal": "tranco",
-   "rank": 3191,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 3206,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
+  },
+  {
+   "name": "ElevenLabs",
+   "url": "https://elevenlabs.io",
+   "scene": "音频",
+   "metric": "Tranco #3,210",
+   "signal": "tranco",
+   "rank": 3210,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Lovable",
    "url": "https://lovable.dev",
    "scene": "编程/Vibe coding",
-   "metric": "Tranco #3,640",
+   "metric": "Tranco #3,635",
    "signal": "tranco",
-   "rank": 3640,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 3635,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Gamma",
    "url": "https://gamma.app",
    "scene": "办公效率",
-   "metric": "Tranco #3,922",
+   "metric": "Tranco #3,923",
    "signal": "tranco",
-   "rank": 3922,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 3923,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "钉钉 AI",
    "url": "https://www.dingtalk.com",
    "scene": "办公效率",
-   "metric": "Tranco #4,070",
+   "metric": "Tranco #4,110",
    "signal": "tranco",
-   "rank": 4070,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 4110,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Midjourney",
    "url": "https://www.midjourney.com",
    "scene": "图像设计",
-   "metric": "Tranco #4,714",
+   "metric": "Tranco #4,695",
    "signal": "tranco",
-   "rank": 4714,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 4695,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "n8n",
    "url": "https://n8n.io",
    "scene": "智能体/自动化",
-   "metric": "Tranco #5,376",
+   "metric": "Tranco #5,349",
    "signal": "tranco",
-   "rank": 5376,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 5349,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Runway",
    "url": "https://runwayml.com",
    "scene": "视频",
-   "metric": "Tranco #5,416",
+   "metric": "Tranco #5,420",
    "signal": "tranco",
-   "rank": 5416,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 5420,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Kimi",
    "url": "https://www.kimi.com",
    "scene": "写作",
-   "metric": "Tranco #6,329",
+   "metric": "Tranco #6,315",
    "signal": "tranco",
-   "rank": 6329,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 6315,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "通义千问（千问）",
    "url": "https://www.qianwen.com",
    "scene": "写作",
-   "metric": "Tranco #9,310",
+   "metric": "Tranco #9,344",
    "signal": "tranco",
-   "rank": 9310,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 9344,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   },
   {
    "name": "Cline",
    "url": "https://cline.bot",
    "scene": "编程/Vibe coding",
-   "metric": "Tranco #11,051",
+   "metric": "Tranco #11,039",
    "signal": "tranco",
-   "rank": 11051,
-   "source": "https://tranco-list.eu/list/JZW4Y/1000000"
+   "rank": 11039,
+   "source": "https://tranco-list.eu/list/947P2/1000000"
   }
  ],
  "daily": [
   {
    "source": "GitHub",
-   "title": "5235aa-web/Pebble_companionchat",
-   "url": "https://github.com/5235aa-web/Pebble_companionchat",
-   "desc": "A lightweight, locally-focused, and customizable chat impersonation application",
-   "metric": "★ 102"
-  },
-  {
-   "source": "GitHub",
    "title": "7wdn/7paws",
    "url": "https://github.com/7wdn/7paws",
    "desc": "Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。",
-   "metric": "★ 65"
+   "metric": "★ 104"
+  },
+  {
+   "source": "GitHub",
+   "title": "5235aa-web/Pebble_companionchat",
+   "url": "https://github.com/5235aa-web/Pebble_companionchat",
+   "desc": "A lightweight, locally-focused, and customizable chat impersonation application",
+   "metric": "★ 104"
+  },
+  {
+   "source": "GitHub",
+   "title": "dxu1570/ai-session-suite",
+   "url": "https://github.com/dxu1570/ai-session-suite",
+   "desc": "Session rotation suite for ALL AI services — one binary.",
+   "metric": "★ 66"
+  },
+  {
+   "source": "GitHub",
+   "title": "matsumoto4039/old-photo-life",
+   "url": "https://github.com/matsumoto4039/old-photo-life",
+   "desc": "AI Old Photo Animate — animate and animation in one tool.",
+   "metric": "★ 66"
   },
   {
    "source": "Hacker News",
-   "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-   "url": "https://www.kradle.ai?1",
+   "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+   "url": "https://carry.md/",
    "desc": "",
-   "metric": "▲ 16 分",
-   "hn": "https://news.ycombinator.com/item?id=50608604"
+   "metric": "▲ 27 分",
+   "hn": "https://news.ycombinator.com/item?id=50637995"
   },
   {
    "source": "Hacker News",
-   "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
-   "url": "https://hermitcrm.io/",
+   "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+   "url": "https://joonoo.art/create-comic",
    "desc": "",
-   "metric": "▲ 49 分",
-   "hn": "https://news.ycombinator.com/item?id=50609708"
+   "metric": "▲ 20 分",
+   "hn": "https://news.ycombinator.com/item?id=50631791"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+   "url": "https://www.rchive.computer/",
+   "desc": "",
+   "metric": "▲ 45 分",
+   "hn": "https://news.ycombinator.com/item?id=50624684"
   },
   {
    "source": "Hacker News",
    "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
    "url": "https://masondata.ai/",
    "desc": "",
-   "metric": "▲ 93 分",
+   "metric": "▲ 104 分",
    "hn": "https://news.ycombinator.com/item?id=50630294"
   }
  ],
  "ranking": {
   "method": "tranco",
-  "list_id": "JZW4Y",
-  "date": "2026-11-24"
+  "list_id": "947P2",
+  "date": "2026-11-25"
  },
  "pinned_digest": [
   {
