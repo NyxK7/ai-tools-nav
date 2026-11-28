@@ -1,6 +1,6 @@
 # AI 工具导航 · 全部工具清单
 
-> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-11-27 06:57 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
+> 中文 AI 工具导航，按业务场景推荐 AI 工具。数据更新：2026-11-28 06:31 UTC。网站：https://nyxk7.github.io/ai-tools-nav/
 
 
 ## 写作
@@ -24,11 +24,11 @@
 
 - [Cursor](https://cursor.com)：AI 原生代码编辑器，对话式改代码（境外服务，国内可能无法直接使用，免费+付费）
 - [Lovable](https://lovable.dev)：描述需求即可生成可上线的 Web 应用（境外服务，国内可能无法直接使用，免费+付费）
-- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 71937）
+- [Cline](https://cline.bot)：开源 VS Code 编程智能体（开源，可本地部署，开源免费，GitHub ★ 71957）
 - [Bolt.new](https://bolt.new)：浏览器里一句话生成全栈应用（境外服务，国内可能无法直接使用，免费+付费）
 - [v0](https://v0.dev)：生成 React/Next.js 前端界面（境外服务，国内可能无法直接使用，免费+付费）
 - [Trae](https://www.trae.cn)：字节跳动推出的 AI 编程 IDE（豆包 MarsCode 编程助手已并入 Trae 插件）（国内服务，免费）
-- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 50281）
+- [Aider](https://aider.chat)：终端里的开源结对编程助手（开源，可本地部署，开源免费，GitHub ★ 50288）
 - [CodeGeeX](https://codegeex.cn)：智谱 AI 推出的多语言代码生成与补全插件（国内服务，免费）
 - [通义灵码](https://lingma.aliyun.com)：阿里云推出的 IDE 编程插件，支持代码补全与对话式编程（国内服务，免费+付费）
 - [文心快码 Comate](https://comate.baidu.com)：百度推出的智能编程助手，支持主流 IDE（国内服务，免费+付费）
@@ -38,12 +38,12 @@
 
 - [Figma](https://www.figma.com)：协作式 UI 设计工具，含 AI 功能（境外服务，国内可能无法直接使用，免费+付费）
 - [Midjourney](https://www.midjourney.com)：AI 图像生成服务（境外服务，国内可能无法直接使用，付费）
-- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 148813）
+- [ComfyUI](https://www.comfy.org)：节点式开源图像/视频生成工作流（开源，可本地部署，开源免费，GitHub ★ 148956）
 - [Canva 可画](https://www.canva.cn)：在线设计平台（中国版），内置 AI 生成与编辑（国内服务，免费+付费）
 - [稿定设计](https://www.gaoding.com)：在线平面设计平台，提供 AI 生成与编辑功能（国内服务，免费+付费）
 - [LiblibAI 哩布哩布](https://www.liblib.art)：AI 绘画模型分享与在线生图平台（国内服务，免费+付费）
 - [美图设计室](https://www.x-design.com)：美图推出的 AI 商业设计工具，支持抠图、海报与商品图（国内服务，免费+付费）
-- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165391）
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：本地运行的开源图像生成界面（开源，可本地部署，开源免费，GitHub ★ 165397）
 - [即梦 AI](https://jimeng.jianying.com)：字节跳动旗下的 AI 图片与视频创作平台（国内服务，免费+付费）
 
 ## 视频
@@ -62,12 +62,12 @@
 - [ElevenLabs](https://elevenlabs.io)：语音合成与声音克隆服务（境外服务，国内可能无法直接使用，免费+付费）
 - [讯飞听见](https://www.iflyrec.com)：科大讯飞推出的录音转文字、会议记录与翻译服务（国内服务，免费+付费）
 - [魔音工坊](https://www.moyin.com)：AI 配音平台，适用于短视频与有声内容（国内服务，免费+付费）
-- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 113615）
+- [Whisper](https://github.com/openai/whisper)：开源语音识别与转写模型（开源，可本地部署，开源免费，GitHub ★ 113608）
 
 ## 游戏开发
 
 - [Meshy](https://www.meshy.ai)：文本/图片生成 3D 模型（境外服务，国内可能无法直接使用，免费+付费）
-- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 120904）
+- [Godot](https://godotengine.org)：开源游戏引擎，适合配合 AI 写代码（开源，可本地部署，开源免费，GitHub ★ 120982）
 - [Scenario](https://www.scenario.com)：风格一致的游戏美术素材生成（境外服务，国内可能无法直接使用，付费）
 - [Rosebud AI](https://rosebud.ai)：用自然语言生成可玩的网页游戏（境外服务，国内可能无法直接使用，免费+付费）
 - [腾讯混元 3D](https://3d.hunyuan.tencent.com)：腾讯推出的文本/图片生成 3D 模型工具（国内服务，免费+付费）
@@ -75,11 +75,11 @@
 ## 智能体/自动化
 
 - [Zapier](https://zapier.com)：连接数千应用的自动化平台（境外服务，国内可能无法直接使用，免费+付费）
-- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 212368）
-- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 150056）
+- [n8n](https://n8n.io)：开源工作流自动化，可接入 AI 节点（开源，可本地部署，开源/付费，GitHub ★ 212352）
+- [LangChain](https://www.langchain.com)：构建 LLM 应用与智能体的开源框架（开源，可本地部署，开源免费，GitHub ★ 150092）
 - [Coze 扣子](https://www.coze.cn)：零代码搭建 AI 智能体与机器人（国内服务，免费+付费）
-- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 161981）
-- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 7849）
+- [Dify](https://dify.ai)：开源 LLM 应用与智能体搭建平台（开源，可本地部署，开源/付费，GitHub ★ 162036）
+- [Orkas](https://orkas.ai)：开源本地优先的桌面多 Agent 应用：给目标和项目资料，由 Commander 协调专业 Agent，交付调研简报、文档、演示稿等；支持官方模型或自接模型（macOS/Windows）（开源，可本地部署，开源免费（模型调用可能收费），GitHub ★ 8129）
 
 ## 办公效率
 
@@ -96,35 +96,36 @@
 ## 客服营销
 
 - [Jasper](https://www.jasper.ai)：营销文案与品牌内容生成（境外服务，国内可能无法直接使用，付费）
-- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 40659）
+- [Chatwoot](https://www.chatwoot.com)：开源全渠道客服平台，支持 AI（开源，可本地部署，开源/付费，GitHub ★ 40704）
 - [Intercom Fin](https://www.intercom.com/fin)：AI 客服机器人自动回答客户问题（境外服务，国内可能无法直接使用，付费）
 
 ## 热门排行榜（依据 Tranco 网站流行度排名，其后为 GitHub Star 数）
 
 1. ChatGPT（写作）— Tranco #109
-2. Claude（写作）— Tranco #392
-3. DeepSeek（写作）— Tranco #701
-4. Figma（图像设计）— Tranco #876
-5. Perplexity（办公效率）— Tranco #972
-6. 飞书智能伙伴（办公效率）— Tranco #2,047
-7. Cursor（编程/Vibe coding）— Tranco #2,317
-8. 豆包（写作）— Tranco #2,470
-9. Zapier（智能体/自动化）— Tranco #3,003
-10. Suno（音频）— Tranco #3,147
-11. ElevenLabs（音频）— Tranco #3,173
-12. Lovable（编程/Vibe coding）— Tranco #3,626
-13. Gamma（办公效率）— Tranco #3,925
-14. 钉钉 AI（办公效率）— Tranco #4,152
-15. Midjourney（图像设计）— Tranco #4,679
-16. n8n（智能体/自动化）— Tranco #5,333
-17. Runway（视频）— Tranco #5,402
-18. Kimi（写作）— Tranco #6,298
-19. 通义千问（千问）（写作）— Tranco #9,367
-20. Cline（编程/Vibe coding）— Tranco #11,021
+2. Claude（写作）— Tranco #394
+3. DeepSeek（写作）— Tranco #704
+4. Figma（图像设计）— Tranco #877
+5. Perplexity（办公效率）— Tranco #969
+6. 飞书智能伙伴（办公效率）— Tranco #2,044
+7. Cursor（编程/Vibe coding）— Tranco #2,298
+8. 豆包（写作）— Tranco #2,493
+9. Zapier（智能体/自动化）— Tranco #3,002
+10. Suno（音频）— Tranco #3,120
+11. ElevenLabs（音频）— Tranco #3,162
+12. Lovable（编程/Vibe coding）— Tranco #3,615
+13. Gamma（办公效率）— Tranco #3,928
+14. 钉钉 AI（办公效率）— Tranco #4,196
+15. Midjourney（图像设计）— Tranco #4,658
+16. n8n（智能体/自动化）— Tranco #5,313
+17. Runway（视频）— Tranco #5,392
+18. Kimi（写作）— Tranco #6,286
+19. 通义千问（千问）（写作）— Tranco #9,423
+20. Cline（编程/Vibe coding）— Tranco #11,011
 
-## 每日新品快报（2026-11-27）
+## 每日新品快报（2026-11-28）
 
-- [7wdn/7paws](https://github.com/7wdn/7paws)（GitHub，★ 141）Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。
-- [dxu1570/ai-session-suite](https://github.com/dxu1570/ai-session-suite)（GitHub，★ 66）Session rotation suite for ALL AI services — one binary.
-- [matsumoto4039/old-photo-life](https://github.com/matsumoto4039/old-photo-life)（GitHub，★ 66）AI Old Photo Animate — animate and animation in one tool.
-- [HimanshuMohanty-Git24/upasarathi](https://github.com/HimanshuMohanty-Git24/upasarathi)（GitHub，★ 53）UpaSārathi (उपसारथि): the 13 Principal Upanishads as a knowledge graph you can read, hear and ask, and a harness that tests whether AI tells you what you want t
+- [7wdn/7paws](https://github.com/7wdn/7paws)（GitHub，★ 163）Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。
+- [thebodytheory01-commits/final-round-ai-desktop](https://github.com/thebodytheory01-commits/final-round-ai-desktop)（GitHub，★ 123）Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions
+- [SenpaiSpide664/ai-visual-prompt-cookbook](https://github.com/SenpaiSpide664/ai-visual-prompt-cookbook)（GitHub，★ 123）AI Visual Prompt Cookbook: Reusable JSON Style Prompts for Consistent Image Generation
+- [dxu1570/ai-session-suite](https://github.com/dxu1570/ai-session-suite)（GitHub，★ 65）Session rotation suite for ALL AI services — one binary.
+- [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)（Hacker News，▲ 352 分）
